@@ -1,0 +1,45 @@
+title: Как красить миниатюры
+href: index.yaml
+items: 
+  - name: Инвентарь для покраски
+    href: inventory.md
+  - name: Разведение краски
+    href: thinning.md
+  - name: Советы
+    href: advices.md
+  - name: Citadel Style
+    href: citadel-style.md
+  - name: Гризайль
+    href: contrast.md
+  - name: Наслаивание
+    href: layering.md
+  - name: Эдж хайлайт 
+    href: edge-highlighting.md
+  - name: Рецесс шейдинг
+    href: recess-shading.md
+  - name: Зенитальный хайлайтинг
+    href: zenithal-highlighting.md
+  - name: Объемный скетч
+    href: value-sketch.md
+  - name: Настоящий металл 
+    href: true-metallic-metal.md
+  - name: Не металлический металл
+    href: non-metalic-metal.md
+  - name: Растушевка
+    href: feathering.md
+  - name: Лессировка
+    href: glazing.md
+  - name: Точечная штриховка
+    href: stippling.md
+  - name: Драйбраш
+    href: drybrush.md
+  - name: Влажное смешивание
+    href: wet-blending.md
+  - name: Декали
+    href: decals.md
+  - name: Аэрограф
+    href: airbrush.md
+  - name: Контакты
+    href: contacts.md
+  - name: Источники
+    href: references.md

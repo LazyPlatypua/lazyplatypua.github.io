@@ -1,3 +1,8 @@
+Документация для хранения и распространения инструкций для покраски миниатюр. 
+
+Документация создана на основе Diplodoc.
+
+
 # Documentation Template created by Diplodoc
 
 Features:
