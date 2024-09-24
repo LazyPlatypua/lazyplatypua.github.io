@@ -28,4 +28,11 @@
     yfm -i D:\Документы\Painting\paint-guide-docs\docs -o D:\Документы\Painting\paint-guide-docs\docs-gen
     ```
 
-4. 
+4. Закомитьте собранную документиацию:
+   
+   * [при помощи GitHub Desktop](https://docs.github.com/en/desktop/making-changes-in-a-branch/committing-and-reviewing-changes-to-your-project-in-github-desktop#write-a-commit-message-and-push-your-changes);
+   * [при помощи Git](https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository).
+
+   После добавления изменений в репозиторий, в разделе [Actions](https://github.com/LazyPlatypua/LazyPlatypua.github.io/actions) запустится сборка.
+
+5. На вкладке [Actions](https://github.com/LazyPlatypua/LazyPlatypua.github.io/actions) нажмите на название коммита. После завершения сборки, документ будет размещен на GitHub Pages. Посмотреть его можно по ссылке ниже под надписью **deploy**.
