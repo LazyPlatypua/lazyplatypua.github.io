@@ -2,6 +2,8 @@
 
 Документация создана на основе [Diplodoc](https://diplodoc.com/ru) и [GitHub Pages](https://pages.github.com/).
 
+[Актуальная версия документации](https://lazyplatypua.github.io/miniature-painting/index.html)
+
 ## Собрать документ
 
 Для сборки документа:
