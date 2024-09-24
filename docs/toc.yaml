@@ -19,6 +19,8 @@ items:
         href: styles/citadel-style.md
       - name: Гризайль
         href: styles/contrast.md
+      - name: Покраска армий
+        href: styles/army-painting.md
   - name: Методы
     items: 
       - name: Обзор
