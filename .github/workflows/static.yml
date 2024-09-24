@@ -37,7 +37,7 @@ jobs:
         uses: diplodoc-platform/docs-build-action@v3
         with:
           src-root: './docs'
-          build-root: './docs-gen'
+          build-root: './miniature-painting'
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
