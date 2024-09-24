@@ -1,45 +1,31 @@
 Документация для хранения и распространения инструкций для покраски миниатюр. Над документом работаю толяько я в свободное от работы время, так что обновления не регулярны.
 
-Документация создана на основе Diplodoc.
+Документация создана на основе [Diplodoc](https://diplodoc.com/ru) и [GitHub Pages](https://pages.github.com/).
 
+## Собрать документ
 
-# Documentation Template created by Diplodoc
+Для сборки документа:
 
-Features:
+1. Установите [Node.js](https://nodejs.org/en/download/prebuilt-installer).
+2. Установите [Builder](https://diplodoc.com/docs/ru/tools/docs/) при помощи команды:
 
-- initial project structure
-- dev server with hot reload
-- codespaces support
-- vscode tutorial via code tours
+    ```
+    npm i @diplodoc/cli -g
+    ```
 
-## Initial project structure
+3. Соберите документ при помощи команды:
+    ```
+    yfm -i .\paint-guide-docs\docs -o .\paint-guide-docs\docs-gen
+    ```
 
-Initiatl project structure with basic content can be found within your public github repo "diplodoc-example/docs" 
+    Где:
+    * `\paint-guide-docs\docs, -i` — путь до директории проекта;
+    * `\paint-guide-docs\docs-gen, -o` — путь до директории, предназначенной для выходных данных (статических HTML).
 
-## Usage
+    Пример:
 
-### Run locally by cloning repo:
+    ```
+    yfm -i D:\Документы\Painting\paint-guide-docs\docs -o D:\Документы\Painting\paint-guide-docs\docs-gen
+    ```
 
-```
-> git clone git@github.com:diplodoc-platform/documentation-template.git
-
-> cd documentation-template
-
-> npm start
-
-> listening on 0.0.0.0:8000
-
-```
-now you have development server with hot reload runing and serving built documentation on `0.0.0.0:8000`
-
-### github codespaces
-
-press Use this template -> Open in a codespace
-
-![open in a codespace](images/open-in-a-codespace.jpeg)
-
-wait for the development server startup
-
-enjoy developing documentation with html result preview in split view
-
-![codespaces project](images/codespaces-project.jpeg)
+4. 
