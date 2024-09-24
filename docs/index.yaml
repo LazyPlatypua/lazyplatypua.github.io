@@ -1,45 +1,24 @@
 title: Как красить миниатюры
 description: Узнайте про техники и познакомьтесь с советами для покраски миниатюр. 
 links:
-  - title: Инвентарь для покраски
-    href: inventory.md
-  - title: Разведение краски
-    href: thinning.md
+  - title: Начало работы
+    description: Как быстро, дешево и эффективно начать покраску миниатюр
+    href: quickstart/index.yaml
   - title: Советы
+    description:  Небольшие уловки и рекомендации
     href: advices.md
-  - title: Citadel Style
-    href: citadel-style.md
-  - title: Гризайль
-    href: contrast.md
-  - title: Наслаивание
-    href: layering.md
-  - title: Эдж хайлайт 
-    href: edge-highlighting.md
-  - title: Рецесс шейдинг
-    href: recess-shading.md
-  - title: Зенитальный хайлайтинг
-    href: zenithal-highlighting.md
-  - title: Объемный скетч
-    href: value-sketch.md
-  - title: Настоящий металл 
-    href: true-metallic-metal.md
-  - title: Не металлический металл
-    href: non-metalic-metal.md
-  - title: Растушевка
-    href: feathering.md
-  - title: Лессировка
-    href: glazing.md
-  - title: Точечная штриховка
-    href: stippling.md
-  - title: Драйбраш
-    href: drybrush.md
-  - title: Влажное смешивание
-    href: wet-blending.md
-  - title: Декали
-    href: decals.md
+  - title: Стили
+    description: Инструкции для разных результатов
+    href: styles/index.yaml
+  - title: Методы
+    description: Способы покраски миниатюр
+    href: methods/index.yaml
   - title: Аэрограф
+    description: Как работать с металличсекой кистью
     href: airbrush.md
   - title: Контакты
+    description: Кеому писать для обратной связи
     href: contacts.md
   - title: Источники
+    description: откуда была взята информация и картинки для документа
     href: references.md

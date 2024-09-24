@@ -1,0 +1,7 @@
+title: Начало работы
+description: Как быстро, дешево и эффективно начать покраску миниатюр
+links:
+  - title: Инвентарь для покраски
+    href: inventory.md
+  - title: Разведение краски
+    href: thinning.md
