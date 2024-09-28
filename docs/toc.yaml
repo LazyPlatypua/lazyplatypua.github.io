@@ -1,10 +1,12 @@
 title: Как красить миниатюры
 href: index.yaml
 items: 
-  - name: Быстрый старт
+  - name: Начать красить
     items:
       - name: Обзор
         href: quickstart/index.yaml
+      - name: Зачем красить миниатюры
+        href: quickstart/about.md
       - name: Инвентарь для покраски
         href: quickstart/inventory.md
       - name: Разведение краски
