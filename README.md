@@ -37,4 +37,4 @@
 
    После добавления изменений в репозиторий, в разделе [Actions](https://github.com/LazyPlatypua/LazyPlatypua.github.io/actions) запустится сборка.
 
-5. На вкладке [Actions](https://github.com/LazyPlatypua/LazyPlatypua.github.io/actions) нажмите на название коммита. После завершения сборки, документ будет размещен на GitHub Pages. Посмотреть его можно по ссылке ниже под надписью **deploy**.
+5. На вкладке [Actions](https://github.com/LazyPlatypua/LazyPlatypua.github.io/actions) нажмите на название коммита. После завершения сборки, документ будет размещен на GitHub Pages. Посмотреть его можно по ссылке под надписью **deploy**.
