@@ -7,6 +7,10 @@ items:
         href: quickstart/index.yaml
       - name: Зачем красить миниатюры
         href: quickstart/about.md
+      - name: Как начать
+        href: quickstart/how-to-start.md
+      - name: Подготовить модель
+        href: quickstart/preparation.md
       - name: Инвентарь для покраски
         href: quickstart/inventory.md
       - name: Разведение краски
