@@ -1,24 +1,24 @@
 title: Как красить миниатюры
-description: Узнайте про техники и познакомьтесь с советами для покраски миниатюр. 
+description: Привет! Это сборник различных методов, техник и советов от всего сообшества покраски минитюр по всему миру. Откуда была взята информация, см. в разделе «Источники».
 links:
   - title: Начать красить
-    description: Как быстро, дешево и эффективно приступить к покраске миниатюр
+    description: Как быстро, дешево и эффективно приступить к покраске миниатюр.
     href: quickstart/index.yaml
   - title: Советы
-    description:  Небольшие уловки и рекомендации
-    href: advices.md
+    description:  Небольшие уловки и рекомендации.
+    href: advices/index.yaml
   - title: Стили
-    description: Инструкции для разных результатов
+    description: Инструкции для разных результатов.
     href: styles/index.yaml
   - title: Методы
-    description: Способы покраски миниатюр
+    description: Способы покраски миниатюр.
     href: methods/index.yaml
   - title: Аэрограф
     description: Как работать с металличсекой кистью
     href: airbrush.md
   - title: Контакты
-    description: Кеому писать для обратной связи
+    description: Кому писать для обратной связи.
     href: contacts.md
   - title: Источники
-    description: откуда была взята информация и картинки для документа
+    description: Откуда была взята информация и картинки для документа.
     href: references.md

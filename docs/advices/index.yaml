@@ -1,0 +1,7 @@
+title: Советы
+description: Небольшие мудрости для улучшения ваших навыков
+links:
+  - title: Как улучшить свои работы
+    href: positive.md
+  - title: Вредные советы
+    href: negative.md

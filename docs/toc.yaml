@@ -16,7 +16,13 @@ items:
       - name: Разведение краски
         href: quickstart/thinning.md
   - name: Советы
-    href: advices.md
+    items: 
+      - name: Обзор
+        href: advices/index.yaml
+      - name: Как улучшить свои работы
+        href: advices/positive.md
+      - name: Вредные советы
+        href: advices/negative.md
   - name: Стили
     items:
       - name: Обзор
