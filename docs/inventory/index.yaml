@@ -1,0 +1,23 @@
+title: Инвентарь для покраски
+description: Какие инструменты вам могут понадобиться
+links:
+  - title: Кисти
+    href: brushes.md
+  - title: Краски
+    href: paint.md
+  - title: Палитра
+    href: palette.md
+  - title: Освещение
+    href: light.md
+  - title: Держалка
+    href: handle.md
+  - title: Аэрограф
+    href: airbrush.md
+  - title: Стул
+    href: chair.md
+  - title: Стол
+    href: table.md
+  - title: Стакан с водой
+    href: glass.md
+  - title: Бумажное полотенце
+    href: paper-towel.md

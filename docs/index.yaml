@@ -13,9 +13,9 @@ links:
   - title: Методы
     description: Способы покраски миниатюр.
     href: methods/index.yaml
-  - title: Аэрограф
-    description: Как работать с металличсекой кистью
-    href: airbrush.md
+  - title: Инвентарь
+    description: Какие инструменты вам могут понадобиться
+    href: inventory/index.yaml
   - title: Контакты
     description: Кому писать для обратной связи.
     href: contacts.md

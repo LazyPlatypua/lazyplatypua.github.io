@@ -5,7 +5,7 @@ links:
     href: about.md
   - title: Как начать
     href: how-to-start.md
-  - title: Инвентарь для покраски
-    href: inventory.md
+  - name: Подготовить модель
+    href: preparation.md
   - title: Разведение краски
     href: thinning.md

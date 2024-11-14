@@ -2,69 +2,15 @@ title: Как красить миниатюры
 href: index.yaml
 items: 
   - name: Начать красить
-    items:
-      - name: Обзор
-        href: quickstart/index.yaml
-      - name: Зачем красить миниатюры
-        href: quickstart/about.md
-      - name: Как начать
-        href: quickstart/how-to-start.md
-      - name: Подготовить модель
-        href: quickstart/preparation.md
-      - name: Инвентарь для покраски
-        href: quickstart/inventory.md
-      - name: Разведение краски
-        href: quickstart/thinning.md
+    include: { mode: link, path: quickstart/toc.yaml }
   - name: Советы
-    items: 
-      - name: Обзор
-        href: advices/index.yaml
-      - name: Как улучшить свои работы
-        href: advices/positive.md
-      - name: Вредные советы
-        href: advices/negative.md
+    include: { mode: link, path: advices/toc.yaml }
   - name: Стили
-    items:
-      - name: Обзор
-        href: styles/index.yaml
-      - name: Citadel Style
-        href: styles/citadel-style.md
-      - name: Гризайль
-        href: styles/contrast.md
-      - name: Покраска армий
-        href: styles/army-painting.md
+    include: { mode: link, path: styles/toc.yaml }
   - name: Методы
-    items: 
-      - name: Обзор
-        href: methods/index.yaml
-      - name: Наслаивание
-        href: methods/layering.md
-      - name: Эдж хайлайт 
-        href: methods/edge-highlighting.md
-      - name: Рецесс шейдинг
-        href: methods/recess-shading.md
-      - name: Зенитальный хайлайтинг
-        href: methods/zenithal-highlighting.md
-      - name: Объемный скетч
-        href: methods/value-sketch.md
-      - name: Настоящий металл 
-        href: methods/true-metallic-metal.md
-      - name: Не металлический металл
-        href: methods/non-metalic-metal.md
-      - name: Растушевка
-        href: methods/feathering.md
-      - name: Лессировка
-        href: methods/glazing.md
-      - name: Точечная штриховка
-        href: methods/stippling.md
-      - name: Драйбраш
-        href: methods/drybrush.md
-      - name: Влажное смешивание
-        href: methods/wet-blending.md
-      - name: Декали
-        href: methods/decals.md
-  - name: Аэрограф
-    href: airbrush.md
+    include: { mode: link, path: methods/toc.yaml }
+  - name: Инвентарь
+    include: { mode: link, path: inventory/toc.yaml }
   - name: Контакты
     href: contacts.md
   - name: Источники

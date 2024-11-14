@@ -1,0 +1,11 @@
+title: Стили
+href: index.yaml
+items: 
+  - name: Обзор
+    href: index.yaml
+  - name: Citadel Style
+    href: citadel-style.md
+  - name: Гризайль
+    href: contrast.md
+  - name: Покраска армий
+    href: army-painting.md
