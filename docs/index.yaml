@@ -13,6 +13,9 @@ links:
   - title: Методы
     description: Способы покраски миниатюр.
     href: methods/index.yaml
+  - title: Пошаговые инструкции
+    description: Покраска конкретных миниатюр
+    href: step-by-step/index.yaml
   - title: Инвентарь
     description: Какие инструменты вам могут понадобиться
     href: inventory/index.yaml
