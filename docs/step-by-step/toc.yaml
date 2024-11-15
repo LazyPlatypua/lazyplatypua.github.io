@@ -1,0 +1,6 @@
+title: Пошаговые инструкции
+items: 
+  - name: Обзор
+    href: index.yaml
+  - name: Клановые крысы
+    href: skaven-clanrats.md
