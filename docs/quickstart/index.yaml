@@ -1,11 +1,11 @@
 title: Начать красить
-description: Как быстро, дешево и эффективно приступить к покраске миниатюр
+description: Как быстро, дешево и эффективно приступить к росписи миниатюр.
 links:
-  - title: Зачем красить миниатюры
-    href: about.md
   - title: Как начать
     href: how-to-start.md
-  - name: Подготовить модель
-    href: preparation.md
-  - title: Разведение краски
+  - title: Стартовый инвентарь
+    href: inventory.md
+  - title: Подготовить модель
+    href: preparation/index.yaml
+  - title: Развести краску
     href: thinning.md

@@ -13,6 +13,8 @@ items:
     include: { mode: link, path: step-by-step/toc.yaml }
   - name: Инвентарь
     include: { mode: link, path: inventory/toc.yaml }
+  - name: Оформление баз
+    include: { mode: link, path: bases/toc.yaml }
   - name: Контакты
     href: contacts.md
   - name: Источники
