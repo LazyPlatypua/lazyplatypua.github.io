@@ -5,7 +5,7 @@
 - [youtube.com/@VinceVenturella](https://www.youtube.com/@VinceVenturella) — невероятное количество и глубина инструкций разных методов (Дата обращения: 06.04.2024)
 - [youtube.com/@Miniac](https://www.youtube.com/@Miniac) — глубокие инструкции с хорошим сопровождающим видео (Дата обращения: 18.05.2024)
 - [youtube.com/@Zumikito](https://www.youtube.com/@Zumikito) — быстрые инструкции (Дата обращения: 18.05.2024)
-- [youtube.com/@ArtisOpus](https://www.youtube.com/@ArtisOpus) — инструкции по драйбрашу (Дата обращения: 18.05.2024)
+- [youtube.com/@ArtisOpus](https://www.youtube.com/@ArtisOpus) — инструкции по сухой кисти (Дата обращения: 18.05.2024)
 - [youtube.com/@MattsHobbyHour](https://www.youtube.com/@MattsHobbyHour) — инструкции (Дата обращения: 04.11.2024)
 - [youtube.com/@MarcoFrisoniNJM](https://www.youtube.com/@MarcoFrisoniNJM) — инструкции по работе с масляными красками и красками для гризайля (Дата обращения: 04.11.2024)
 - [youtube.com/@GoobertownHobbies](https://www.youtube.com/@GoobertownHobbies) — много полезной информации по химии пластиков, смол и жидкостей (Дата обращения: 27.11.2024)

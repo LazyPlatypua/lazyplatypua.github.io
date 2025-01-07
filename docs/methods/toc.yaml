@@ -4,11 +4,11 @@ items:
     href: index.yaml
   - name: Наслаивание
     href: layering.md
-  - name: Эдж хайлайт 
+  - name: Высветление краев
     href: edge-highlighting.md
   - name: Рецесс шейдинг
     href: recess-shading.md
-  - name: Зенитальный хайлайтинг
+  - name: Зенитальное высветление
     href: zenithal-highlighting.md
   - name: Объемный скетч
     href: value-sketch.md
@@ -22,7 +22,7 @@ items:
     href: glazing.md
   - name: Точечная штриховка
     href: stippling.md
-  - name: Драйбраш
+  - name: Сухая кисть
     href: drybrush.md
   - name: Влажное смешивание
     href: wet-blending.md

@@ -3,11 +3,11 @@ description: Разные полезные техники
 links:
   - title: Наслаивание
     href: layering.md
-  - title: Эдж хайлайт 
+  - title: Высветление краев
     href: edge-highlighting.md
   - title: Рецесс шейдинг
     href: recess-shading.md
-  - title: Зенитальный хайлайтинг
+  - title: Зенитальное высветление
     href: zenithal-highlighting.md
   - title: Объемный скетч
     href: value-sketch.md
@@ -21,7 +21,7 @@ links:
     href: glazing.md
   - title: Точечная штриховка
     href: stippling.md
-  - title: Драйбраш
+  - title: Сухая кисть
     href: drybrush.md
   - title: Влажное смешивание
     href: wet-blending.md
