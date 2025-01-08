@@ -1,0 +1,13 @@
+title: Начать красить
+items: 
+  - name: Обзор
+    href: index.yaml
+  - name: Материалы
+    href: materials.md
+  - name: Инструменты
+    href: inventory.md
+
+  - name: Подготовить пластиковую модель
+    href: plastic-model.md
+  - name: Загрунтовать модель
+    href: priming.md

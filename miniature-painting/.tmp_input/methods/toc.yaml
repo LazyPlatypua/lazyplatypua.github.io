@@ -1,0 +1,30 @@
+title: Методы
+items: 
+  - name: Обзор
+    href: index.yaml
+  - name: Наслаивание
+    href: layering.md
+  - name: Высветление краев
+    href: edge-highlighting.md
+  - name: Затемнение углублений
+    href: recess-shading.md
+  - name: Зенитальное высветление
+    href: zenithal-highlighting.md
+  - name: Объемный скетч
+    href: value-sketch.md
+  - name: Настоящий металл 
+    href: true-metallic-metal.md
+  - name: Не металлический металл
+    href: non-metalic-metal.md
+  - name: Растушевка
+    href: feathering.md
+  - name: Лессировка
+    href: glazing.md
+  - name: Точечная штриховка
+    href: stippling.md
+  - name: Сухая кисть
+    href: drybrush.md
+  - name: Влажное смешивание
+    href: wet-blending.md
+  - name: Декали
+    href: decals.md

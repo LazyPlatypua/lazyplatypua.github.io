@@ -1,0 +1,12 @@
+title: Начать красить
+items: 
+  - name: Обзор
+    href: index.yaml
+  - name: Как начать
+    href: how-to-start.md
+  - name: Стартовый инвентарь
+    href: inventory.md
+  - name: Подготовить модель
+    include: { mode: link, path: preparation/toc.yaml }
+  - name: Развести краску
+    href: thinning.md
