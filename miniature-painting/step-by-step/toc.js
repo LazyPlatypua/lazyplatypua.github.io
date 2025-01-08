@@ -1,1 +1,1 @@
-window.__DATA__.data.toc = {"title":"Пошаговые инструкции","items":[{"name":"Обзор","href":"step-by-step\\index.html","id":"Обзор-0-0.20519088987408263"},{"name":"Клановые крысы","href":"step-by-step\\skaven-clanrats.html","id":"Клановые крысы-1-0.8962301281430765"}]};
+window.__DATA__.data.toc = {"title":"Пошаговые инструкции","items":[{"name":"Обзор","href":"step-by-step\\index.html","id":"Обзор-0-0.6056540146792624"},{"name":"Клановые крысы","href":"step-by-step\\skaven-clanrats.html","id":"Клановые крысы-1-0.6538554659664313"}]};

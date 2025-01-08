@@ -1,6 +1,12 @@
 allowHTML: true
 breaks: true
 lang: "ru"
+
+docs-viewer:
+  project-name: miniature painting
+  langs: 'ru'
+  favicon-src: _images/favicon.ico
+
 search: 
   provider: local
   toleranse: 2
