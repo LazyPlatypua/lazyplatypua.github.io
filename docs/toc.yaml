@@ -1,7 +1,7 @@
 href: index.yaml
 navigation: 
   logo:
-    url: 'https://lazyplatypua.github.io/'
+    url: 'index.html'
     dark:
       icon: '_images/logo.svg'
       urlTitle: 'Вернуться на главную'

@@ -6,8 +6,5 @@ docs-viewer:
   project-name: miniature painting
   langs: 'ru'
   favicon-src: https://storage.yandexcloud.net/miniature-painting/favicon.ico
-  
-search: 
-  provider: local
-  toleranse: 2
-  confidense: phrased
+
+search: true
