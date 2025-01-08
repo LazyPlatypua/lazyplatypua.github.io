@@ -22,9 +22,3 @@ links:
   - title: Оформление баз
     description: Как сделать он для вашей миниатюры
     href: bases/index.yaml
-  - title: Контакты
-    description: Кому писать для обратной связи.
-    href: contacts.md
-  - title: Источники
-    description: Откуда была взята информация и картинки для документа.
-    href: references.md

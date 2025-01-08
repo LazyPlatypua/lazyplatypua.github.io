@@ -1,0 +1,1 @@
+window.__DATA__.data.toc = {"title":"Пошаговые инструкции","items":[{"name":"Обзор","href":"step-by-step\\index.html","id":"Обзор-0-0.9757427930783109"},{"name":"Клановые крысы","href":"step-by-step\\skaven-clanrats.html","id":"Клановые крысы-1-0.8835729293136922"}]};

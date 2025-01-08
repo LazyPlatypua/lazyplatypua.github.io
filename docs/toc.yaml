@@ -1,5 +1,27 @@
-title: Как красить миниатюры
 href: index.yaml
+navigation: 
+  logo:
+    url: 'https://lazyplatypua.github.io/'
+    dark:
+      icon: '_images/logo.svg'
+      urlTitle: 'Вернуться на главную'
+      text: 'Роспись миниатюр'
+    light:
+      icon: '_images/logo.svg'
+      text: 'Роспись миниатюр'
+  header:
+    leftItems:
+      - text: 'GitHub'
+        type: 'link'
+        url: 'https://github.com/LazyPlatypua/LazyPlatypua.github.io'
+      - text: 'Контакты'
+        type: 'link'
+        url: 'contacts.html'
+      - text: 'Источники'
+        type: 'link'
+        url: 'references.html'
+    rightItems:
+      - type: controls
 items: 
   - name: Начать красить
     include: { mode: link, path: quickstart/toc.yaml }
@@ -16,6 +38,8 @@ items:
   - name: Оформление баз
     include: { mode: link, path: bases/toc.yaml }
   - name: Контакты
+    hidden: true
     href: contacts.md
   - name: Источники
+    hidden: true
     href: references.md

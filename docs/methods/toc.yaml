@@ -6,7 +6,7 @@ items:
     href: layering.md
   - name: Высветление краев
     href: edge-highlighting.md
-  - name: Рецесс шейдинг
+  - name: Затемнение углублений
     href: recess-shading.md
   - name: Зенитальное высветление
     href: zenithal-highlighting.md
