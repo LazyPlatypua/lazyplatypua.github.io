@@ -5,7 +5,7 @@ lang: "ru"
 docs-viewer:
   project-name: miniature painting
   langs: 'ru'
-  favicon-src: _images/favicon.ico
+  favicon-src: https://github.com/LazyPlatypua/LazyPlatypua.github.io/blob/main/docs/_images/favicon.ico
 
 search: 
   provider: local
