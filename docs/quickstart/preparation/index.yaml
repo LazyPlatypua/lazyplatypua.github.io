@@ -1,11 +1,11 @@
-title: Подготовить модель
-description: Как подготовить модель перед началом росписи.
+title: Подготовить миниатюру
+description: Как подготовить миниатюру перед началом росписи.
 links:
-  - title: Материалы
+  - title: Материалы миниатюр
     href: materials.md
-  - title: Инструменты
+  - title: Инструменты для подготовки
     href: inventory.md
-  - title: Подготовка пластиковой модели
+  - title: Подготовка пластиковой миниатюры
     href: plastic-model.md
   - title: Грунтовка
     href: priming.md

@@ -2,12 +2,11 @@ title: Начать красить
 items: 
   - name: Обзор
     href: index.yaml
-  - name: Материалы
+  - name: Материалы миниатюр
     href: materials.md
-  - name: Инструменты
+  - name: Инструменты для подготовки
     href: inventory.md
-
-  - name: Подготовить пластиковую модель
+  - name: Подготовить пластиковую миниатюру
     href: plastic-model.md
-  - name: Загрунтовать модель
+  - name: Загрунтовать миниатюру
     href: priming.md

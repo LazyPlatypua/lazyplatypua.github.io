@@ -6,7 +6,7 @@ items:
     href: how-to-start.md
   - name: Стартовый инвентарь
     href: inventory.md
-  - name: Подготовить модель
+  - name: Подготовить миниатюру
     include: { mode: link, path: preparation/toc.yaml }
   - name: Развести краску
     href: thinning.md

@@ -5,6 +5,6 @@ lang: "ru"
 docs-viewer:
   project-name: miniature painting
   langs: 'ru'
-  favicon-src: ./_images/favicon.ico
+  favicon-src: _images/favicon.ico
   
 search: true
