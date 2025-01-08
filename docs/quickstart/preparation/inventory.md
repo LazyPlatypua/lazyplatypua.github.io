@@ -18,7 +18,7 @@
 || **Эпоксидный пластилин**| {% include [Эпоксидный пластилин](../../_includes/inventory/greenstuff.md) %}
 
 |{% include [Эпоксидный пластилин](../../_includes/inventory/greenstuff-items.md) %} ||
-||**Латексная кисть**  | {% include [Латексная кисть](../../_includes/inventory/latex-brush.md) %} |
+||**Латексная кисть** | {% include [Латексная кисть](../../_includes/inventory/latex-brush.md) %} |
 {% include [Латексная кисть](../../_includes/inventory/latex-brush-items.md) %} ||
 |#
 

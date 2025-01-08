@@ -5,7 +5,7 @@ links:
     description: Как быстро, дешево и эффективно приступить к росписи миниатюр.
     href: quickstart/index.yaml
   - title: Советы
-    description:  Небольшие уловки и рекомендации.
+    description: Небольшие уловки и рекомендации.
     href: advices/index.yaml
   - title: Стили
     description: Инструкции для разных результатов.

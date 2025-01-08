@@ -90,21 +90,21 @@
 
    5. Мех: The Army Painter Speed Paint Grim Black.
 
-        ![grim-black.jpg](../_images/painting-skaven/grim-black.jpg =600x)  
+        ![grim-black.jpg](../_images/painting-skaven/grim-black.jpg =600x) 
 
    6. Метал: Vallejo Game Color Metallic Chainmail.
 
-        ![chainmail.jpg](../_images/painting-skaven/chainmail.jpg =600x)  
+        ![chainmail.jpg](../_images/painting-skaven/chainmail.jpg =600x) 
 
    7. Зубы, пояса, глаза и когти: Vallejo Model Color Ivory.
 
-        ![ivory.jpg](../_images/painting-skaven/ivory.jpg =600x)   
+        ![ivory.jpg](../_images/painting-skaven/ivory.jpg =600x) 
 
    8. Резцы: AK Interactive Light Rust.
    9. Носы: AK Interactive Brown Rose.
    10. Мешочки: Vallejo Game Color Aquamarine.
 
-        ![aquamarine.jpg](../_images/painting-skaven/aquamarine.jpg =600x)   
+        ![aquamarine.jpg](../_images/painting-skaven/aquamarine.jpg =600x) 
 
 7. Используйте масляные проливки, чтобы сделать тени. Смешайте краску с разбавителем, пока она не достигнет консистенции обычной акриловой краски и добавьте на миниатюру. Вы можете потом убрать лишнюю краску, но если сильно ее разбавить, то она распадется на отдельные пигменты. 
    
@@ -122,15 +122,15 @@
    * Железо — черный.
    * Кожа, зубы и клыки — коричневый.
   
-   ![oil.jpg](../_images/painting-skaven/oil.jpg =600x)   
+   ![oil.jpg](../_images/painting-skaven/oil.jpg =600x)
 
-8.  Подождите минимум 15 минут, чтобы краска успела немного высохнуть. Тогда переходы будут более плавными, чем если бы приступили к следующему шагу сразу.
+8. Подождите минимум 15 минут, чтобы краска успела немного высохнуть. Тогда переходы будут более плавными, чем если бы приступили к следующему шагу сразу.
    
-   ![oil-wait.jpg](../_images/painting-skaven/oil.jpg =600x)  
+   ![oil-wait.jpg](../_images/painting-skaven/oil.jpg =600x)
 
-9.  Уберите лишнюю масляную краску с тех мест, куда должен падать свет. Советую использовать тканевые палочки, так как ватные будут оставлять очень много ворсинок, которые затем придется убирать.
+9. Уберите лишнюю масляную краску с тех мест, куда должен падать свет. Советую использовать тканевые палочки, так как ватные будут оставлять очень много ворсинок, которые затем придется убирать.
 
-   ![remove-oil.jpg](../_images/painting-skaven/remove-oil.jpg =600x)  
+   ![remove-oil.jpg](../_images/painting-skaven/remove-oil.jpg =600x)
 
    Вы можете закончить на этом шаге или доработать на следующих шагах.
 
@@ -170,22 +170,22 @@
     
 11. Доработайте детали.
 
-    1.  Глаза: Vallejo Model Color Dark Prussian Blue, Vallejo Game Color Ink Red, Vallejo Model Color Golden Yellow, Vallejo Game Color Ink White.
-    2.  Камни: Vallejo Game Color Wash Black + Vallejo Game Color Smokey Ink, AK Interactive Deck Tan.
+    1. Глаза: Vallejo Model Color Dark Prussian Blue, Vallejo Game Color Ink Red, Vallejo Model Color Golden Yellow, Vallejo Game Color Ink White.
+    2. Камни: Vallejo Game Color Wash Black + Vallejo Game Color Smokey Ink, AK Interactive Deck Tan.
 
         ![stone.jpg](../_images/painting-skaven/stone.jpg =600x)
 
-    3.  Крысы: Vallejo Game Color Aquamarine, Vallejo Game Color Aquamarine + Vallejo Model Color Ice Yellow, Vallejo Game Color Ink Red + Vallejo Game Color Ink White, AK Interactive Light Flesh.
+    3. Крысы: Vallejo Game Color Aquamarine, Vallejo Game Color Aquamarine + Vallejo Model Color Ice Yellow, Vallejo Game Color Ink Red + Vallejo Game Color Ink White, AK Interactive Light Flesh.
 
         ![rats.jpg](../_images/painting-skaven/rats.jpg =600x)
 
-    4.  Ржавчина: AK Interactive Enamel Liquid Pigment Vietnam Earth, AK Interactive Light Rust.
-    5.  Мох: Vallejo Game Color Cayman Green, AK Interactive Green Sky.
+    4. Ржавчина: AK Interactive Enamel Liquid Pigment Vietnam Earth, AK Interactive Light Rust.
+    5. Мох: Vallejo Game Color Cayman Green, AK Interactive Green Sky.
         
         ![metal.jpg](../_images/painting-skaven/metal.jpg =600x)
 
-    6.  Рисунки:  Vallejo Model Color Black, Vallejo Game Color Ink Red, Vallejo Game Color Ink White.
-    7.  Кровь: The Army Painter Effect Glistening Blood.
+    6. Рисунки: Vallejo Model Color Black, Vallejo Game Color Ink Red, Vallejo Game Color Ink White.
+    7. Кровь: The Army Painter Effect Glistening Blood.
 
 12. Прикрепите клановых крыс к базам.
 
