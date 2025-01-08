@@ -1,4 +1,4 @@
-Документация для хранения и распространения инструкций для покраски миниатюр. Над документом работаю толяько я в свободное от работы время, так что обновления не регулярны.
+Документация для хранения и распространения инструкций для покраски миниатюр. Над документом работает один человек в свободное от работы время, поэтому обновления не регулярны.
 
 Документация создана на основе [Diplodoc](https://diplodoc.com/ru) и [GitHub Pages](https://pages.github.com/).
 
@@ -30,7 +30,7 @@
     yfm -i D:\Документы\Painting\paint-guide-docs\docs -o D:\Документы\Painting\paint-guide-docs\miniature-painting
     ```
 
-4. Закомитьте собранную документиацию:
+4. Сделайте коммит документа:
    
    * [при помощи GitHub Desktop](https://docs.github.com/en/desktop/making-changes-in-a-branch/committing-and-reviewing-changes-to-your-project-in-github-desktop#write-a-commit-message-and-push-your-changes);
    * [при помощи Git](https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository).
