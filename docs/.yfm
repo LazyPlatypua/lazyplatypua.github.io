@@ -3,8 +3,8 @@ breaks: true
 lang: "ru"
 
 docs-viewer:
+  favicon-src: ./favicon.ico
   project-name: miniature-painting
   langs: 'ru'
-  favicon-src: ./favicon.ico
-  
+
 search: true
