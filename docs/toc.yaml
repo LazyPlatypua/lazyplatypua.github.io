@@ -31,7 +31,7 @@ items:
     include: { mode: link, path: styles/toc.yaml }
   - name: Методы
     include: { mode: link, path: methods/toc.yaml }
-  - name: Пошаговые инструкции
+  - name: Примеры росписи миниатюр
     include: { mode: link, path: step-by-step/toc.yaml }
   - name: Инвентарь
     include: { mode: link, path: inventory/toc.yaml }

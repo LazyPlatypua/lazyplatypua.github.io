@@ -12,6 +12,10 @@
 
 #|
 || **Инструмент** | **Описание** | **Подходящие товары**||
+|| **Миниатюра** | Что будете красить. |
+* [Миниатюры для настольных ролевых игр](https://hobbygames.ru/miniatjuri-dlja-nastolnih-rolevih-igr) (Hobby Games)
+* [Миниатюры 3D печать](https://www.ozon.ru/search/?text=%D0%BC%D0%B8%D0%BD%D0%B8%D0%B0%D1%82%D1%8E%D1%80%D1%8B+3d+%D0%BF%D0%B5%D1%87%D0%B0%D1%82%D1%8C&from_global=true) (Ozon) 
+* [Миниатюры Warhammer](https://hobbygames.ru/warhammer) (Hobby Games)||
 || **Лампа** |Позволяет видеть все детали миниатюры. 
 
 Нужна лампочка с температурой света в пределах 4000-5000К для нейтрального освещения. |
