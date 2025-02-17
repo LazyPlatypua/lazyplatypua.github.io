@@ -1,1 +1,1 @@
-window.__DATA__.data.toc = {"title":"Оформление баз","items":[{"name":"Обзор","href":"bases\\index.html","id":"Обзор-0-0.4890177152282933"},{"name":"Джунгли","href":"bases\\jungle.html","id":"Джунгли-1-0.04587307277510666"}]};
+window.__DATA__.data.toc = {"title":"Оформление баз","items":[{"name":"Обзор","href":"bases\\index.html","id":"Обзор-0-0.6888948849235133"},{"name":"Джунгли","href":"bases\\jungle.html","id":"Джунгли-1-0.4704106838650173"}]};
