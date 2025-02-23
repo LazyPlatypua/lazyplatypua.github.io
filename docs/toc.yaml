@@ -20,6 +20,9 @@ navigation:
       - text: 'Источники'
         type: 'link'
         url: 'references.html'
+      - text: 'Заказать покраску'
+        type: 'link'
+        url: 'https://forms.yandex.ru/u/67b24604eb6146291709f2be/'
     rightItems:
       - type: controls
 items: 
