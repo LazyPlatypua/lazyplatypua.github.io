@@ -1,1 +1,1 @@
-window.__DATA__.data.toc = {"title":"Примеры росписи миниатюр","items":[{"name":"Обзор","href":"step-by-step\\index.html","id":"Обзор-0-0.2467602751103164"},{"name":"Клановые крысы","href":"step-by-step\\skaven-clanrats.html","id":"Клановые крысы-1-0.8992580328179516"}]};
+window.__DATA__.data.toc = {"title":"Примеры росписи миниатюр","items":[{"name":"Обзор","href":"step-by-step\\index.html","id":"Обзор-0-0.6789007026370941"},{"name":"Клановые крысы","href":"step-by-step\\skaven-clanrats.html","id":"Клановые крысы-1-0.9987660391711768"}]};
