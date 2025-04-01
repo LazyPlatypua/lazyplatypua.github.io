@@ -4,3 +4,5 @@ items:
     href: index.yaml
   - name: Клановые крысы
     href: skaven-clanrats.md
+  - name: Сестра битвы
+    href: sister.md
