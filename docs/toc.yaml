@@ -27,15 +27,15 @@ navigation:
       - type: controls
 items: 
   - name: Начать красить
-    include: { mode: link, path: quickstart/toc.yaml }
+    href: how-to-start.md
+  - name: Подготовить миниатюру
+    include: { mode: link, path: preparation/toc.yaml }
   - name: Советы
     include: { mode: link, path: advices/toc.yaml }
-  - name: Стили
-    include: { mode: link, path: styles/toc.yaml }
-  - name: Методы
+  - name: Базовые методы
     include: { mode: link, path: methods/toc.yaml }
-  - name: Примеры росписи миниатюр
-    include: { mode: link, path: step-by-step/toc.yaml }
+  - name: Пошаговые инструкции
+    include: { mode: link, path: instructions/toc.yaml }
   - name: Инвентарь
     include: { mode: link, path: inventory/toc.yaml }
   - name: Оформление баз

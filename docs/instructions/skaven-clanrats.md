@@ -70,7 +70,7 @@
    
    ![drybrush.jpg](../_images/painting-skaven/drybrush.jpg =600x)
 
-6. При помощи [гризайля](../styles/contrast.md) покрасьте миниатюры. Наносите краски одним непрерывным движением сверху вниз.
+6. При помощи [гризайля](../methods/contrast.md) покрасьте миниатюры. Наносите краски одним непрерывным движением сверху вниз.
    
    1. Первый слой одежды: The Army Painter Speed Paint Zealot Yellow.
 

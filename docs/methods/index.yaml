@@ -1,6 +1,12 @@
-title: Как красить миниатюры
-description: Разные полезные техники
+title: Базовые методы
+description: Начальные техники
 links:
+  - title: Развести краску
+    href: thinning.md
+  - title: Citadel Style
+    href: citadel-style.md
+  - title: Гризайль
+    href: contrast.md
   - title: Наслаивание
     href: layering.md
   - title: Высветление краев

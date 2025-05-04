@@ -2,6 +2,8 @@ title: Инвентарь
 items: 
   - name: Обзор
     href: index.yaml
+  - name: Стартовый инвентарь
+    href: base.md
   - name: Кисти
     href: brushes.md
   - name: Краски

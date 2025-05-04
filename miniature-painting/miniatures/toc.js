@@ -1,0 +1,1 @@
+window.__DATA__.data.toc = {"title":"Пошаговая роспись миниатюр","items":[{"name":"Обзор","href":"miniatures\\index.html","id":"Обзор-0-0.9334856340070385"},{"name":"Клановые крысы","href":"miniatures\\skaven-clanrats.html","id":"Клановые крысы-1-0.9390260313793619"},{"name":"Сестра битвы","href":"miniatures\\sister.html","id":"Сестра битвы-2-0.3524540982444464"}]};

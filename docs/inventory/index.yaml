@@ -1,6 +1,8 @@
 title: Инвентарь для росписи
 description: Какие инструменты вам могут понадобиться
 links:
+  - title: Стартовый инвентарь
+    href: base.md
   - title: Кисти
     href: brushes.md
   - title: Краски

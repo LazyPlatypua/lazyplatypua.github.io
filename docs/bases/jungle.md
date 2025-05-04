@@ -108,7 +108,7 @@
    
    ![grass](../_images/jungle-base/grass.jpg =400x)
 
-4. [Загрунтуйте миниатюру](../quickstart/preparation/priming.md).
+4. [Загрунтуйте миниатюру](../preparation/priming.md).
    
     ![priming](../_images/jungle-base/priming.jpg =400x)
 
@@ -117,11 +117,11 @@
    
    ![zenithal-highlighting](../_images/jungle-base/zenithal-highlighting.jpg =400x)
 
-7. Случайным образом на базу и траву разместите зеленую краску для [гризайля](../styles/contrast.md).
+7. Случайным образом на базу и траву разместите зеленую краску для [гризайля](../methods/contrast.md).
    
    ![green](../_images/jungle-base/green.jpg =400x)
 
-8. Случайным образом разместите коричневую краску для [гризайля](../styles/contrast.md).
+8. Случайным образом разместите коричневую краску для [гризайля](../methods/contrast.md).
    
    ![brown](../_images/jungle-base/brown.jpg =400x)
 

@@ -2,6 +2,12 @@ title: Методы
 items: 
   - name: Обзор
     href: index.yaml
+  - name: Развести краску
+    href: thinning.md
+  - name: Citadel Style
+    href: citadel-style.md
+  - name: Гризайль
+    href: contrast.md
   - name: Наслаивание
     href: layering.md
   - name: Высветление краев

@@ -35,7 +35,9 @@
 
 {% endcut %}
 
-1. Грунтовка Vallejo Primers Black. Вы можете использовать любую черную грунтовку и далее заменять мои краски на те, которые есть у вас.
+1. Грунтовка Vallejo Primers Black. Вы можете использовать любую черную грунтовку.
+   
+   Далее заменяйте мои краски на те, которые есть у вас.
 
    ![priming.jpg](../_images/sister-of-battle/body/priming.jpg =600x)
 
@@ -63,13 +65,13 @@
 
 7. Базовый слой Vallejo Model Color Beige на пергаменте печати.
 
-8. Проливка Citadel Colour Shade Nuln Oil на оружии и цепи.
+8.  Проливка Citadel Colour Shade Nuln Oil на оружии и цепи.
 
    ![black-wash.jpg](../_images/sister-of-battle/body/black-wash.jpg =600x)
 
    Я не стал наносить проливку на плащ, так как она плохо работает на больших ровных поверхностях. 
 
-9. Проливка Citadel Colour Shade Agrax Earthshade на наплечниках, украшениях цепи и набедренных пластинах.
+9.  Проливка Citadel Colour Shade Agrax Earthshade на наплечниках, украшениях цепи и набедренных пластинах.
 
    ![brown-wash.jpg](../_images/sister-of-battle/body/brown-wash.jpg =600x)
    

@@ -2,23 +2,16 @@ title: Роспись миниатюр
 description: Это сборник методов, техник и советов от всего сообщества росписи миниатюр по всему миру. 
 links:
   - title: Начать красить
-    description: Как быстро, дешево и эффективно приступить к росписи миниатюр.
-    href: quickstart/index.yaml
+    href: how-to-start.md
+  - title: Подготовить миниатюру
+    href: preparation/index.yaml
   - title: Советы
-    description: Небольшие уловки и рекомендации.
     href: advices/index.yaml
-  - title: Стили
-    description: Инструкции для разных результатов.
-    href: styles/index.yaml
-  - title: Методы
-    description: Способы росписи миниатюр.
+  - title: Базовые методы
     href: methods/index.yaml
-  - title: Примеры росписи миниатюр
-    description: Роспись конкретных миниатюр
-    href: step-by-step/index.yaml
+  - title: Пошаговые инструкции
+    href: instructions/index.yaml
   - title: Инвентарь
-    description: Какие инструменты вам могут понадобиться
     href: inventory/index.yaml
   - title: Оформление баз
-    description: Как сделать он для вашей миниатюры
     href: bases/index.yaml
