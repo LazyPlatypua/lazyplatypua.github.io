@@ -21,13 +21,13 @@
     ```
 
     Где:
-    * `\paint-guide-docs\docs, -i` — путь до директории проекта;
+    * `\paint-guide-docs\source, -i` — путь до директории проекта;
     * `\paint-guide-docs\miniature-painting, -o` — путь до директории, предназначенной для выходных данных (статических HTML).
 
     Пример:
 
     ```
-    yfm -i D:\Документы\Painting\paint-guide-docs\docs -o D:\Документы\Painting\paint-guide-docs\miniature-painting
+    yfm -i D:\Документы\Painting\paint-guide-docs\source -o D:\Документы\Painting\paint-guide-docs\miniature-painting
     ```
 
 4. Сделайте коммит документа:
