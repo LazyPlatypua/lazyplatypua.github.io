@@ -1,8 +1,0 @@
-title: Советы
-items: 
-  - name: Обзор
-    href: index.yaml
-  - name: Как улучшить свои работы
-    href: positive.md
-  - name: Вредные советы
-    href: negative.md

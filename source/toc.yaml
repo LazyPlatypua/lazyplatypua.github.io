@@ -30,16 +30,12 @@ items:
     href: how-to-start.md
   - name: Подготовить миниатюру
     include: { mode: link, path: preparation/toc.yaml }
-  - name: Советы
-    include: { mode: link, path: advices/toc.yaml }
   - name: Базовые методы
     include: { mode: link, path: methods/toc.yaml }
-  - name: Пошаговые инструкции
-    include: { mode: link, path: instructions/toc.yaml }
   - name: Инвентарь
     include: { mode: link, path: inventory/toc.yaml }
-  - name: Оформление баз
-    include: { mode: link, path: bases/toc.yaml }
+  - name: Вредные советы
+    href: negative.md
   - name: Контакты
     hidden: true
     href: contacts.md

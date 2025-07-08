@@ -5,13 +5,9 @@ links:
     href: how-to-start.md
   - title: Подготовить миниатюру
     href: preparation/index.yaml
-  - title: Советы
-    href: advices/index.yaml
   - title: Базовые методы
     href: methods/index.yaml
-  - title: Пошаговые инструкции
-    href: instructions/index.yaml
   - title: Инвентарь
     href: inventory/index.yaml
-  - title: Оформление баз
-    href: bases/index.yaml
+  - title: Вредные советы
+    href: negative.md
