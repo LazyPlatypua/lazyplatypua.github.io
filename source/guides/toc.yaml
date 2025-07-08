@@ -1,0 +1,15 @@
+name: Руководства
+items:
+  - name: Металы
+    items:
+      - name: Железо и сталь
+        href: metals/iron.md
+      - name: Золото
+        href: metals/gold.md
+      - name: Бронза
+        href: metals/bronze.md
+      - name: Медь
+        href: metals/copper.md
+  - name: Кожа
+    items: 
+      - name: 

@@ -27,4 +27,5 @@
 - [www.instagram.com/sergiocalvominiatures/](https://www.instagram.com/sergiocalvominiatures/) — хороший пример для миниатюр большего масштаба (англ.) (Дата обращения: 18.05.2024)
 - [razzaminipainting.blogspot.com/2016/07/non-metallic-metals.html](https://razzaminipainting.blogspot.com/2016/07/non-metallic-metals.html) — блог про NMM от Даррена Лэтэма (англ.) (Дата обращения: 18.05.2024)
 - [goodork.ru/blog/kak-ustroen-aehrograf](https://goodork.ru/blog/kak-ustroen-aehrograf) — все об устройстве аэрографа (Дата обращения: 18.05.2024)
-- [www.lightminiatures.com/tutorials/](https://www.lightminiatures.com/tutorials/) — инструкции по драматичному освещению миниатюр (англ.) (Дата обращения: 04.11.2024)
+- [lightminiatures.com/tutorials/](https://www.lightminiatures.com/tutorials/) — инструкции по драматичному освещению миниатюр (англ.) (Дата обращения: 04.11.2024)
+- [monumenthobbies](https://monumenthobbies.com/blogs/methodologies) — инструкции по разным материалам (англ.) (Дата обращения: 08.07.2025)

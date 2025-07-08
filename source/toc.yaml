@@ -34,6 +34,8 @@ items:
     include: { mode: link, path: methods/toc.yaml }
   - name: Инвентарь
     include: { mode: link, path: inventory/toc.yaml }
+  - name: Руководства
+    include: { mode: link, path: guides/toc.yaml }  
   - name: Вредные советы
     href: negative.md
   - name: Контакты

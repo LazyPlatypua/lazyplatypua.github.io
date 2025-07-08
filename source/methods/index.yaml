@@ -1,37 +1,7 @@
-title: Базовые методы
-description: Начальные техники
+title: Руководства
+description: В этом разделе собраны различные инструкции со всего интернета.
 links:
-  - title: Развести краску
+  - title: Металлы
+    items:
+      
     href: thinning.md
-  - title: Citadel Style
-    href: citadel-style.md
-  - title: Гризайль
-    href: contrast.md
-  - title: Роспись армий
-    href: army-painting.md
-  - title: Наслаивание
-    href: layering.md
-  - title: Высветление краев
-    href: edge-highlighting.md
-  - title: Затемнение углублений
-    href: recess-shading.md
-  - title: Зенитальное высветление
-    href: zenithal-highlighting.md
-  - title: Объемный скетч
-    href: value-sketch.md
-  - title: Настоящий металл 
-    href: true-metallic-metal.md
-  - title: Не металлический металл
-    href: non-metalic-metal.md
-  - title: Растушевка
-    href: feathering.md
-  - title: Лессировка
-    href: glazing.md
-  - title: Точечная штриховка
-    href: stippling.md
-  - title: Сухая кисть
-    href: drybrush.md
-  - title: Влажное смешивание
-    href: wet-blending.md
-  - title: Декали
-    href: decals.md
