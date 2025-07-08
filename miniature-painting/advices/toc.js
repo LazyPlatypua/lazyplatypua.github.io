@@ -1,1 +1,0 @@
-window.__DATA__.data.toc = {"title":"Советы","items":[{"name":"Обзор","href":"advices\\index.html","id":"Обзор-0-0.13816641525256523"},{"name":"Как улучшить свои работы","href":"advices\\positive.html","id":"Как улучшить свои работы-1-0.7303366096545287"},{"name":"Вредные советы","href":"advices\\negative.html","id":"Вредные советы-2-0.021020604661991626"}]};
