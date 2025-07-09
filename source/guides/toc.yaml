@@ -12,4 +12,19 @@ items:
         href: metals/copper.md
   - name: Кожа
     items: 
-      - name: 
+      - name: Оранжевая
+        href: skin/orange.md
+      - name: Загар
+        href: skin/tan.md
+      - name: Красная
+        href: skin/red.md
+      - name: Синяя
+        href: skin/blue.md
+      - name: Зеленая
+        href:  skin/green.md
+      - name: Бордовая
+        href: skin/burgundy.md
+      - name: Раздраженная
+        href: skin/irritated.md
+      - name: Подмалёвок
+        href: skin/underpainting
