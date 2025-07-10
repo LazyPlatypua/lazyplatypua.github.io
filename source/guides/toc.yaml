@@ -2,29 +2,47 @@ name: Руководства
 items:
   - name: Металы
     items:
+      - name: Бронза
+        href: metals/bronze.md
       - name: Железо и сталь
         href: metals/iron.md
       - name: Золото
         href: metals/gold.md
-      - name: Бронза
-        href: metals/bronze.md
       - name: Медь
         href: metals/copper.md
   - name: Кожа
     items: 
-      - name: Оранжевая
-        href: skin/orange.md
-      - name: Загар
-        href: skin/tan.md
-      - name: Красная
-        href: skin/red.md
-      - name: Синяя
-        href: skin/blue.md
-      - name: Зеленая
-        href:  skin/green.md
+      - name: Бледная
+        href: skin/pale.md
       - name: Бордовая
         href: skin/burgundy.md
-      - name: Раздраженная
-        href: skin/irritated.md
+      - name: Загар
+        href: skin/tan.md
+      - name: Зеленая
+        href: skin/green.md
+      - name: Красная
+        href: skin/red.md
+      - name: Оранжевая
+        href: skin/orange.md
       - name: Подмалёвок
         href: skin/underpainting
+      - name: Раздраженная
+        href: skin/irritated.md
+      - name: Синяя
+        href: skin/blue.md
+  - name: Броня
+    items: 
+      - name: Белая 
+        href: armor/white.md
+      - name: Бирюзовая
+        href: armor/turquoise.md
+      - name: Желтая
+        href: armor/yellow.md
+      - name: Зеленая 
+        href: armor/green.md
+      - name: Коричневая
+        href: armor/brown.md
+      - name: Синяя
+        href: armor/blue.md
+      - name: Черная
+        href: armor/black.md
