@@ -1,7 +1,9 @@
 # Белая броня
 
-## Pro Acryl Methodology
+## Чистая
 
-![MethodologyWhiteArmor](../../_images/Pro-Acryl-Methodology/MethodologyWhiteArmor.webp =400x)
+![MethodologyWhiteArmor](../../_images/Pro-Acryl-Methodology/MethodologyWhiteArmor.webp "Источник: Pro Acryl Methodology" =400x)
 
-![bruised-white](../../_images/Pro-Acryl-Methodology/bruised-white.webp =400x)
+## Поцарапанная
+
+![bruised-white](../../_images/Pro-Acryl-Methodology/bruised-white.webp "Источник: Pro Acryl Methodology" =400x)

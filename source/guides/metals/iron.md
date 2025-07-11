@@ -1,9 +1,13 @@
-# Железо и сталь
+# Железо
 
-## Pro Acryl Methodology
+## Металлическое
 
-![MethodologyDirtyMetallicSteel](../../_images/Pro-Acryl-Methodology/MethodologyDirtyMetallicSteel.jpg =400x)
+![MethodologyDirtyMetallicSteel](../../_images/Pro-Acryl-Methodology/MethodologyDirtyMetallicSteel.jpg "Источник: Pro Acryl Methodology" =400x)
 
-![nmm-steel-blue-hue](../../_images/Pro-Acryl-Methodology/nmm-steel-blue-hue.webp =400x)
+### Ржавое
 
-![rusty-metallic-blade](../../_images/Pro-Acryl-Methodology/rusty-metallic-blade.webp =400x)
+![rusty-metallic-blade](../../_images/Pro-Acryl-Methodology/rusty-metallic-blade.webp "Источник: Pro Acryl Methodology" =400x)
+
+## Не металлическое
+
+![nmm-steel-blue-hue](../../_images/Pro-Acryl-Methodology/nmm-steel-blue-hue.webp "Источник: Pro Acryl Methodology" =400x)

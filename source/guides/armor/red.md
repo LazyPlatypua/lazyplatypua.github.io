@@ -1,7 +1,9 @@
 # Красная броня
 
-## Pro Acryl Methodology
+## Кровавых ангелов
 
-![red-armor](../../_images/Pro-Acryl-Methodology/red-armor.webp =400x)
+![red-armor](../../_images/Pro-Acryl-Methodology/red-armor.webp "Источник: Pro Acryl Methodology" =400x)
 
-![MethodologyGleamingRedArmor](../../_images/Pro-Acryl-Methodology/MethodologyGleamingRedArmor.webp =400x)
+## Розоватая
+
+![MethodologyGleamingRedArmor](../../_images/Pro-Acryl-Methodology/MethodologyGleamingRedArmor.webp "Источник: Pro Acryl Methodology" =400x)

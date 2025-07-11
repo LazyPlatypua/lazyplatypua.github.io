@@ -1,5 +1,3 @@
 # Подмалёвок
 
-## Pro Acryl Methodology
-
-![underpainted-flesh](../../_images/Pro-Acryl-Methodology/underpainted-flesh.webp =400x)
+![underpainted-flesh](../../_images/Pro-Acryl-Methodology/underpainted-flesh.webp "Источник: Pro Acryl Methodology" =400x)

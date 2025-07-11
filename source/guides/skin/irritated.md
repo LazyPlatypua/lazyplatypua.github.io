@@ -1,5 +1,3 @@
 # Раздраженная кожа
 
-## Pro Acryl Methodology
-
-![irritated-flesh](../../_images/Pro-Acryl-Methodology/irritated-flesh.webp =400x)
+![irritated-flesh](../../_images/Pro-Acryl-Methodology/irritated-flesh.webp "Источник: Pro Acryl Methodology" =400x)

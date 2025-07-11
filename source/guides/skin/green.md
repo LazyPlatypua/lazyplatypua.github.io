@@ -1,5 +1,5 @@
 # Зеленая кожа
 
-## Pro Acryl Methodology
+## Бледно-зеленая
 
-![green-skin](../../_images/Pro-Acryl-Methodology/green-skin.webp =400x)
+![green-skin](../../_images/Pro-Acryl-Methodology/green-skin.webp "Источник: Pro Acryl Methodology" =400x)

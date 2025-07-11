@@ -1,7 +1,7 @@
 # Синяя броня
 
-## Pro Acryl Methodology
+## Ультрамариновая
 
-![ultra-blue](../../_images/Pro-Acryl-Methodology/ultra-blue.webp =400x)
+![ultra-blue](../../_images/Pro-Acryl-Methodology/ultra-blue.webp "Источник: Pro Acryl Methodology" =400x)
 
-![matrix-1-ultras](../../_images/Pro-Acryl-Methodology/matrix-1-ultras.webp =400x)
+![matrix-1-ultras](../../_images/Pro-Acryl-Methodology/matrix-1-ultras.webp "Источник: Pro Acryl Methodology" =400x)

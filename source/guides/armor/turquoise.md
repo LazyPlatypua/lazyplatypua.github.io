@@ -1,7 +1,9 @@
 # Бирюзовая броня
 
-## Pro Acryl Methodology
+## Нефритовая
 
-![jade-armor](../../_images/Pro-Acryl-Methodology/jade-armor.webp =400x)
+![jade-armor](../../_images/Pro-Acryl-Methodology/jade-armor.webp "Источник: Pro Acryl Methodology" =400x)
 
-![dark-turquoise-armor](../../_images/Pro-Acryl-Methodology/dark-turquoise-armor.webp =400x)
+## Темно-бирюзовая
+
+![dark-turquoise-armor](../../_images/Pro-Acryl-Methodology/dark-turquoise-armor.webp "Источник: Pro Acryl Methodology" =400x)

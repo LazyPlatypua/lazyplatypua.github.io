@@ -1,9 +1,11 @@
-# Голубая кожа
+# Синяя кожа
 
-## Pro Acryl Methodology
+## Ярко-голубая
 
-![Blue-Alien-Skin](../../_images/Pro-Acryl-Methodology/Blue-Alien-Skin.avif =400x)
+![Blue-Alien-Skin](../../_images/Pro-Acryl-Methodology/Blue-Alien-Skin.avif "Источник: Pro Acryl Methodology" =400x)
 
-![Frost-Giant-Skin](../../_images/Pro-Acryl-Methodology/Frost-Giant-Skin-part-1.webp =400x)
-![Frost-Giant-Skin](../../_images/Pro-Acryl-Methodology/Frost-Giant-Skin-part-2.webp =400x)
-![Frost-Giant-Skin](../../_images/Pro-Acryl-Methodology/Frost-Giant-Skin-part-3.webp =400x)
+## Голубая
+
+![Frost-Giant-Skin](../../_images/Pro-Acryl-Methodology/Frost-Giant-Skin-part-1.webp "Источник: Pro Acryl Methodology" =400x)
+![Frost-Giant-Skin](../../_images/Pro-Acryl-Methodology/Frost-Giant-Skin-part-2.webp "Источник: Pro Acryl Methodology" =400x)
+![Frost-Giant-Skin](../../_images/Pro-Acryl-Methodology/Frost-Giant-Skin-part-3.webp "Источник: Pro Acryl Methodology" =400x)

@@ -1,5 +1,5 @@
 # Коричневая броня
 
-## Pro Acryl Methodology
+## Хитиновая
 
-![brown-chitin-armor](../../_images/Pro-Acryl-Methodology/brown-chitin-armor.webp =400x)
+![brown-chitin-armor](../../_images/Pro-Acryl-Methodology/brown-chitin-armor.webp "Источник: Pro Acryl Methodology" =400x)
