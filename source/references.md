@@ -18,8 +18,9 @@
 
 ## Instagramm
 
-- [mengel_miniatures](https://www.instagram.com/mengel_miniatures/) — короткие туториалы в одну-две страницы по покраске миниатюр Games Workshop.
+- [mengel_miniatures](https://www.instagram.com/mengel_miniatures/) — короткие руководства в одну-две страницы по покраске миниатюр Games Workshop (англ.) (Дата обращения: 11.07.2025)
 - [www.instagram.com/sergiocalvominiatures/](https://www.instagram.com/sergiocalvominiatures/) — хороший пример для миниатюр большего масштаба (англ.) (Дата обращения: 18.05.2024)
+- [kitbash_kasper](https://www.instagram.com/kitbash_kasper/) — короткие руководства по китбашу и покраске отдельных элементов миниатюр (англ.) (Дата обращения: 11.07.2025)
 
 ## Другое
 
