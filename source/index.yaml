@@ -7,6 +7,8 @@ links:
     href: preparation/index.yaml
   - title: Базовые методы
     href: methods/index.yaml
+  - title: Руководства
+    href: guides/index.yaml
   - title: Инвентарь
     href: inventory/index.yaml
   - title: Вредные советы

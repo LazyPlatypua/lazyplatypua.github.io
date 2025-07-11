@@ -1,0 +1,16 @@
+title: Броня
+links:
+  - title: Белая 
+    href: white.md
+  - title: Бирюзовая
+    href: turquoise.md
+  - title: Желтая
+    href: yellow.md
+  - title: Зеленая 
+    href: green.md
+  - title: Коричневая
+    href: brown.md
+  - title: Синяя
+    href: blue.md
+  - title: Черная
+    href: black.md

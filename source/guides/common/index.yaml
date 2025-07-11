@@ -1,0 +1,6 @@
+title: Общее
+links:
+  - title: Камень
+    href: rock.md
+  - title: Кость
+    href: bone.md

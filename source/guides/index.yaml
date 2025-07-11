@@ -1,0 +1,18 @@
+title: Руководства
+links:
+  - title: Базы
+    href: bases/index.yaml
+  - title: Броня
+    href: armor/index.yaml
+  - title: Кожа
+    href: skin/index.yaml
+  - title: Металлы
+    href: metals/index.yaml
+  - title: Общее
+    href: common/index.yaml
+  - title: Ткань
+    href: cloth/index.yaml
+  - title: Шерсть
+    href: fur/index.yaml
+  - title: Эффекты
+    href: effects/index.yaml

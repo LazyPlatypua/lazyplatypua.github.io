@@ -1,0 +1,10 @@
+title: Металлы
+links:
+  - title: Бронза
+    href: bronze.md
+  - title: Железо и сталь
+    href: iron.md
+  - title: Золото
+    href: gold.md
+  - title: Медь
+    href: copper.md

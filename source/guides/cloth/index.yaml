@@ -1,0 +1,10 @@
+title: Ткань
+links:
+  - title: Зеленая
+    href: green.md
+  - title: Желтая
+    href: yellow.md
+  - title: Красная
+    href: red.md
+  - title: Фиолетовая
+    href: purple.md

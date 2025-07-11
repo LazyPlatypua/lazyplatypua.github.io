@@ -1,10 +1,13 @@
 name: Руководства
+href: index.yaml
 items:
   - name: Базы
+    href: bases/index.yaml
     items:
       - name: Снежная
         href: bases/snow.md
   - name: Броня
+    href: armor/index.yaml
     items: 
       - name: Белая 
         href: armor/white.md
@@ -21,6 +24,7 @@ items:
       - name: Черная
         href: armor/black.md
   - name: Кожа
+    href: skin/index.yaml
     items: 
       - name: Бледная
         href: skin/pale.md
@@ -43,6 +47,7 @@ items:
       - name: Чешуя
         href: skin/scales.md
   - name: Металлы
+    href: metals/index.yaml
     items:
       - name: Бронза
         href: metals/bronze.md
@@ -53,12 +58,14 @@ items:
       - name: Медь
         href: metals/copper.md
   - name: Общее
+    href: common/index.yaml
     items:
       - name: Камень
         href: common/rock.md
       - name: Кость
         href: common/bone.md
   - name: Ткань
+    href: cloth/index.yaml
     items: 
       - name: Зеленая
         href: cloth/green.md
@@ -69,12 +76,14 @@ items:
       - name: Фиолетовая
         href: cloth/purple.md
   - name: Шерсть
+    href: fur/index.yaml
     items: 
       - name: Коричневая
         href: fur/brown.md
       - name: Черная  
         href: fur/black.md
   - name: Эффекты
+    href: effects/index.yaml
     items: 
       - name: Пламя
         href: effects/flames.md
