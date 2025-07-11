@@ -16,6 +16,11 @@
 
 - [reddit.com/r/Warhammer40k/comments/qxijh6/oil_washes_are_magical/](https://www.reddit.com/r/Warhammer40k/comments/qxijh6/oil_washes_are_magical/) — пост о масляных проливках (англ.) (Дата обращения: 24.09.2024)
 
+## Instagramm
+
+- [mengel_miniatures](https://www.instagram.com/mengel_miniatures/) — короткие туториалы в одну-две страницы по покраске миниатюр Games Workshop.
+- [www.instagram.com/sergiocalvominiatures/](https://www.instagram.com/sergiocalvominiatures/) — хороший пример для миниатюр большего масштаба (англ.) (Дата обращения: 18.05.2024)
+
 ## Другое
 
 - [contrastminiatures.com/](http://www.contrastminiatures.com/) — блог с инструкциями по росписи миниатюр при помощи контрастного метода (англ.) (Дата обращения: 06.04.2024)
@@ -24,8 +29,9 @@
 - [cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster_web.pdf?v=1707827727](https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster_web.pdf?v=1707827727) — постер со всеми красками The Army Painter Warpaints Fanatic (англ.) (Дата обращения: 17.04.2024)
 - [www.warhammer-community.com/2016/11/13/citadel-paints/](https://www.warhammer-community.com/2016/11/13/citadel-paints/) — цветовой чарт красок Citadel (англ.) (Дата обращения: 17.04.2024)
 - [scale75.com/descargas/SCALE75COLORCHART.pdf](https://scale75.com/descargas/SCALE75COLORCHART.pdf) — цветовой чарт красок Scale75 (англ.) (Дата обращения: 17.04.2024)
-- [www.instagram.com/sergiocalvominiatures/](https://www.instagram.com/sergiocalvominiatures/) — хороший пример для миниатюр большего масштаба (англ.) (Дата обращения: 18.05.2024)
+
 - [razzaminipainting.blogspot.com/2016/07/non-metallic-metals.html](https://razzaminipainting.blogspot.com/2016/07/non-metallic-metals.html) — блог про NMM от Даррена Лэтэма (англ.) (Дата обращения: 18.05.2024)
 - [goodork.ru/blog/kak-ustroen-aehrograf](https://goodork.ru/blog/kak-ustroen-aehrograf) — все об устройстве аэрографа (Дата обращения: 18.05.2024)
 - [lightminiatures.com/tutorials/](https://www.lightminiatures.com/tutorials/) — инструкции по драматичному освещению миниатюр (англ.) (Дата обращения: 04.11.2024)
 - [monumenthobbies](https://monumenthobbies.com/blogs/methodologies) — инструкции по разным материалам (англ.) (Дата обращения: 08.07.2025)
+
