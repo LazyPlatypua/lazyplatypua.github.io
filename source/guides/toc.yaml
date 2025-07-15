@@ -1,9 +1,16 @@
 name: Руководства
 href: index.yaml
 items:
+  - name: Волосы
+    href: hair/index.yaml
+    items:
+      - name: Розовые 
+        href: hair/pink.md
   - name: Базы
     href: bases/index.yaml
     items:
+      - name: Пустыня
+        href: bases/desert.md
       - name: Снежная
         href: bases/snow.md
   - name: Броня
@@ -23,7 +30,12 @@ items:
         href: armor/blue.md
       - name: Черная
         href: armor/black.md
-  - name: Кожа
+  - name: Кожа (материал)
+    href: leather/index.yaml
+    items: 
+      - name: Красная
+        href: leather/red.md
+  - name: Кожа (телесные цвета)
     href: skin/index.yaml
     items: 
       - name: Бледная
@@ -44,6 +56,8 @@ items:
         href: skin/irritated.md
       - name: Синяя
         href: skin/blue.md
+      - name: Фиолетовая
+        href: skin/violet.md
       - name: Чешуя
         href: skin/scales.md
   - name: Металлы
@@ -57,6 +71,10 @@ items:
         href: metals/gold.md
       - name: Медь
         href: metals/copper.md
+      - name: Серебро
+        href: metals/silver.md
+      - name: Цветной
+        href: metals/colored.md
   - name: Общее
     href: common/index.yaml
     items:
@@ -73,6 +91,8 @@ items:
         href: cloth/yellow.md
       - name: Красная
         href: cloth/red.md
+      - name: Синяя
+        href: cloth/blue.md
       - name: Фиолетовая
         href: cloth/purple.md
   - name: Шерсть
@@ -85,5 +105,9 @@ items:
   - name: Эффекты
     href: effects/index.yaml
     items: 
+      - name: Кровь и внутренности
+        href: effects/blood.md
       - name: Пламя
         href: effects/flames.md
+      - name: Свет
+        href: effects/glow.md

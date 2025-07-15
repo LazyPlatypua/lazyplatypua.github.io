@@ -1,4 +1,8 @@
 title: Эффекты
 links:
+  - title: Кровь и внутренности
+    href: blood.md
   - title: Пламя
     href: flames.md
+  - title: Свет
+    href: glow.md

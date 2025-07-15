@@ -8,3 +8,7 @@ links:
     href: gold.md
   - title: Медь
     href: copper.md
+  - title: Серебро
+    href: silver.md
+  - title: Цветной
+    href: colored.md
