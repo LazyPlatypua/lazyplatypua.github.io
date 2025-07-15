@@ -75,6 +75,19 @@ items:
         href: metals/silver.md
       - name: Цветной
         href: metals/colored.md
+  - name: Методы
+    href: methods/index.yaml
+    items: 
+      - name: Затемнение маслами
+        href: methods/oil-recess.md
+      - name: Подсказки
+        href: methods/cheat.md
+      - name: Размытие
+        href: methods/feathering.md
+      - name: Сколы брони
+        href: methods/armor-chipping.md
+      - name: Точечная штриховка
+        href: methods/stippling.md
   - name: Общее
     href: common/index.yaml
     items:
