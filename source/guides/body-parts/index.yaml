@@ -1,4 +1,8 @@
 title: Части тел
 links:
+  - title: Глаза
+    href: eyes.md
+  - title: Кость
+    href: bone.md
   - title: Рот
     href: mouth.md

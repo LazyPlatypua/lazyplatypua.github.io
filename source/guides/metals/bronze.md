@@ -19,6 +19,8 @@
 
 ![Green_Oxide_Verdigris_Wash_75_0.75x](../../_images/Pro-Acryl-Methodology/Green_Oxide_Verdigris_Wash_75_0.75x.webp "Источник: Pro Acryl Methodology" =400x)
 
+![bronze](../../_images/kitbash_kasper/bronze.png "Источник: kitbash_kasper" =400x)
+
 ## Не металлическая
 
 ![warm-bronze-nmm](../../_images/Pro-Acryl-Methodology/warm-bronze-nmm.webp "Источник: Pro Acryl Methodology" =400x)

@@ -1,0 +1,10 @@
+title: Общее
+links:
+  - title: Бетон
+    href: concrete.md
+  - title: Камень
+    href: rock.md
+  - title: Пепельные отходы
+    href: ash.md
+  - title: Трава
+    href: grass.md

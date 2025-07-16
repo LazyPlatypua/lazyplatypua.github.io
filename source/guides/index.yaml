@@ -10,10 +10,10 @@ links:
     href: leather/index.yaml
   - title: Кожа (телесные цвета)
     href: skin/index.yaml
+  - title: Ландшафт
+    href: scenery/index.yaml
   - title: Металлы
     href: metals/index.yaml
-  - title: Общее
-    href: common/index.yaml
   - title: Ткань
     href: cloth/index.yaml
   - title: Шерсть

@@ -75,6 +75,17 @@ items:
         href: metals/silver.md
       - name: Цветной
         href: metals/colored.md
+  - name: Ландшафт
+    href: scenery/index.yaml
+    items:
+      - name: Бетон
+        href: scenery/concrete.md
+      - name: Камень
+        href: scenery/rock.md
+      - name: Пепельные отходы
+        href: scenery/ash.md
+      - name: Трава 
+        href: scenery/grass.md
   - name: Методы
     href: methods/index.yaml
     items: 
@@ -88,13 +99,6 @@ items:
         href: methods/armor-chipping.md
       - name: Точечная штриховка
         href: methods/stippling.md
-  - name: Общее
-    href: common/index.yaml
-    items:
-      - name: Камень
-        href: common/rock.md
-      - name: Кость
-        href: common/bone.md
   - name: Ткань
     href: cloth/index.yaml
     items: 
@@ -118,6 +122,10 @@ items:
   - name: Части тел
     href: body-parts/index.yaml
     items: 
+      - name: Глаза
+        href: body-parts/eyes.md
+      - name: Кость
+        href: common/bone.md
       - name: Рот
         href: body-parts/mouth.md
   - name: Эффекты
