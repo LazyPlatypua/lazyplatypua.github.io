@@ -115,6 +115,11 @@ items:
         href: fur/brown.md
       - name: Черная  
         href: fur/black.md
+  - name: Части тел
+    href: body-parts/index.yaml
+    items: 
+      - name: Рот
+        href: body-parts/mouth.md
   - name: Эффекты
     href: effects/index.yaml
     items: 
