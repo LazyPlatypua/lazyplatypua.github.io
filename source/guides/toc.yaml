@@ -1,11 +1,6 @@
 name: Руководства
 href: index.yaml
 items:
-  - name: Волосы
-    href: hair/index.yaml
-    items:
-      - name: Розовые 
-        href: hair/pink.md
   - name: Базы
     href: bases/index.yaml
     items:
@@ -30,9 +25,21 @@ items:
         href: armor/blue.md
       - name: Черная
         href: armor/black.md
+  - name: Волосы
+    href: hair/index.yaml
+    items:
+      - name: Розовые 
+        href: hair/pink.md
+  - name: Дерево
+    href: wood/index.yaml
+    items:
+      - name: Зеленое 
+        href: wood/green.md
   - name: Кожа (материал)
     href: leather/index.yaml
     items: 
+      - name: Коричневая
+        href: leather/brown.md
       - name: Красная
         href: leather/red.md
   - name: Кожа (телесные цвета)
@@ -54,6 +61,8 @@ items:
         href: skin/underpainting
       - name: Раздраженная
         href: skin/irritated.md
+      - name: Розовая
+        href: skin/pink.md
       - name: Синяя
         href: skin/blue.md
       - name: Фиолетовая
@@ -99,15 +108,24 @@ items:
         href: methods/armor-chipping.md
       - name: Точечная штриховка
         href: methods/stippling.md
+  - name: Рисунки
+    href: drawings/index.yaml
+    items: 
+      - name: Полосы опасности
+        href: drawings/hazard-stripes.md
   - name: Ткань
     href: cloth/index.yaml
     items: 
+      - name: Белая
+        href: cloth/white.md
       - name: Зеленая
         href: cloth/green.md
       - name: Желтая
         href: cloth/yellow.md
       - name: Красная
         href: cloth/red.md
+      - name: Парусина
+        href: cloth/sailcloth.md
       - name: Синяя
         href: cloth/blue.md
       - name: Фиолетовая
@@ -125,7 +143,7 @@ items:
       - name: Глаза
         href: body-parts/eyes.md
       - name: Кость
-        href: common/bone.md
+        href: body-parts/bone.md
       - name: Рот
         href: body-parts/mouth.md
   - name: Эффекты

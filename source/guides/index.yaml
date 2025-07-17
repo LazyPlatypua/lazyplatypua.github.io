@@ -1,11 +1,13 @@
 title: Руководства
 links:
-  - title: Волосы
-    href: hair/index.yaml
   - title: Базы
     href: bases/index.yaml
   - title: Броня
     href: armor/index.yaml
+  - title: Волосы
+    href: hair/index.yaml
+  - title: Дерево
+    href: wood/index.yaml
   - title: Кожа (материал)
     href: leather/index.yaml
   - title: Кожа (телесные цвета)
@@ -14,6 +16,8 @@ links:
     href: scenery/index.yaml
   - title: Металлы
     href: metals/index.yaml
+  - title: Рисунки
+    href: drawings/index.yaml
   - title: Ткань
     href: cloth/index.yaml
   - title: Шерсть
