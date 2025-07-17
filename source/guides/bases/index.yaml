@@ -1,5 +1,7 @@
 title: Базы
 links:
+  - title: Город
+    href: city.md
   - title: Пустыня
     href: desert.md
   - title: Снежная
