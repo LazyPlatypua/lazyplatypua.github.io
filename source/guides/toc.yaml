@@ -71,6 +71,8 @@ items:
         href: skin/pink.md
       - name: Синяя
         href: skin/blue.md
+      - name: Темная
+        href: skin/dark.md
       - name: Фиолетовая
         href: skin/violet.md
       - name: Чешуя
@@ -150,6 +152,8 @@ items:
         href: body-parts/eyes.md
       - name: Кость
         href: body-parts/bone.md
+      - name: Крылья
+        href: body-parts/wings.md
       - name: Рот
         href: body-parts/mouth.md
   - name: Эффекты
