@@ -1,11 +1,17 @@
 title: Ткань
 links:
+  - title: Бежевая
+    href: beige.md
   - title: Белая
     href: white.md
+  - title: Бирюзовая
+    href: turquoise.md
   - title: Зеленая
     href: green.md
   - title: Желтая
     href: yellow.md
+  - title: Коричневая
+    href: brown.md
   - title: Красная
     href: red.md
   - title: Парусина

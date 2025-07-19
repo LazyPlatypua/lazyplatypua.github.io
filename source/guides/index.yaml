@@ -20,6 +20,10 @@ links:
     href: drawings/index.yaml
   - title: Ткань
     href: cloth/index.yaml
+  - title: Фракции 
+    href: fractions/index.yaml
+  - title: Части тел
+    href: body-parts/index.yaml
   - title: Шерсть
     href: fur/index.yaml
   - title: Эффекты

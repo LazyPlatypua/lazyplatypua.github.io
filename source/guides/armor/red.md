@@ -7,3 +7,11 @@
 ## Розоватая
 
 ![MethodologyGleamingRedArmor](../../_images/Pro-Acryl-Methodology/MethodologyGleamingRedArmor.webp "Источник: Pro Acryl Methodology" =400x)
+
+## Crimson Reavers
+
+![crimson-reavers-armor](../../_images/mengel-miniatures/crimson-reavers-armor.png "Источник: Mengel Miniatures" =400x)
+
+## Crimson Slaughter
+
+![crimson-slaughter-armor](../../_images/mengel-miniatures/crimson-slaughter-armor.png "Источник: Mengel Miniatures" =400x)

@@ -12,6 +12,10 @@
 
 ![yellow-green-glow](../../_images/kitbash_kasper/yellow-green-glow.png "Источник: kitbash_kasper" =400x)
 
+## Призрачный зеленый
+
+![green-slimer-nighthaunts](../../_images/mengel-miniatures/green-slimer-nighthaunts.png "Источник: Mengel Miniatures" =400x)
+
 ## Сине-зеленые глаза
 
 ![coold-glare](../../_images/kitbash_kasper/coold-glare.png "Источник: kitbash_kasper" =400x)

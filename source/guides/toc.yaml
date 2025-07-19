@@ -53,6 +53,8 @@ items:
         href: skin/pale.md
       - name: Бордовая
         href: skin/burgundy.md
+      - name: Желтая
+        href: skin/yellow.md
       - name: Загар
         href: skin/tan.md
       - name: Зеленая
@@ -69,6 +71,8 @@ items:
         href: skin/irritated.md
       - name: Розовая
         href: skin/pink.md
+      - name: Серая
+        href: skin/grey.md
       - name: Синяя
         href: skin/blue.md
       - name: Темная
@@ -124,12 +128,18 @@ items:
   - name: Ткань
     href: cloth/index.yaml
     items: 
+      - name: Бежевая
+        href: cloth/beige.md 
       - name: Белая
         href: cloth/white.md
+      - name: Бирюзовая
+        href: cloth/turquoise.md
       - name: Зеленая
         href: cloth/green.md
       - name: Желтая
         href: cloth/yellow.md
+      - name: Коричневая
+        href: cloth/brown.md
       - name: Красная
         href: cloth/red.md
       - name: Парусина
@@ -138,13 +148,8 @@ items:
         href: cloth/blue.md
       - name: Фиолетовая
         href: cloth/purple.md
-  - name: Шерсть
-    href: fur/index.yaml
-    items: 
-      - name: Коричневая
-        href: fur/brown.md
-      - name: Черная  
-        href: fur/black.md
+  - name: Фракции
+    include: { mode: link, path: fractions/toc.yaml }
   - name: Части тел
     href: body-parts/index.yaml
     items: 
@@ -156,6 +161,13 @@ items:
         href: body-parts/wings.md
       - name: Рот
         href: body-parts/mouth.md
+  - name: Шерсть
+    href: fur/index.yaml
+    items: 
+      - name: Коричневая
+        href: fur/brown.md
+      - name: Черная  
+        href: fur/black.md
   - name: Эффекты
     href: effects/index.yaml
     items: 

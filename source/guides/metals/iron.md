@@ -4,7 +4,6 @@
 
 ![MethodologyDirtyMetallicSteel](../../_images/Pro-Acryl-Methodology/MethodologyDirtyMetallicSteel.jpg "Источник: Pro Acryl Methodology" =400x)
 
-![b2-battle-droid](../../_images/Pro-Acryl-Methodology/b2-battle-droid.jpg "Источник: Pro Acryl Methodology" =400x)
 
 ### Зеленоватое
 
@@ -19,6 +18,14 @@
 ### Сталь
 
 ![steel](../../_images/kitbash_kasper/steel.png "Источник: kitbash_kasper" =400x)
+
+### B2 battle droid
+
+![b2-battle-droid](../../_images/Pro-Acryl-Methodology/b2-battle-droid.jpg "Источник: Pro Acryl Methodology" =400x)
+
+### Ironbreaker armor
+
+![ironbreaker-armor](../../_images/mengel-miniatures/ironbreaker-armor.png "Источник: Mengel Miniatures" =400x)
 
 ## Не металлическое
 

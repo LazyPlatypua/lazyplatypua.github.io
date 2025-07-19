@@ -12,3 +12,10 @@
 
 ![chameleon-skinks](../../_images/mengel-miniatures/chameleon-skinks.png "Источник: Mengel Miniatures" =400x)
 
+## Grot
+
+![moonclan-grot-skin](../../_images/mengel-miniatures/moonclan-grot-skin.jpg "Источник: Mengel Miniatures" =400x)
+
+## Kruleboys
+
+![kruleboys-skin](../../_images/mengel-miniatures/kruleboys-skin.png "Источник: Mengel Miniatures" =400x)

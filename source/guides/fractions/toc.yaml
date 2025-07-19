@@ -1,0 +1,9 @@
+name: Фракции
+href: index.yaml
+items:
+  - name: Космические десантники
+    href: spacemarines.md
+  - name: Лиги Вотаннов
+    href: leagues-of-votann.md
+  - name: Нургл
+    href: nurgle.md

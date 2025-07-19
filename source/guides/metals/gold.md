@@ -6,7 +6,11 @@
 
 ![Gold_Armor](../../_images/Pro-Acryl-Methodology/Gold_Armor.webp "Источник: Pro Acryl Methodology" =400x)
 
-## Некронское
+### Дочери кейна
+
+![daughters-of-khaine-quick-gold](../../_images/mengel-miniatures/daughters-of-khaine-quick-gold.png "Источник: Mengel Miniatures" =400x)
+
+### Некронское
 
 ![necron-gold](../../_images/kitbash_kasper/necron-gold.png "Источник: kitbash_kasper" =400x)
 
