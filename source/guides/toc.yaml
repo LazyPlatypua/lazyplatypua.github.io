@@ -125,6 +125,8 @@ items:
     items: 
       - name: Полосы опасности
         href: drawings/hazard-stripes.md
+      - name: Шашечки
+        href: drawings/checkers.md
   - name: Ткань
     href: cloth/index.yaml
     items: 
@@ -144,6 +146,8 @@ items:
         href: cloth/red.md
       - name: Парусина
         href: cloth/sailcloth.md
+      - name: Серая
+        href: cloth/grey.md
       - name: Синяя
         href: cloth/blue.md
       - name: Фиолетовая
