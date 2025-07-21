@@ -110,16 +110,34 @@ items:
   - name: Методы
     href: methods/index.yaml
     items: 
+      - name: Аэрограф
+        href: methods/airbrush.md
+      - name: Влажное смешивание
+        href: methods/wet-blending.md
+      - name: Высветление краев
+        href: methods/edge-highlighting.md
       - name: Затемнение маслами
-        href: methods/oil-recess.md
+        href: methods/shading.md
+      - name: Контраст
+        href: methods/contrast.md
+      - name: Лессировка
+        href: methods/glazing.md
+      - name: Наслаивание
+        href: methods/layering.md
+      - name: Не металлический металл
+        href: methods/nmm.md
+      - name: Объемный скетч
+        href: methods/value-sketch.md
       - name: Подсказки
         href: methods/cheat.md
+      - name: Разбавление краски
+        href: methods/thinning.md
       - name: Размытие
         href: methods/feathering.md
-      - name: Сколы брони
-        href: methods/armor-chipping.md
       - name: Точечная штриховка
         href: methods/stippling.md
+      - name: Устаревание
+        href: methods/weathering.md
   - name: Рисунки
     href: drawings/index.yaml
     items: 
@@ -163,6 +181,8 @@ items:
         href: body-parts/bone.md
       - name: Крылья
         href: body-parts/wings.md
+      - name: Лицо
+        href: body-parts/face.md
       - name: Рот
         href: body-parts/mouth.md
   - name: Шерсть

@@ -1,4 +1,10 @@
-# Сколы брони
+# Устаревание
+
+## Видео руководство от Zumikito Miniatures
+
+@[youtube](https://youtu.be/Sy2g5mQAYz4?si=kvx6eWPpBD2-z069)
+
+## Сколы брони от etho_minis
 
 ![armor-chipping-1](../../_images/etho-minis/armor-chipping-1.jpg "Источник: etho_minis" =400x)
 ![armor-chipping-2](../../_images/etho-minis/armor-chipping-2.jpg "Источник: etho_minis" =400x)

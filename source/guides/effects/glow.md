@@ -4,6 +4,10 @@
 
 ![core-flux-glow](../../_images/kitbash_kasper/core-flux-glow.png "Источник: kitbash_kasper" =400x)
 
+## Видео руководство от Zumikito Miniatures
+
+@[youtube](https://youtu.be/lGxjc7cdwms?si=IOR0gDhHV-pQ1Cl-)
+
 ## Голубые глаза
 
 ![blue-eye-glow](../../_images/elevatedminis/blue-eye-glow.jpg "Источник: elevatedminis" =400x)
