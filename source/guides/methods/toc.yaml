@@ -1,0 +1,34 @@
+name: Методы
+href: index.yaml
+items:
+  - name: Аэрограф
+    href: airbrush.md
+  - name: Влажное смешивание
+    href: wet-blending.md
+  - name: Высветление краев
+    href: edge-highlighting.md
+  - name: Затемнение
+    href: shading.md
+  - name: Контраст
+    href: contrast.md
+  - name: Лессировка
+    href: glazing.md
+  - name: Наслаивание
+    href: layering.md
+  - name: Не металлический металл
+    href: nmm.md
+  - name: Объемный скетч
+    href: value-sketch.md
+  - name: Подсказки
+    href: cheat.md
+  - name: Разбавление краски
+    href: thinning.md
+  - name: Размытие
+    href: feathering.md
+  - name: Сухая кисть
+    href: drybrush.md
+  - name: Точечная штриховка
+    href: stippling.md
+  - name: Устаревание
+    href: weathering.md
+ 

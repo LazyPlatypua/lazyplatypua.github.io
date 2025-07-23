@@ -1,0 +1,7 @@
+name: Волосы
+href: index.yaml
+items:
+  - name: Бирюзовые
+    href: turquoise.md
+  - name: Розовые 
+    href: pink.md

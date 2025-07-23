@@ -1,0 +1,20 @@
+name: Броня
+href: index.yaml
+items:
+  - name: Белая 
+    href: white.md
+  - name: Бирюзовая
+    href: turquoise.md
+  - name: Желтая
+    href: yellow.md
+  - name: Зеленая 
+    href: green.md
+  - name: Коричневая
+    href: brown.md
+  - name: Серая
+    href: grey.md  
+  - name: Синяя
+    href: blue.md
+  - name: Черная
+    href: black.md
+  

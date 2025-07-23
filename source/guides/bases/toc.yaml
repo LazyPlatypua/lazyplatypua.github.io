@@ -1,0 +1,13 @@
+name: Базы
+href: index.yaml
+items:
+  - name: Город
+    href: city.md
+  - name: Марс
+    href: mars.md
+  - name: Поле битвы
+    href: battlefield.md
+  - name: Пустыня
+    href: desert.md
+  - name: Снежная
+    href: snow.md

@@ -1,0 +1,7 @@
+name: Кожа (материал)
+href: index.yaml
+items:
+  - name: Коричневая
+    href: brown.md
+  - name: Красная
+    href: red.md

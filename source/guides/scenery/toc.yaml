@@ -1,0 +1,11 @@
+name: Ландшафт
+href: index.yaml
+items:
+  - name: Бетон
+    href: concrete.md
+  - name: Камень
+    href: rock.md
+  - name: Пепельные отходы
+    href: ash.md
+  - name: Трава 
+    href: grass.md

@@ -1,0 +1,1 @@
+window.__DATA__.data.toc = {"name":"Шерсть","href":"guides\\fur\\index.html","items":[{"name":"Коричневая","href":"guides\\fur\\brown.html","id":"Коричневая-0-0.36365504708857355"},{"name":"Черная","href":"guides\\fur\\black.html","id":"Черная-1-0.7959543314354245"}]};
