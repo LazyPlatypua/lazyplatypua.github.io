@@ -1,5 +1,9 @@
 # Устаревание
 
+## Видео руководство от Brushstroke Painting Guides
+
+@[youtube](https://youtu.be/WP1A8eIaYXM?si=ls57lXNphzhnSGxP)
+
 ## Видео руководство от Zumikito Miniatures
 
 @[youtube](https://youtu.be/Sy2g5mQAYz4?si=kvx6eWPpBD2-z069)

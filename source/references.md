@@ -11,6 +11,7 @@
 - [youtube.com/@MattsHobbyHour](https://www.youtube.com/@MattsHobbyHour) — инструкции по росписи моделей Games Workshop (англ.) (Дата обращения: 04.11.2024)
 - [youtube.com/@MarcoFrisoniNJM](https://www.youtube.com/@MarcoFrisoniNJM) — инструкции по работе с масляными красками и красками для гризайля (англ.) (Дата обращения: 04.11.2024)
 - [youtube.com/@GoobertownHobbies](https://www.youtube.com/@GoobertownHobbies) — много полезной информации по химии пластиков, смол и жидкостей (англ.) (Дата обращения: 27.11.2024)
+- [youtube.com/@BrushstrokePaintingGuides](https://www.youtube.com/@BrushstrokePaintingGuides) — глубокие инструкции по базовым тема (англ.) (Дата обращения: 23.07.2025)
 
 ## Reddit
 
@@ -38,4 +39,3 @@
 - [goodork.ru/blog/kak-ustroen-aehrograf](https://goodork.ru/blog/kak-ustroen-aehrograf) — все об устройстве аэрографа (Дата обращения: 18.05.2024)
 - [lightminiatures.com/tutorials/](https://www.lightminiatures.com/tutorials/) — инструкции по драматичному освещению миниатюр (англ.) (Дата обращения: 04.11.2024)
 - [monumenthobbies](https://monumenthobbies.com/blogs/methodologies) — инструкции по разным материалам (англ.) (Дата обращения: 08.07.2025)
-

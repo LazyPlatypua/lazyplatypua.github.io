@@ -24,6 +24,8 @@ links:
     href: thinning.md
   - title: Размытие
     href: feathering.md
+  - title: Сухая кисть
+    href: drybrush.md
   - title: Точечная штриховка
     href: stippling.md
   - title: Устаревание

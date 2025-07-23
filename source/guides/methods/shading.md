@@ -1,5 +1,9 @@
 # Затемнение
 
+## Видео руководство от Brushstroke Painting Guides
+
+@[youtube](https://youtu.be/mADYQQOH9a8?si=gtLfY_lhRaPTrCP8)
+
 ## Видео руководство от Zumikito Miniatures
 
 @[youtube](https://youtu.be/S6uienJsj4s?si=dNy2IRDxvC_AblZ5)

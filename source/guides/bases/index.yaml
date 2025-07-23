@@ -2,6 +2,10 @@ title: Базы
 links:
   - title: Город
     href: city.md
+  - title: Марс
+    href: mars.md
+  - title: Поле боя
+    href: battlefield.md
   - title: Пустыня
     href: desert.md
   - title: Снежная

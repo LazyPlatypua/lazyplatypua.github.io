@@ -4,6 +4,10 @@
 
 ![core-flux-glow](../../_images/kitbash_kasper/core-flux-glow.png "Источник: kitbash_kasper" =400x)
 
+## Видео руководство от Brushstroke Painting Guides
+
+@[youtube](https://youtu.be/N9anFZQ9ALE?si=PPji3yx3nVBvB8Rd)
+
 ## Видео руководство от Zumikito Miniatures
 
 @[youtube](https://youtu.be/lGxjc7cdwms?si=IOR0gDhHV-pQ1Cl-)
