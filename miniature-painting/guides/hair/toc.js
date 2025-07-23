@@ -1,1 +1,1 @@
-window.__DATA__.data.toc = {"name":"Волосы","href":"guides\\hair\\index.html","items":[{"name":"Бирюзовые","href":"guides\\hair\\turquoise.html","id":"Бирюзовые-0-0.915124712799307"},{"name":"Розовые","href":"guides\\hair\\pink.html","id":"Розовые-1-0.6250885136030939"}]};
+window.__DATA__.data.toc = {"name":"Волосы","href":"guides\\hair\\index.html","items":[{"name":"Бирюзовые","href":"guides\\hair\\turquoise.html","id":"Бирюзовые-0-0.6814092878476141"},{"name":"Розовые","href":"guides\\hair\\pink.html","id":"Розовые-1-0.829544074581825"}]};

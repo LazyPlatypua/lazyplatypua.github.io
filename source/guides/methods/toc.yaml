@@ -7,20 +7,30 @@ items:
     href: wet-blending.md
   - name: Высветление краев
     href: edge-highlighting.md
+  - name: Гризайль
+    href: grisaille.md
+  - name: Декали
+    href: decals.md
   - name: Затемнение
     href: shading.md
+  - name: Зенитальное высветление
+    href: zenithal-highlighting.md
   - name: Контраст
     href: contrast.md
   - name: Лессировка
     href: glazing.md
   - name: Наслаивание
     href: layering.md
+  - name: Настоящий металл
+    href: tmm.md
   - name: Не металлический металл
     href: nmm.md
   - name: Объемный скетч
     href: value-sketch.md
   - name: Подсказки
     href: cheat.md
+  - name: Покраска армий
+    href: army-painting.md
   - name: Разбавление краски
     href: thinning.md
   - name: Размытие
@@ -31,4 +41,6 @@ items:
     href: stippling.md
   - name: Устаревание
     href: weathering.md
+  - name: Citadel Style
+    href: citadel-style.md
  

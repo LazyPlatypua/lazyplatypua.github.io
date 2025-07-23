@@ -27,11 +27,10 @@ navigation:
       - type: controls
 items: 
   - name: Начать красить
+    labeled: true
     href: how-to-start.md
   - name: Подготовить миниатюру
-    include: { mode: link, path: preparation/toc.yaml }
-  - name: Базовые методы
-    include: { mode: link, path: methods/toc.yaml }
+    href: prepare.md
   - name: Инвентарь
     include: { mode: link, path: inventory/toc.yaml }
   - name: Руководства
