@@ -2,7 +2,7 @@
 
 ![Snowy_Winter_Bases](../_images/Pro-Acryl-Methodology/Snowy_Winter_Bases.webp "Источник: Pro Acryl Methodology" =400x)
 
-## Видео руководство от Brushstroke Painting Guides
+## Видео руководства от Brushstroke Painting Guides
 
 @[youtube](https://youtu.be/MJLPccbxbkk?si=j-Olfvrq8FiQTulk)
 
