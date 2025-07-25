@@ -4,12 +4,36 @@ links:
   - title: Начать красить
     href: how-to-start.md
   - title: Подготовить миниатюру
-    href: preparation/index.yaml
-  - title: Базовые методы
-    href: methods/index.yaml
-  - title: Руководства
-    href: guides/index.yaml
+    href: prepare.md
   - title: Инвентарь
-    href: inventory/index.yaml
+    href: inventory.md
   - title: Вредные советы
     href: negative.md
+  - title: Базы
+    href: bases/index.yaml
+  - title: Броня
+    href: armor/index.yaml
+  - title: Волосы
+    href: hair/index.yaml
+  - title: Дерево
+    href: wood/index.yaml
+  - title: Кожа (материал)
+    href: leather/index.yaml
+  - title: Кожа (телесные цвета)
+    href: skin/index.yaml
+  - title: Ландшафт
+    href: scenery/index.yaml
+  - title: Металлы
+    href: metals/index.yaml
+  - title: Рисунки
+    href: drawings/index.yaml
+  - title: Ткань
+    href: cloth/index.yaml
+  - title: Фракции 
+    href: fractions/index.yaml
+  - title: Части тел
+    href: body-parts/index.yaml
+  - title: Шерсть
+    href: fur/index.yaml
+  - title: Эффекты
+    href: effects/index.yaml

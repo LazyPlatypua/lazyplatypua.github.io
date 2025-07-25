@@ -1,0 +1,1 @@
+window.__DATA__.data.toc = {"name":"Эффекты","href":"effects\\index.html","items":[{"name":"Кровь и внутренности","href":"effects\\blood.html","id":"Кровь и внутренности-0-0.29530316262493295"},{"name":"Пламя","href":"effects\\flames.html","id":"Пламя-1-0.8508107379468386"},{"name":"Свет","href":"effects\\glow.html","id":"Свет-2-0.7709548878688306"}]};

@@ -1,1 +1,0 @@
-window.__DATA__.data.toc = {"name":"Рисунки","href":"guides\\drawings\\index.html","items":[{"name":"Полосы опасности","href":"guides\\drawings\\hazard-stripes.html","id":"Полосы опасности-0-0.45480959729846826"},{"name":"Шашечки","href":"guides\\drawings\\checkers.html","id":"Шашечки-1-0.7024152120305072"}]};

@@ -1,0 +1,1 @@
+window.__DATA__.data.toc = {"name":"Рисунки","href":"drawings\\index.html","items":[{"name":"Полосы опасности","href":"drawings\\hazard-stripes.html","id":"Полосы опасности-0-0.38462258944270555"},{"name":"Шашечки","href":"drawings\\checkers.html","id":"Шашечки-1-0.3168768354371416"}]};

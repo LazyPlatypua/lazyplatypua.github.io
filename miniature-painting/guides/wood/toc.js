@@ -1,1 +1,0 @@
-window.__DATA__.data.toc = {"name":"Дерево","href":"guides\\wood\\index.html","items":[{"name":"Зеленое","href":"guides\\wood\\green.html","id":"Зеленое-0-0.7681955116413688"}]};

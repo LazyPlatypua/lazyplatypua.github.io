@@ -30,13 +30,44 @@ items:
     labeled: true
     href: how-to-start.md
   - name: Подготовить миниатюру
+    labeled: true
     href: prepare.md
   - name: Инвентарь
-    include: { mode: link, path: inventory/toc.yaml }
-  - name: Руководства
-    include: { mode: link, path: guides/toc.yaml }  
+    labeled: true
+    href: inventory.md
   - name: Вредные советы
+    labeled: true
     href: negative.md
+  - name: Базы
+    include: { mode: link, path: bases/toc.yaml }
+  - name: Броня
+    include: { mode: link, path: armor/toc.yaml }
+  - name: Волосы
+    include: { mode: link, path: hair/toc.yaml }
+  - name: Дерево
+    include: { mode: link, path: wood/toc.yaml }
+  - name: Кожа (материал)
+    include: { mode: link, path: leather/toc.yaml }
+  - name: Кожа (телесные цвета)
+    include: { mode: link, path: skin/toc.yaml }
+  - name: Металлы
+    include: { mode: link, path: metals/toc.yaml }
+  - name: Ландшафт
+    include: { mode: link, path: scenery/toc.yaml }
+  - name: Методы
+    include: { mode: link, path: methods/toc.yaml }
+  - name: Рисунки
+    include: { mode: link, path: drawings/toc.yaml }
+  - name: Ткань
+    include: { mode: link, path: cloth/toc.yaml }
+  - name: Фракции
+    include: { mode: link, path: fractions/toc.yaml }
+  - name: Части тел
+    include: { mode: link, path: body-parts/toc.yaml }
+  - name: Шерсть
+    include: { mode: link, path: fur/toc.yaml }
+  - name: Эффекты
+    include: { mode: link, path: effects/toc.yaml }
   - name: Контакты
     hidden: true
     href: contacts.md
