@@ -1,6 +1,6 @@
 # Пустыня
 
-![desert-base](../../_images/elevatedminis/desert-base.jpg "Источник: elevatedminis" =400x)
+![desert-base](../_images/elevatedminis/desert-base.jpg "Источник: elevatedminis" =400x)
 
 ## Видео руководство от Brushstroke Painting Guides
 

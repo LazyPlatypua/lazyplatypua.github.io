@@ -25,6 +25,7 @@
 - [etho_minis](https://www.instagram.com/etho_minis/) — короткие руководства по основным техникам (англ.) (Дата обращения: 14.07.2025)
 - [zarenadt](https://www.instagram.com/zarenadt/) — короткие руководства по покраске космических десантников (англ.) (Дата обращения: 14.07.2025)
 - [elevatedminis](https://www.instagram.com/elevatedminis/) — короткие руководства по мрачным миниатюрам (англ.) (Дата обращения: 14.07.2025)
+- [tomaspersifalpekar](https://www.instagram.com/tomaspersifalpekar/) — красивые работы на миниатюрах Games Workshop (англ.) (Дата обращения: 14.07.2025)
 
 ## Другое
 

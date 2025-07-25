@@ -2,4 +2,4 @@
 
 ## Кадианский 323 полк
 
-![cadian-323](../../_images/mengel-miniatures/cadian-323.png "Источник: Mengel Miniatures" =400x)
+![cadian-323](../_images/mengel-miniatures/cadian-323.png "Источник: Mengel Miniatures" =400x)
