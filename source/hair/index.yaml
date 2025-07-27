@@ -1,6 +1,16 @@
 title: Волосы
 links:
+  - title: Белые
+    href: white.md
   - title: Бирюзовые
     href: turquoise.md
+  - title: Коричневые
+    href: brown.md
+  - title: Красные
+    href: red.md
   - title: Розовые
     href: pink.md
+  - title: Светлые 
+    href: blonde.md
+  - title: Черные
+    href: black.md

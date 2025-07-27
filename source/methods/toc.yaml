@@ -41,6 +41,8 @@ items:
     href: stippling.md
   - name: Устаревание
     href: weathering.md
+  - name: Фотография миниатюр
+    href: photos.md
   - name: Citadel Style
     href: citadel-style.md
  

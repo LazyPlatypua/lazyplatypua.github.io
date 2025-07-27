@@ -4,14 +4,16 @@
 
 ## Youtube
 
-- [youtube.com/@VinceVenturella](https://www.youtube.com/@VinceVenturella) — большое количество инструкций разных методов (англ.) (Дата обращения: 06.04.2024)
-- [youtube.com/@Miniac](https://www.youtube.com/@Miniac) — глубокие инструкции с хорошим сопровождающим видео (англ.) (Дата обращения: 18.05.2024)
-- [youtube.com/@Zumikito](https://www.youtube.com/@Zumikito) — быстрые инструкции (англ.) (Дата обращения: 18.05.2024)
-- [youtube.com/@ArtisOpus](https://www.youtube.com/@ArtisOpus) — инструкции по сухой кисти (англ.) (Дата обращения: 18.05.2024)
-- [youtube.com/@MattsHobbyHour](https://www.youtube.com/@MattsHobbyHour) — инструкции по росписи моделей Games Workshop (англ.) (Дата обращения: 04.11.2024)
-- [youtube.com/@MarcoFrisoniNJM](https://www.youtube.com/@MarcoFrisoniNJM) — инструкции по работе с масляными красками и красками для гризайля (англ.) (Дата обращения: 04.11.2024)
-- [youtube.com/@GoobertownHobbies](https://www.youtube.com/@GoobertownHobbies) — много полезной информации по химии пластиков, смол и жидкостей (англ.) (Дата обращения: 27.11.2024)
-- [youtube.com/@BrushstrokePaintingGuides](https://www.youtube.com/@BrushstrokePaintingGuides) — глубокие инструкции по базовым тема (англ.) (Дата обращения: 23.07.2025)
+- [VinceVenturella](https://www.youtube.com/@VinceVenturella) — большое количество инструкций разных методов от победителя конкурсов покраски (англ.) (Дата обращения: 06.04.2024)
+- [Miniac](https://www.youtube.com/@Miniac) — глубокие инструкции с хорошим сопровождающим видео (англ.) (Дата обращения: 18.05.2024)
+- [Zumikito](https://www.youtube.com/@Zumikito) — быстрые инструкции (англ.) (Дата обращения: 18.05.2024)
+- [ArtisOpus](https://www.youtube.com/@ArtisOpus) — инструкции по сухой кисти (англ.) (Дата обращения: 18.05.2024)
+- [MattsHobbyHour](https://www.youtube.com/@MattsHobbyHour) — инструкции по росписи моделей Games Workshop (англ.) (Дата обращения: 04.11.2024)
+- [MarcoFrisoniNJM](https://www.youtube.com/@MarcoFrisoniNJM) — инструкции по работе с масляными красками и красками для гризайля (англ.) (Дата обращения: 04.11.2024)
+- [GoobertownHobbies](https://www.youtube.com/@GoobertownHobbies) — много полезной информации по химии пластиков, смол и жидкостей (англ.) (Дата обращения: 27.11.2024)
+- [BrushstrokePaintingGuides](https://www.youtube.com/@BrushstrokePaintingGuides) — глубокие инструкции по базовым темам (англ.) (Дата обращения: 23.07.2025)
+- [Squidly Bits](https://www.youtube.com/@squidlybits1985) — короткие инструкции и критика работ (англ.) (Дата обращения: 27.07.2025)
+- [Trovarion Miniatures](https://www.youtube.com/@trovarion) — инструкции от победителя конкурсов покраски (англ.) (Дата обращения: 27.07.2025)
 
 ## Reddit
 
@@ -40,3 +42,4 @@
 - [goodork.ru/blog/kak-ustroen-aehrograf](https://goodork.ru/blog/kak-ustroen-aehrograf) — все об устройстве аэрографа (Дата обращения: 18.05.2024)
 - [lightminiatures.com/tutorials/](https://www.lightminiatures.com/tutorials/) — инструкции по драматичному освещению миниатюр (англ.) (Дата обращения: 04.11.2024)
 - [monumenthobbies](https://monumenthobbies.com/blogs/methodologies) — инструкции по разным материалам (англ.) (Дата обращения: 08.07.2025)
+- [tinylegend](https://teletype.in/@tinylegend/+gajdy) — авторский канал игрового покраса, не обновляется с 2020 года (Дата обращения: 27.07.2025)

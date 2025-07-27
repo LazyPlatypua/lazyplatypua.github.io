@@ -3,3 +3,5 @@ href: index.yaml
 items:
   - name: Зеленое 
     href: green.md
+  - name: Коричневое
+    href: brown.md

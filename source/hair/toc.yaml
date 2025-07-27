@@ -1,7 +1,17 @@
 name: Волосы
 href: index.yaml
 items:
+  - name: Белые
+    href: white.md
   - name: Бирюзовые
     href: turquoise.md
+  - name: Коричневые
+    href: brown.md
+  - name: Красные
+    href: red.md
   - name: Розовые 
     href: pink.md
+  - name: Светлые 
+    href: blonde.md
+  - name: Черные
+    href: black.md

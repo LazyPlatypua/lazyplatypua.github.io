@@ -3,5 +3,7 @@ href: index.yaml
 items:
   - name: Полосы опасности
     href: hazard-stripes.md
+  - name: Тату
+    href: tattoo.md
   - name: Шашечки
     href: checkers.md
