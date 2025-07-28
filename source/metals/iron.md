@@ -2,8 +2,7 @@
 
 ## Металлическое
 
-![MethodologyDirtyMetallicSteel](../_images/Pro-Acryl-Methodology/MethodologyDirtyMetallicSteel.jpg "Источник: Pro Acryl Methodology" =400x)
-
+![MethodologyDirtyMetallicSteel](../_images/pro-acryl-methodology/MethodologyDirtyMetallicSteel.jpg "Источник: Pro Acryl Methodology" =400x)
 
 ### Зеленоватое
 
@@ -13,7 +12,7 @@
 
 ### Ржавое
 
-![rusty-metallic-blade](../_images/Pro-Acryl-Methodology/rusty-metallic-blade.webp "Источник: Pro Acryl Methodology" =400x)
+![rusty-metallic-blade](../_images/pro-acryl-methodology/rusty-metallic-blade.webp "Источник: Pro Acryl Methodology" =400x)
 
 ### Сталь
 
@@ -21,7 +20,7 @@
 
 ### B2 battle droid
 
-![b2-battle-droid](../_images/Pro-Acryl-Methodology/b2-battle-droid.jpg "Источник: Pro Acryl Methodology" =400x)
+![b2-battle-droid](../_images/pro-acryl-methodology/b2-battle-droid.jpg "Источник: Pro Acryl Methodology" =400x)
 
 ### Ironbreaker armor
 
@@ -35,5 +34,4 @@
 
 ### Сталь
 
-![nmm-steel-blue-hue](../_images/Pro-Acryl-Methodology/nmm-steel-blue-hue.webp "Источник: Pro Acryl Methodology" =400x)
-
+![nmm-steel-blue-hue](../_images/pro-acryl-methodology/nmm-steel-blue-hue.webp "Источник: Pro Acryl Methodology" =400x)

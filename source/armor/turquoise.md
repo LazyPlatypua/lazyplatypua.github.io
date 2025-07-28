@@ -6,8 +6,8 @@
 
 ## Нефритовая
 
-![jade-armor](../_images/Pro-Acryl-Methodology/jade-armor.webp "Источник: Pro Acryl Methodology" =400x)
+![jade-armor](../_images/pro-acryl-methodology/jade-armor.webp "Источник: Pro Acryl Methodology" =400x)
 
 ## Темно-бирюзовая
 
-![dark-turquoise-armor](../_images/Pro-Acryl-Methodology/dark-turquoise-armor.webp "Источник: Pro Acryl Methodology" =400x)
+![dark-turquoise-armor](../_images/pro-acryl-methodology/dark-turquoise-armor.webp "Источник: Pro Acryl Methodology" =400x)

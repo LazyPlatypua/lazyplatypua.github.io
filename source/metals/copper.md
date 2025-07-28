@@ -1,3 +1,3 @@
 # Медь
 
-![dirty-penny-nmm](../_images/Pro-Acryl-Methodology/dirty-penny-nmm.webp "Источник: Pro Acryl Methodology" =400x)
+![dirty-penny-nmm](../_images/pro-acryl-methodology/dirty-penny-nmm.webp "Источник: Pro Acryl Methodology" =400x)

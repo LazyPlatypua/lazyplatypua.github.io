@@ -3,7 +3,7 @@
 ![black-armor](../_images/tomaspersifalpekar/black-armor.jpg "Источник: tomaspersifalpekar " =400x)
 
 
-![black-armor](../_images/Pro-Acryl-Methodology/black-armor.webp "Источник: Pro Acryl Methodology" =400x)
+![black-armor](../_images/pro-acryl-methodology/black-armor.webp "Источник: Pro Acryl Methodology" =400x)
 
 ## Deathwatch
 

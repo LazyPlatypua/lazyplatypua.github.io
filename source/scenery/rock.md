@@ -6,7 +6,7 @@
 
 ## Серый
 
-![Rock_and_Stone_Methodology](../_images/Pro-Acryl-Methodology/Rock_and_Stone_Methodology.webp "Источник: Pro Acryl Methodology" =400x)
+![Rock_and_Stone_Methodology](../_images/pro-acryl-methodology/Rock_and_Stone_Methodology.webp "Источник: Pro Acryl Methodology" =400x)
 
 ## Синий
 

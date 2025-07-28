@@ -28,6 +28,7 @@
 - [zarenadt](https://www.instagram.com/zarenadt/) — короткие руководства по покраске космических десантников (англ.) (Дата обращения: 14.07.2025)
 - [elevatedminis](https://www.instagram.com/elevatedminis/) — короткие руководства по мрачным миниатюрам (англ.) (Дата обращения: 14.07.2025)
 - [tomaspersifalpekar](https://www.instagram.com/tomaspersifalpekar/) — красивые работы на миниатюрах Games Workshop (англ.) (Дата обращения: 14.07.2025)
+- [maverickspaint](https://www.instagram.com/maverickspaint/) — руководства на миниатюрах Games Workshop (англ.) (Дата обращения: 28.07.2025)
 
 ## Другое
 
@@ -37,9 +38,9 @@
 - [cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster_web.pdf?v=1707827727](https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster_web.pdf?v=1707827727) — постер со всеми красками The Army Painter Warpaints Fanatic (англ.) (Дата обращения: 17.04.2024)
 - [www.warhammer-community.com/2016/11/13/citadel-paints/](https://www.warhammer-community.com/2016/11/13/citadel-paints/) — цветовой чарт красок Citadel (англ.) (Дата обращения: 17.04.2024)
 - [scale75.com/descargas/SCALE75COLORCHART.pdf](https://scale75.com/descargas/SCALE75COLORCHART.pdf) — цветовой чарт красок Scale75 (англ.) (Дата обращения: 17.04.2024)
-
 - [razzaminipainting.blogspot.com/2016/07/non-metallic-metals.html](https://razzaminipainting.blogspot.com/2016/07/non-metallic-metals.html) — блог про NMM от Даррена Лэтэма (англ.) (Дата обращения: 18.05.2024)
 - [goodork.ru/blog/kak-ustroen-aehrograf](https://goodork.ru/blog/kak-ustroen-aehrograf) — все об устройстве аэрографа (Дата обращения: 18.05.2024)
 - [lightminiatures.com/tutorials/](https://www.lightminiatures.com/tutorials/) — инструкции по драматичному освещению миниатюр (англ.) (Дата обращения: 04.11.2024)
 - [monumenthobbies](https://monumenthobbies.com/blogs/methodologies) — инструкции по разным материалам (англ.) (Дата обращения: 08.07.2025)
-- [tinylegend](https://teletype.in/@tinylegend/+gajdy) — авторский канал игрового покраса, не обновляется с 2020 года (Дата обращения: 27.07.2025)
+- [tinylegend](https://teletype.in/@tinylegend/+gajdy) — авторский блог игрового покраса, не обновляется с 2020 года (Дата обращения: 27.07.2025)
+- [Creative Twilight](https://creativetwilight.com/) — авторский блог инструкций, не обновляется с 2021 года. (Дата обращения: 28.07.2025)

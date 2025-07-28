@@ -2,7 +2,9 @@ title: Рисунки
 links:
   - title: Полосы опасности
     href: hazard-stripes.md
-  - name: Тату
+  - title: Тату
     href: tattoo.md
+  - title: Череп
+    href: skull.md
   - title: Шашечки
     href: checkers.md
