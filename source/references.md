@@ -29,6 +29,7 @@
 - [elevatedminis](https://www.instagram.com/elevatedminis/) — короткие руководства по мрачным миниатюрам (англ.) (Дата обращения: 14.07.2025)
 - [tomaspersifalpekar](https://www.instagram.com/tomaspersifalpekar/) — красивые работы на миниатюрах Games Workshop (англ.) (Дата обращения: 14.07.2025)
 - [maverickspaint](https://www.instagram.com/maverickspaint/) — руководства на миниатюрах Games Workshop (англ.) (Дата обращения: 28.07.2025)
+- [elminiaturista](https://www.instagram.com/elminiaturista/) — миниатюры с драматичным освещением (англ.) (Дата обращения: 29.07.2025)
 
 ## Другое
 
@@ -43,4 +44,6 @@
 - [lightminiatures.com/tutorials/](https://www.lightminiatures.com/tutorials/) — инструкции по драматичному освещению миниатюр (англ.) (Дата обращения: 04.11.2024)
 - [monumenthobbies](https://monumenthobbies.com/blogs/methodologies) — инструкции по разным материалам (англ.) (Дата обращения: 08.07.2025)
 - [tinylegend](https://teletype.in/@tinylegend/+gajdy) — авторский блог игрового покраса, не обновляется с 2020 года (Дата обращения: 27.07.2025)
-- [Creative Twilight](https://creativetwilight.com/) — авторский блог инструкций, не обновляется с 2021 года. (Дата обращения: 28.07.2025)
+- [Creative Twilight](https://creativetwilight.com/) — авторский блог инструкций, не обновляется с 2021 года (Дата обращения: 28.07.2025)
+- [Toad Painting](http://toadpainting.com/#page-top) — иностранная студия покраски (Дата обращения: 29.07.2025)
+- [Hellfire Hobbies](https://hellfirehobbies.com/) — иностранный магазин (Дата обращения: 29.07.2025)
