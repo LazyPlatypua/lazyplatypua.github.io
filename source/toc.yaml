@@ -27,16 +27,12 @@ navigation:
       - type: controls
 items: 
   - name: Начать красить
-    labeled: true
     href: how-to-start.md
   - name: Подготовить миниатюру
-    labeled: true
     href: prepare.md
   - name: Инвентарь
-    labeled: true
     href: inventory.md
-  - name: Вредные советы
-    labeled: true
+  - name: Вредные советы 
     href: negative.md
   - name: Базы
     include: { mode: link, path: bases/toc.yaml }
