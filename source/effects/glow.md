@@ -30,9 +30,17 @@
 
 ![blue-eye-glow](../_images/elevatedminis/blue-eye-glow.jpg "Источник: elevatedminis" =400x)
 
+## Зеленая плазма
+
+![green-plasma](../_images/elminiaturista/green-plasma.webp "Источник: elminiaturista" =400x)
+
 ## Зелено-желтый
 
 ![yellow-green-glow](../_images/kitbash_kasper/yellow-green-glow.png "Источник: kitbash_kasper" =400x)
+
+## Красная плазма
+
+![red-plasma](../_images/elminiaturista/red-plasma.webp "Источник: elminiaturista" =400x)
 
 ## Призрачный зеленый
 

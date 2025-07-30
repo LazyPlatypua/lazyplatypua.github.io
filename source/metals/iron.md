@@ -34,4 +34,8 @@
 
 ### Сталь
 
+![nmm-sword](../_images/elminiaturista/nmm-sword.webp "Источник: elminiaturista" =400x)
+
 ![nmm-steel-blue-hue](../_images/pro-acryl-methodology/nmm-steel-blue-hue.webp "Источник: Pro Acryl Methodology" =400x)
+
+![nmm-sword-flames](../_images/elminiaturista/nmm-sword-flames.webp "Источник: elminiaturista" =400x)

@@ -10,8 +10,6 @@ links:
     href: tan.md
   - title: Зеленая
     href: green.md
-  - title: Коричневая
-    href: brown.md
   - title: Красная
     href: red.md
   - title: Оранжевая
@@ -22,6 +20,8 @@ links:
     href: irritated.md
   - title: Розовая
     href: pink.md
+  - title: Светлая
+    href: light.md
   - title: Серая
     href: grey.md
   - title: Синяя

@@ -1,5 +1,7 @@
 # Красная ткань
 
+![red-cloth](../_images/elminiaturista/red-cloth.jpg "Источник: elminiaturista" =400x)
+
 ![trech-crusade-red](../_images/kitbash_kasper/trech-crusade-red.png "Источник: kitbash_kasper" =400x)
 
 ## Блеклая
