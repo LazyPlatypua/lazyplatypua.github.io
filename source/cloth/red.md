@@ -6,7 +6,7 @@
 
 ## Блеклая
 
-![faded-red-cloth](../_images/pro-acryl-methodology/faded-red-cloth.webp "Источник: Pro Acryl Methodology" =400x)
+![faded-red-cloth](../_images/pro-acryl/faded-red-cloth.webp "Источник: Pro Acryl Methodology" =400x)
 
 ## Веревка
 

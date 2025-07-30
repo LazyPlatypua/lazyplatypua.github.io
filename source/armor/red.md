@@ -2,11 +2,11 @@
 
 ## Кровавых ангелов
 
-![red-armor](../_images/pro-acryl-methodology/red-armor.webp "Источник: Pro Acryl Methodology" =400x)
+![red-armor](../_images/pro-acryl/red-armor.webp "Источник: Pro Acryl Methodology" =400x)
 
 ## Розоватая
 
-![MethodologyGleamingRedArmor](../_images/pro-acryl-methodology/MethodologyGleamingRedArmor.webp "Источник: Pro Acryl Methodology" =400x)
+![MethodologyGleamingRedArmor](../_images/pro-acryl/MethodologyGleamingRedArmor.webp "Источник: Pro Acryl Methodology" =400x)
 
 ## Brazen Claw
 

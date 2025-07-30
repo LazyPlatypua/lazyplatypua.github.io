@@ -2,9 +2,9 @@
 
 ## Металлическое
 
-![ancient_Gold](../_images/pro-acryl-methodology/1000x1000_Ancient_Gold_Methodology.webp "Источник: Pro Acryl Methodology" =400x)
+![ancient_Gold](../_images/pro-acryl/1000x1000_Ancient_Gold_Methodology.webp "Источник: Pro Acryl Methodology" =400x)
 
-![Gold_Armor](../_images/pro-acryl-methodology/Gold_Armor.webp "Источник: Pro Acryl Methodology" =400x)
+![Gold_Armor](../_images/pro-acryl/Gold_Armor.webp "Источник: Pro Acryl Methodology" =400x)
 
 ### Дочери кейна
 
@@ -18,4 +18,4 @@
 
 ![gold](../_images/mavericks-paint/gold.webp "Источник: Mavericks Paint" =400x)
 
-![warm-nmm-gold](../_images/pro-acryl-methodology/warm-nmm-gold.avif "Источник: Pro Acryl Methodology" =400x)
+![warm-nmm-gold](../_images/pro-acryl/warm-nmm-gold.avif "Источник: Pro Acryl Methodology" =400x)

@@ -1,3 +1,3 @@
 # Красная кожа
 
-![red-flesh](../_images/pro-acryl-methodology/red-flesh.webp "Источник: Pro Acryl Methodology" =400x)
+![red-flesh](../_images/pro-acryl/red-flesh.webp "Источник: Pro Acryl Methodology" =400x)

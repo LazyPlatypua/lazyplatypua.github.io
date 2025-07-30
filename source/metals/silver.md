@@ -6,4 +6,4 @@
 
 ## Не металлическое
 
-![nmm-silver-axe](../_images/pro-acryl-methodology/nmm-silver-axe.jpg "Источник: Pro Acryl Methodology" =400x)
+![nmm-silver-axe](../_images/pro-acryl/nmm-silver-axe.jpg "Источник: Pro Acryl Methodology" =400x)

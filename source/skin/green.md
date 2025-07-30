@@ -2,7 +2,7 @@
 
 ## Бледно-зеленая
 
-![green-skin](../_images/pro-acryl-methodology/green-skin.webp "Источник: Pro Acryl Methodology" =400x)
+![green-skin](../_images/pro-acryl/green-skin.webp "Источник: Pro Acryl Methodology" =400x)
 
 ## Грязно-зеленая
 

@@ -6,7 +6,7 @@
 
 ## Ультрамариновая
 
-![ultra-blue](../_images/pro-acryl-methodology/ultra-blue.webp "Источник: Pro Acryl Methodology" =400x)
+![ultra-blue](../_images/pro-acryl/ultra-blue.webp "Источник: Pro Acryl Methodology" =400x)
 
 ![ultramarine-armor](../_images/mengel-miniatures/ultramarine-armor.png "Источник: Mengel Miniatures" =400x)
 

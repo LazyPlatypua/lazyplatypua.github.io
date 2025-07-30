@@ -2,4 +2,4 @@
 
 ## Камуфляжная униформа
 
-![MethodologyGreenUniform](../_images/pro-acryl-methodology/MethodologyGreenUniform.webp "Источник: Pro Acryl Methodology" =400x)
+![MethodologyGreenUniform](../_images/pro-acryl/MethodologyGreenUniform.webp "Источник: Pro Acryl Methodology" =400x)
