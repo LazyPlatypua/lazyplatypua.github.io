@@ -6,4 +6,8 @@
 
 @[youtube](https://youtu.be/MJLPccbxbkk?si=j-Olfvrq8FiQTulk)
 
-@[youtube](https://youtu.be/N9anFZQ9ALE?si=PPji3yx3nVBvB8Rd)
+@[youtube](https://youtu.be/7-UiTZ1bL4w?si=hOGkTnLPfR1MgEuz)
+
+### Видео руководство от Vince Venturella
+
+@[youtube](https://youtu.be/bMHTPfAvi_M?si=wfgdYLULuPsGQnxd)
