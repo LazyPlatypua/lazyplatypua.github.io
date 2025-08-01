@@ -18,6 +18,12 @@
 
 @[youtube](https://youtu.be/fwhYsYBPM3Q?si=5T7gW900uk70w52g)
 
+### Видео руководства от EonsOfBattle
+
+@[youtube](https://youtu.be/9TvsDOIPWWI?si=V5HLlurYfO8nbQIX)
+
+@[youtube](https://youtu.be/cxbxsB29aQo?si=BLEOqPQ1q5oKp3jk)
+
 ### Видео руководство от Vince Venturella
 
 @[youtube](https://youtu.be/ZAzucQbdzNw?si=uM2Ik7ABKMwuGZ7f)

@@ -1,9 +1,13 @@
 title: Базы
 links:
+  - title: Болото
+    href: swamp.md
   - title: Вода
     href: water.md
   - title: Город
     href: city.md
+  - title: Дерево
+    href: wood.md
   - title: Джунгли
     href: jungle.md
   - title: Лава
@@ -22,6 +26,8 @@ links:
     href: wastes.md
   - title: Пустыня
     href: desert.md
+  - title: Скалы
+    href: rocks.md
   - title: Слизь
     href: ooze.md
   - title: Снежная

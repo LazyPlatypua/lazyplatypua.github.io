@@ -8,6 +8,12 @@
 
 @[youtube](https://youtu.be/7-UiTZ1bL4w?si=hOGkTnLPfR1MgEuz)
 
-### Видео руководство от Vince Venturella
+## Видео руководства от EonsOfBattle
+
+@[youtube](https://youtu.be/gqXabq2NpHY?si=TWUcMV8gYUEAIu52)
+
+@[youtube](https://youtu.be/SIg6OvDjLek?si=IwGZCta3lFjV76FI)
+
+## Видео руководство от Vince Venturella
 
 @[youtube](https://youtu.be/bMHTPfAvi_M?si=wfgdYLULuPsGQnxd)

@@ -1,10 +1,14 @@
 name: Базы
 href: index.yaml
 items:
+  - name: Болото
+    href: swamp.md
   - name: Вода
     href: water.md
   - name: Город
     href: city.md
+  - name: Дерево
+    href: wood.md
   - name: Джунгли
     href: jungle.md
   - name: Лава
@@ -23,6 +27,8 @@ items:
     href: wastes.md
   - name: Пустыня
     href: desert.md
+  - name: Скалы
+    href: rocks.md
   - name: Слизь
     href: ooze.md
   - name: Снежная
