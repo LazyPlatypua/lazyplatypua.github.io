@@ -16,7 +16,7 @@
 
 ## Бирюзовый сердечник некронов
 
-![core-flux-glow](../_images/kitbash_kasper/core-flux-glow.png "Источник: kitbash_kasper" =400x)
+![core-flux-glow](../_images/kitbash_kasper/core-flux-glow.png "Источник: kitbash_kasper" =650x)
 
 ## Видео руководство от Brushstroke Painting Guides
 
@@ -28,28 +28,28 @@
 
 ## Голубые глаза
 
-![blue-eye-glow](../_images/elevatedminis/blue-eye-glow.jpg "Источник: elevatedminis" =400x)
+![blue-eye-glow](../_images/elevatedminis/blue-eye-glow.jpg "Источник: elevatedminis" =650x)
 
 ## Зеленая плазма
 
-![green-plasma](../_images/elminiaturista/green-plasma.webp "Источник: elminiaturista" =400x)
+![green-plasma](../_images/elminiaturista/green-plasma.webp "Источник: elminiaturista" =650x)
 
 ## Зелено-желтый
 
-![yellow-green-glow](../_images/kitbash_kasper/yellow-green-glow.png "Источник: kitbash_kasper" =400x)
+![yellow-green-glow](../_images/kitbash_kasper/yellow-green-glow.png "Источник: kitbash_kasper" =650x)
 
 ## Красная плазма
 
-![red-plasma](../_images/elminiaturista/red-plasma.webp "Источник: elminiaturista" =400x)
+![red-plasma](../_images/elminiaturista/red-plasma.webp "Источник: elminiaturista" =650x)
 
 ## Призрачный зеленый
 
-![green-slimer-nighthaunts](../_images/mengel-miniatures/green-slimer-nighthaunts.png "Источник: Mengel Miniatures" =400x)
+![green-slimer-nighthaunts](../_images/mengel-miniatures/green-slimer-nighthaunts.png "Источник: Mengel Miniatures" =650x)
 
 ## Сине-зеленые глаза
 
-![coold-glare](../_images/kitbash_kasper/coold-glare.png "Источник: kitbash_kasper" =400x)
+![coold-glare](../_images/kitbash_kasper/coold-glare.png "Источник: kitbash_kasper" =650x)
 
 ## Холодный синий
 
-![ice-blue-light](../_images/kitbash_kasper/ice-blue-light.png "Источник: kitbash_kasper" =400x)
+![ice-blue-light](../_images/kitbash_kasper/ice-blue-light.png "Источник: kitbash_kasper" =650x)

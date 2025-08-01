@@ -1,6 +1,6 @@
 # Фотография миниатюр
 
-![photograph-miniatures](../_images/tinylegend/photograph-miniatures.jpeg "Источник: tinylegend — перевод поста с Warhammer Community" =400x)
+![photograph-miniatures](../_images/tinylegend/photograph-miniatures.jpeg "Источник: tinylegend — перевод поста с Warhammer Community" =650x)
 
 ## Видео руководства от Squidly Bits
 

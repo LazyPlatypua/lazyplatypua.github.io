@@ -1,3 +1,3 @@
 # Шашечки
 
-![chequered-kneepad](../_images/zarenadt/chequered-kneepad.png "Источник: zarenadt" =400x)
+![chequered-kneepad](../_images/zarenadt/chequered-kneepad.png "Источник: zarenadt" =650x)

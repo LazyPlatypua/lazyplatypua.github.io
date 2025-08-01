@@ -2,7 +2,7 @@
 
 Добавление темных тонов в углубления для создания теней. Подобного эффекта можно достичь при помощи проливок или рисовать тени вручную.
 
-![shade](../_images/games-workshop/shade.jpg "Источник: games-workshop" =400x)
+![shade](../_images/games-workshop/shade.jpg "Источник: games-workshop" =650x)
 
 Плюсы:
 
@@ -31,11 +31,11 @@
 
 ### Руководство от etho_minis
 
-![oil-recess-shading-1](../_images/etho-minis/oil-recess-shading-1.jpg "Источник: etho_minis" =400x)
-![oil-recess-shading-2](../_images/etho-minis/oil-recess-shading-2.jpg "Источник: etho_minis" =400x)
-![oil-recess-shading-3](../_images/etho-minis/oil-recess-shading-3.jpg "Источник: etho_minis" =400x)
-![oil-recess-shading-4](../_images/etho-minis/oil-recess-shading-4.jpg "Источник: etho_minis" =400x)
-![oil-recess-shading-5](../_images/etho-minis/oil-recess-shading-5.jpg "Источник: etho_minis" =400x)
+![oil-recess-shading-1](../_images/etho-minis/oil-recess-shading-1.jpg "Источник: etho_minis" =650x)
+![oil-recess-shading-2](../_images/etho-minis/oil-recess-shading-2.jpg "Источник: etho_minis" =650x)
+![oil-recess-shading-3](../_images/etho-minis/oil-recess-shading-3.jpg "Источник: etho_minis" =650x)
+![oil-recess-shading-4](../_images/etho-minis/oil-recess-shading-4.jpg "Источник: etho_minis" =650x)
+![oil-recess-shading-5](../_images/etho-minis/oil-recess-shading-5.jpg "Источник: etho_minis" =650x)
 
 ### Руководство от Zumikito Miniatures
 

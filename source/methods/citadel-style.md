@@ -39,13 +39,13 @@
 
     Не забывайте разводить краску водой, чтобы не испортить скульптуру толстыми слоями. В зависимости от краски, может потребоваться несколько слоев.
 
-    ![gold-and-silver-base](../_images/sister-of-battle/body/gold-and-silver-base.jpg =400x)
+    ![gold-and-silver-base](../_images/sister-of-battle/body/gold-and-silver-base.jpg =650x)
 
 3. Нанесите проливку (Wash, shade, tone) соответствующих цветов на миниатюру. Например, темно-коричневую проливкк для дерева, почвы и кожи, а черную — для металла.
 
    Это шаг позволяет без особых усилий создать тени в щелях, прорезях, складках, отверстиях и других углублениях.
 
-   ![blue-wash](../_images/sister-of-battle/body/blue-wash.jpg =400x)
+   ![blue-wash](../_images/sister-of-battle/body/blue-wash.jpg =650x)
 
    Вы можете пропустить большие плоские поверхности, чтобы потом их затемнить или высветлить обычными красками.
 
@@ -55,7 +55,7 @@
 
    Зачастую в миниатюрах используется свет сверху, как на игровом столе и с точки зрения игроков. Поэтому для выберите, верхние части миниатюры. Например, макушка головы, плечи, оружие или выступающее вперед колено.
 
-   ![highlight](../_images/sister-of-battle/body/highlight.jpg =400x)
+   ![highlight](../_images/sister-of-battle/body/highlight.jpg =650x)
 
    Кроме верхних частей модели выберите выступающие детали, чтобы подчеркнуть скульптуру миниатюры.
 
@@ -67,14 +67,14 @@
 
    {% endnote %}
 
-   ![silver-highlight.jpg](../_images/sister-of-battle/body/silver-highlight.jpg =400x)
+   ![silver-highlight.jpg](../_images/sister-of-battle/body/silver-highlight.jpg =650x)
 
    Чтобы создать более плавный переход от базового цвета к освещенному участку (highlight), используйте разбавленную краску в соотношении от 2 частей воды к 1 части краски и ниже.
 
    Вы можете продолжить высветлять миниатюру тем же способом, пользуясь более светлой краской и покрывая меньшую площадь. Так вы добьетесь большего контраста и улучшите читаемость миниатюры.
 
-   ![black-and-red-second-highlight.jpg](../_images/sister-of-battle/body/black-and-red-second-highlight.jpg =400x)
+   ![black-and-red-second-highlight.jpg](../_images/sister-of-battle/body/black-and-red-second-highlight.jpg =650x)
 
 7. Добавьте деталей. Например, глаза, письмена в книгах или царапины.
 
-   ![chipping.jpg](../_images/sister-of-battle/body/chipping.jpg =400x)
+   ![chipping.jpg](../_images/sister-of-battle/body/chipping.jpg =650x)
