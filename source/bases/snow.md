@@ -8,6 +8,10 @@
 
 @[youtube](https://youtu.be/7-UiTZ1bL4w?si=hOGkTnLPfR1MgEuz)
 
+## Видео руководство от Cult of Paint
+
+@[youtube](https://youtu.be/G97lHgFBOiM?si=_9ruOMQWlJT4Nl9f)
+
 ## Видео руководства от EonsOfBattle
 
 @[youtube](https://youtu.be/gqXabq2NpHY?si=TWUcMV8gYUEAIu52)

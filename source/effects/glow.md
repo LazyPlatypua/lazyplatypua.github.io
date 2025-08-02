@@ -18,14 +18,6 @@
 
 ![core-flux-glow](../_images/kitbash_kasper/core-flux-glow.png "Источник: kitbash_kasper" =650x)
 
-## Видео руководство от Brushstroke Painting Guides
-
-@[youtube](https://youtu.be/N9anFZQ9ALE?si=PPji3yx3nVBvB8Rd)
-
-## Видео руководство от Zumikito Miniatures
-
-@[youtube](https://youtu.be/lGxjc7cdwms?si=IOR0gDhHV-pQ1Cl-)
-
 ## Голубые глаза
 
 ![blue-eye-glow](../_images/elevatedminis/blue-eye-glow.jpg "Источник: elevatedminis" =650x)
@@ -53,3 +45,15 @@
 ## Холодный синий
 
 ![ice-blue-light](../_images/kitbash_kasper/ice-blue-light.png "Источник: kitbash_kasper" =650x)
+
+## Видео руководство от Brushstroke Painting Guides
+
+@[youtube](https://youtu.be/N9anFZQ9ALE?si=PPji3yx3nVBvB8Rd)
+
+### Видео руководство от Cult of Paint
+
+@[youtube](https://youtu.be/VlNb85f05yw?si=EdIlYaJZ5gMhJibr)
+
+## Видео руководство от Zumikito Miniatures
+
+@[youtube](https://youtu.be/LYJFp5NUM4A?si=63q0mGOhUk-eP_Jf)

@@ -14,7 +14,8 @@
 - [BrushstrokePaintingGuides](https://www.youtube.com/@BrushstrokePaintingGuides) — глубокие инструкции по базовым темам (англ.) (Дата обращения: 23.07.2025)
 - [Squidly Bits](https://www.youtube.com/@squidlybits1985) — короткие инструкции и критика работ (англ.) (Дата обращения: 27.07.2025)
 - [Trovarion Miniatures](https://www.youtube.com/@trovarion) — инструкции от победителя конкурсов покраски (англ.) (Дата обращения: 27.07.2025)
-- [EonsOfBattle](https://www.youtube.com/@EonsOfBattle) — инструкции для баз и разные видео по продукции GAmes Workshop (англ.) (Дата обращения: 01.08.2025)
+- [EonsOfBattle](https://www.youtube.com/@EonsOfBattle) — инструкции для баз и разные видео по продукции Games Workshop (англ.) (Дата обращения: 01.08.2025)
+- [Cult of Paint](https://www.youtube.com/@cultofpaint) — инструкции для отдельных деталей и полный покрас миниатюр (англ.) (Дата обращения: 02.08.2025)
 
 ## Reddit
 

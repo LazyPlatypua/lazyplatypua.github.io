@@ -21,6 +21,10 @@
 
 ![bronze](../_images/kitbash_kasper/bronze.png "Источник: kitbash_kasper" =650x)
 
+#### Видео руководство от Cult of Paint
+
+@[youtube](https://youtu.be/eHCS_HOa5Do?si=yN38Vk91kRPfnDos)
+
 ## Не металлическая
 
 ![warm-bronze-nmm](../_images/pro-acryl/warm-bronze-nmm.webp "Источник: Pro Acryl Methodology" =650x)

@@ -14,6 +14,10 @@
 
 ![rusty-metallic-blade](../_images/pro-acryl/rusty-metallic-blade.webp "Источник: Pro Acryl Methodology" =650x)
 
+#### Видео руководство от Cult of Paint
+
+@[youtube](https://youtu.be/szi9_I3wypc?si=zD71lDtGO-Bs9Z8D)
+
 ### Сталь
 
 ![steel](../_images/kitbash_kasper/steel.png "Источник: kitbash_kasper" =650x)

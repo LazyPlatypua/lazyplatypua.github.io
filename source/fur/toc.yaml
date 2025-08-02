@@ -1,6 +1,8 @@
 name: Шерсть
 href: index.yaml
 items:
+  - name: Белая
+    href: white.md
   - name: Коричневая
     href: brown.md
   - name: Черная  

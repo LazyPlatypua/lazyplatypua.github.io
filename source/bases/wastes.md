@@ -1,5 +1,11 @@
 # База с пустошами
 
+## Грязь
+
+### Видео руководство от Cult of Paint
+
+@[youtube](https://youtu.be/uPlpBLkUUdA?si=5eC5NCJyKwrR_Xbx)
+
 ## Индустрия
 
 ### Видео руководство от Vince Venturella

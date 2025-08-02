@@ -12,6 +12,10 @@
 
 ![chameleon-skinks](../_images/mengel-miniatures/chameleon-skinks.png "Источник: Mengel Miniatures" =650x)
 
+### Видео руководство от Cult of Paint
+
+@[youtube](https://youtu.be/cZ3oI3CLlmU?si=sbAqLiZYZvLtlsVM)
+
 ## Grot
 
 ![moonclan-grot-skin](../_images/mengel-miniatures/moonclan-grot-skin.jpg "Источник: Mengel Miniatures" =650x)
