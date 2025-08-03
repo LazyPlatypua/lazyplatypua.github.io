@@ -8,6 +8,12 @@
 
 ![red-lighting-sword](../_images/elminiaturista/red-lighting-sword.webp "Источник: elminiaturista" =650x)
 
-### Видео руководство от Cult of Paint
+## Видео руководства
+
+### От Cult of Paint
 
 @[youtube](https://youtu.be/eLQvXqy9eNU?si=IZoNlZxq51-oemjF)
+
+### От Ph3lan's Miniatures
+
+@[youtube](https://youtu.be/ooRXB5b5TeM?si=rgTWuqeXoHUigEYQ)

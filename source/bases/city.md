@@ -24,6 +24,10 @@
 
 @[youtube](https://youtu.be/cxbxsB29aQo?si=BLEOqPQ1q5oKp3jk)
 
+### Видео руководство от Ph3lan's Miniatures
+
+@[youtube](https://youtu.be/RkVk9odiMhA?si=zzXD6GzxpsC0DHtX)
+
 ### Видео руководство от Vince Venturella
 
 @[youtube](https://youtu.be/ZAzucQbdzNw?si=uM2Ik7ABKMwuGZ7f)

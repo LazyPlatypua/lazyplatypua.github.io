@@ -7,3 +7,7 @@
 ## Темно-зеленая
 
 ![dark-green-armor](../_images/pro-acryl/dark-green-armor.webp "Источник: Pro Acryl Methodology" =650x)
+
+### Видео руководство от Ph3lan's Miniatures
+
+@[youtube](https://youtu.be/FHxiKYuwf3E?si=xOb0w6KyUfNrRY8g)

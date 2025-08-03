@@ -5,6 +5,8 @@ items:
     href: airbrush.md
   - name: Влажное смешивание
     href: wet-blending.md
+  - name: Высветление
+    href: highlighting.md
   - name: Высветление краев
     href: edge-highlighting.md
   - name: Гризайль
