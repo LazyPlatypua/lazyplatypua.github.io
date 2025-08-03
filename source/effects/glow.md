@@ -22,6 +22,10 @@
 
 ![blue-eye-glow](../_images/elevatedminis/blue-eye-glow.jpg "Источник: elevatedminis" =650x)
 
+## Зеленая жидкость
+
+![green-glowing-water](../_images/elminiaturista/green-glowing-water.jpg "Источник: elminiaturista" =650x)
+
 ## Зеленая плазма
 
 ![green-plasma](../_images/elminiaturista/green-plasma.webp "Источник: elminiaturista" =650x)

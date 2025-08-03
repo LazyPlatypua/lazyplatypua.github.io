@@ -16,6 +16,8 @@
 
 ## Не металлическое
 
+![gold-armor](../_images/mavericks-paint/gold-armor.jpg "Источник: Mavericks Paint" =650x)
+
 ![gold](../_images/mavericks-paint/gold.webp "Источник: Mavericks Paint" =650x)
 
 ![warm-nmm-gold](../_images/pro-acryl/warm-nmm-gold.avif "Источник: Pro Acryl Methodology" =650x)

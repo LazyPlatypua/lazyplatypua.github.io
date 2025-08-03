@@ -1,12 +1,22 @@
 # Силовое оружие
 
-## Синий силовой меч с молниями
+## Зеленый светящийся меч
 
-![blue-lighting-sword](../_images/elminiaturista/blue-lighting-sword.webp "Источник: elminiaturista" =650x)
+![green-glowing-sword](../_images/elminiaturista/green-glowing-sword.jpg "Источник: elminiaturista" =650x)
+
+## Красный раскаленный меч
+
+![red-glowing-sword](../_images/elminiaturista/red-glowing-sword.jpg "Источник: elminiaturista" =650x)
+
+![red-glowing-sword](../_images/mavericks-paint/red-glowing-sword.jpg "Источник: Mavericks Paint" =650x)
 
 ## Красный силовой меч с молниями
 
 ![red-lighting-sword](../_images/elminiaturista/red-lighting-sword.webp "Источник: elminiaturista" =650x)
+
+## Синий силовой меч с молниями
+
+![blue-lighting-sword](../_images/elminiaturista/blue-lighting-sword.webp "Источник: elminiaturista" =650x)
 
 ## Видео руководства
 

@@ -8,6 +8,6 @@
 
 ![bruised-white](../_images/pro-acryl/bruised-white.webp "Источник: Pro Acryl Methodology" =650x)
 
-## Шлем капеллана 
+## Шлем капеллана
 
 ![chaplain-helmet](../_images/zarenadt/chaplain-helmet.jpg "Источник: zarenadt" =650x)
