@@ -18,6 +18,10 @@
 
 @[youtube](https://youtu.be/fwhYsYBPM3Q?si=5T7gW900uk70w52g)
 
+### Видео руководство от Darcy Bono Creations
+
+@[youtube](https://youtu.be/QpxM6qY_Lms?si=EThGO4bD4wj9Q5e3)
+
 ### Видео руководства от EonsOfBattle
 
 @[youtube](https://youtu.be/9TvsDOIPWWI?si=V5HLlurYfO8nbQIX)

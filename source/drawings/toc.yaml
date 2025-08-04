@@ -1,6 +1,8 @@
 name: Рисунки
 href: index.yaml
 items:
+  - name: Знамена
+    href: banners.md
   - name: Полосы опасности
     href: hazard-stripes.md
   - name: Тату

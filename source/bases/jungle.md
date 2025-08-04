@@ -1,5 +1,9 @@
 # База с джунглями
 
+## Видео руководство от Darcy Bono Creations
+
+@[youtube](https://youtu.be/kTNJddZ9J28?si=wbuLLusM5hIFZxU7)
+
 ## Видео руководство от EonsOfBattle
 
 @[youtube](https://youtu.be/iWDo0SE-qk4?si=Kwy4eN20Drq8tRwd)

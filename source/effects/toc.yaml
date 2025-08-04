@@ -13,3 +13,5 @@ items:
     href: power-weapons.md
   - name: Стекло
     href: glass.md
+  - name: Яд
+    href: poison.md

@@ -40,8 +40,6 @@ items:
     include: { mode: link, path: armor/toc.yaml }
   - name: Волосы
     include: { mode: link, path: hair/toc.yaml }
-  - name: Дерево
-    include: { mode: link, path: wood/toc.yaml }
   - name: Кожа (материал)
     include: { mode: link, path: leather/toc.yaml }
   - name: Кожа (телесные цвета)

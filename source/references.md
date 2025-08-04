@@ -17,6 +17,7 @@
 - [EonsOfBattle](https://www.youtube.com/@EonsOfBattle) — инструкции для баз и разные видео по продукции Games Workshop (англ.) (Дата обращения: 01.08.2025)
 - [Cult of Paint](https://www.youtube.com/@cultofpaint) — инструкции для отдельных деталей и полный покрас миниатюр (англ.) (Дата обращения: 02.08.2025)
 - [Ph3lan's Miniatures](https://www.youtube.com/@ph3lansminiatures) — инструкции для отдельных деталей и полный покрас миниатюр (англ.) (Дата обращения: 03.08.2025)
+- [Darcy Bono Creations](https://www.youtube.com/@DarcyBonoCreations) — инструкции для отдельных деталей и полный покрас миниатюр (англ.) (Дата обращения: 04.08.2025)
 
 ## Reddit
 
