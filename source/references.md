@@ -34,6 +34,7 @@
 - [tomaspersifalpekar](https://www.instagram.com/tomaspersifalpekar/) — красивые работы на миниатюрах Games Workshop (англ.) (Дата обращения: 14.07.2025)
 - [maverickspaint](https://www.instagram.com/maverickspaint/) — руководства на миниатюрах Games Workshop (англ.) (Дата обращения: 28.07.2025)
 - [elminiaturista](https://www.instagram.com/elminiaturista/) — миниатюры с драматичным освещением (англ.) (Дата обращения: 29.07.2025)
+- [rods.mods](https://www.instagram.com/rods.mods/) — быстрые руководства по покраске отдельных деталей (англ.) (Дата обращения: 05.08.2025)
 
 ## Другое
 
