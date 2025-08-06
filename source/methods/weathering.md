@@ -1,5 +1,11 @@
 # Устаревание
 
+## Руководства от rods.mods
+
+![chipping](../_images/rod-davis/chipping.webp "Источник: rods.mods" =650x)
+
+![battle-damage-chipping](../_images/rod-davis/battle-damage-chipping.webp "Источник: rods.mods" =650x)
+
 ## Сколы брони от etho_minis
 
 ![armor-chipping-1](../_images/etho-minis/armor-chipping-1.jpg "Источник: etho_minis" =650x)

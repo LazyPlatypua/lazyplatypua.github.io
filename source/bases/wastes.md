@@ -2,6 +2,8 @@
 
 ## Грязь
 
+![basing](../_images/rod-davis/basing.jpg "Источник: rods.mods" =650x)
+
 ### Видео руководство от Cult of Paint
 
 @[youtube](https://youtu.be/uPlpBLkUUdA?si=5eC5NCJyKwrR_Xbx)

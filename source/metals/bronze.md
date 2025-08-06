@@ -13,6 +13,8 @@
 ![Weathered_Metallic_Sword_Part_1](../_images/pro-acryl/Weathered_Metallic_Sword_Part_1.webp "Источник: Pro Acryl Methodology" =650x)
 ![Weathered_Metallic_Sword_Part_2](../_images/pro-acryl/Weathered_Metallic_Sword_Part_2.webp "Источник: Pro Acryl Methodology" =650x)
 
+![aged-bronze](../_images/rod-davis/aged-bronze.webp "Источник: rods.mods" =650x)
+
 ### С окислением
 
 ![Bronze_Verdigris](../_images/pro-acryl/Bronze_Verdigris.webp "Источник: Pro Acryl Methodology" =650x)

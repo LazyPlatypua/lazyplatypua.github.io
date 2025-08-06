@@ -7,3 +7,7 @@
 ![burgundy-vial](../_images/elminiaturista/burgundy-vial.jpg "Источник: elminiaturista" =650x)
 
 ![green-vial](../_images/elminiaturista/green-vial.jpg "Источник: elminiaturista" =650x)
+
+## Самоцветы
+
+![blue-gem](../_images/rod-davis/blue-gem.webp "Источник: rods.mods" =650x)

@@ -2,6 +2,8 @@
 
 ![cream-cloth](../_images/zarenadt/cream-cloth.webp "Источник: zarenadt" =650x)
 
+![beige-cloth](../_images/rod-davis/beige-cloth.webp "Источник: rods.mods" =650x)
+
 ## Звездные войны
 
 ![obi-wan's-robes](../_images/mengel-miniatures/obi-wan's-robes.png "Источник: Mengel Miniatures" =650x)

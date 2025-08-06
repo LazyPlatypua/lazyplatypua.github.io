@@ -6,6 +6,10 @@
 
 ![black-armor](../_images/mavericks-paint/black-armor.jpg "Источник: Mavericks Paint" =650x)
 
+![black-armor](../_images/rod-davis/black-armor.webp "Источник: rods.mods" =650x)
+
+![blue-silver](../_images/rod-davis/blue-silver.jpg "Источник: rods.mods" =650x)
+
 ## Deathwatch
 
 ![deathwatch-armor](../_images/zarenadt/deathwatch-armor.webp "Источник: zarenadt" =650x)

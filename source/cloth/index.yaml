@@ -14,6 +14,8 @@ links:
     href: brown.md
   - title: Красная
     href: red.md
+  - title: Оранжевая
+    href: orange.md
   - title: Парусина
     href: sailcloth.md
   - title: Серая
@@ -22,3 +24,5 @@ links:
     href: blue.md
   - title: Фиолетовая
     href: purple.md
+  - title: Черная
+    href: black.md  
