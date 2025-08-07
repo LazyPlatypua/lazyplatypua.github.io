@@ -34,6 +34,8 @@
 
 ![yellow-green-glow](../_images/kitbash_kasper/yellow-green-glow.png "Источник: kitbash_kasper" =650x)
 
+![osl](../_images/rod-davis/osl.webp "Источник: rods.mods" =650x)
+
 ## Красная плазма
 
 ![red-plasma](../_images/elminiaturista/red-plasma.webp "Источник: elminiaturista" =650x)

@@ -6,6 +6,10 @@
 
 ![grey-armor](../_images/rod-davis/grey-armor.webp "Источник: rods.mods" =650x)
 
+## Космических волков
+
+![space-wolves-armor](../_images/rod-davis/space-wolves-armor.webp "Источник: rods.mods" =650x)
+
 ## Кадианский 323 полк
 
 ![cadian-323](../_images/mengel-miniatures/cadian-323.png "Источник: Mengel Miniatures" =650x)

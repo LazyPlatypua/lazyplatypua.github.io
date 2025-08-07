@@ -14,6 +14,8 @@
 
 ![rusty-metallic-blade](../_images/pro-acryl/rusty-metallic-blade.webp "Источник: Pro Acryl Methodology" =650x)
 
+![rusty-metal](../_images/rod-davis/rusty-metal.webp "Источник: rods.mods" =650x)
+
 #### Видео руководство от Cult of Paint
 
 @[youtube](https://youtu.be/szi9_I3wypc?si=zD71lDtGO-Bs9Z8D)

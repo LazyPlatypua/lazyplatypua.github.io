@@ -2,6 +2,10 @@
 
 ![green-armor](../_images/rod-davis/green-armor.jpg "Источник: rods.mods" =650x)
 
+## Саламандр
+
+![salamanders-armor](../_images/rod-davis/salamanders-armor.webp "Источник: rods.mods" =650x)
+
 ## Темных ангелов
 
 ![angels-green](../_images/pro-acryl/angels-green.webp "Источник: Pro Acryl Methodology" =650x)

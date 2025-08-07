@@ -8,9 +8,15 @@
 
 ![chipping](../_images/rod-davis/chipping.webp "Источник: rods.mods" =650x)
 
+![weathering-black-armor](../_images/rod-davis/weathering-black-armor.webp "Источник: rods.mods" =650x)
+
 ### Ржавчина
 
 ![corroded-plate](../_images/rod-davis/corroded-plate.webp "Источник: rods.mods" =650x)
+
+![quick-rust](../_images/rod-davis/quick-rust.webp "Источник: rods.mods" =650x)
+
+![rust](../_images/rod-davis/rust.webp "Источник: rods.mods" =650x)
 
 ### Грязь
 
@@ -23,6 +29,10 @@
 Цвета побежалости — радужные цвета, которые образуются на гладкой поверхности металла или минерала в результате образования тонкой прозрачной поверхностной окисной пленки и интерференции света в ней. Чаще всего пленка появляется от теплового воздействия.
 
 ![heat-bloom](../_images/rod-davis/heat-bloom.webp "Источник: rods.mods" =650x)
+
+### Подтеки
+
+![rust-and-oil-stains](../_images/rod-davis/rust-and-oil-stains.webp "Источник: rods.mods" =650x)
 
 ## Сколы брони от etho_minis
 

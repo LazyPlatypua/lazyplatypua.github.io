@@ -12,3 +12,7 @@
 ![white-cloak-10](../_images/mavericks-paint/white-cloak-10.jpg "Источник: Mavericks Paint" =650x)
 
 ![sigmarite-robe](../_images/kitbash_kasper/sigmarite-robe.png "Источник: kitbash_kasper" =650x)
+
+![white-cloth](../_images/rod-davis/white-cloth.jpg "Источник: rods.mods" =650x)
+
+![white-cloth](../_images/rod-davis/white-cloth.webp "Источник: rods.mods" =650x)

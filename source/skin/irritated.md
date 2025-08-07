@@ -6,6 +6,8 @@
 
 ![dead-flesh](../_images/rod-davis/dead-flesh.webp "Источник: rods.mods" =650x)
 
+![rotten-green-flesh](../_images/rod-davis/rotten-green-flesh.webp "Источник: rods.mods" =650x)
+
 ## Видео руководство от Cult of Paint
 
 @[youtube](https://youtu.be/MMpGLH6jGg0?si=wTxhTi2kebkQiTfn)

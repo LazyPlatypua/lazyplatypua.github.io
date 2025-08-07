@@ -1,3 +1,5 @@
 # Желтая ткань
 
+![warm-yellow](../_images/rod-davis/warm-yellow.heic "Источник: rods.mods" =650x)
+
 ![Yellow_Cloth_Methodology](../_images/pro-acryl/Yellow_Cloth_Methodology_0.75x.webp "Источник: Pro Acryl Methodology" =650x)

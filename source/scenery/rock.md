@@ -6,6 +6,10 @@
 
 ![jade-terrain](../_images/rod-davis/jade-terrain.webp "Источник: rods.mods" =650x)
 
+## Песчаник
+
+![sandstone](../_images/rod-davis/sandstone.jpg "Источник: rods.mods" =650x)
+
 ## Серый
 
 ![Rock_and_Stone_Methodology](../_images/pro-acryl/Rock_and_Stone_Methodology.webp "Источник: Pro Acryl Methodology" =650x)

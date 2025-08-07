@@ -17,7 +17,7 @@
 
 3. Соберите документ при помощи команды:
     ```
-    yfm -i .\paint-guide-docs\docs -o .\paint-guide-docs\miniature-painting
+    yfm -i .\paint-guide-docs\source -o .\paint-guide-docs\miniature-painting
     ```
 
     Где:

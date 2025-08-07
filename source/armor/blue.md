@@ -10,6 +10,8 @@
 
 ![ultramarine-armor](../_images/mengel-miniatures/ultramarine-armor.png "Источник: Mengel Miniatures" =650x)
 
+![ultramarine-armor](../_images/rod-davis/ultramarine-armor.jpg "Источник: rods.mods" =650x)
+
 ## Brazen Claw
 
 ![brazen-claw-blue-armor](../_images/zarenadt/brazen-claw-blue-armor.webp "Источник: zarenadt" =650x)

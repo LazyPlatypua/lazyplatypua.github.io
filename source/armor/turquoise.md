@@ -1,5 +1,7 @@
 # Бирюзовая броня
 
+![turqoise-armor](../_images/rod-davis/turqoise-armor.jpg "Источник: rods.mods" =650x)
+
 ## Некродермис
 
 ![necrodermis](../_images/kitbash_kasper/necrodermis.png "Источник: kitbash_kasper" =650x)

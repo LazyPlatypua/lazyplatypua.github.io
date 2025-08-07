@@ -13,10 +13,14 @@ items:
     href: brown.md
   - name: Оранжевая
     href: orange.md
+  - name: Розовая
+    href: pink.md
   - name: Серая
     href: grey.md  
   - name: Синяя
     href: blue.md
+  - name: Фиолетовая
+    href: purple.md
   - name: Черная
     href: black.md
   
