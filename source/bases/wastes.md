@@ -4,6 +4,8 @@
 
 ![basing](../_images/rod-davis/basing.jpg "Источник: rods.mods" =650x)
 
+![mud-base](../_images/rod-davis/mud-base.jpg "Источник: rods.mods" =650x)
+
 ### Видео руководство от Cult of Paint
 
 @[youtube](https://youtu.be/uPlpBLkUUdA?si=5eC5NCJyKwrR_Xbx)

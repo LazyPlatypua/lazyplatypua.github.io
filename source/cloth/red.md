@@ -8,6 +8,10 @@
 
 ![faded-red-cloth](../_images/pro-acryl/faded-red-cloth.webp "Источник: Pro Acryl Methodology" =650x)
 
+## Бордовая
+
+![maroon-cloth](../_images/rod-davis/maroon-cloth.webp "Источник: rods.mods" =650x)
+
 ## Веревка
 
 ![red-rope](../_images/zarenadt/red-rope.webp "Источник: zarenadt" =650x)

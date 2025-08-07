@@ -1,8 +1,12 @@
 # Бежевая ткань
 
+![beige-cloth](../_images/rod-davis/beige-cloth.webp "Источник: rods.mods" =650x)
+
+## Кремовая
+
 ![cream-cloth](../_images/zarenadt/cream-cloth.webp "Источник: zarenadt" =650x)
 
-![beige-cloth](../_images/rod-davis/beige-cloth.webp "Источник: rods.mods" =650x)
+![cream-cloth](../_images/rod-davis/cream-cloth.webp "Источник: rods.mods" =650x)
 
 ## Звездные войны
 

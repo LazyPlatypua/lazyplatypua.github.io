@@ -2,9 +2,27 @@
 
 ## Руководства от rods.mods
 
-![chipping](../_images/rod-davis/chipping.webp "Источник: rods.mods" =650x)
+### Сколы
 
 ![battle-damage-chipping](../_images/rod-davis/battle-damage-chipping.webp "Источник: rods.mods" =650x)
+
+![chipping](../_images/rod-davis/chipping.webp "Источник: rods.mods" =650x)
+
+### Ржавчина
+
+![corroded-plate](../_images/rod-davis/corroded-plate.webp "Источник: rods.mods" =650x)
+
+### Грязь
+
+![dirt-to-robes](../_images/rod-davis/dirt-to-robes.webp "Источник: rods.mods" =650x)
+
+![mud-effect](../_images/rod-davis/mud-effect.heic "Источник: rods.mods" =650x)
+
+### Побежалость
+
+Цвета побежалости — радужные цвета, которые образуются на гладкой поверхности металла или минерала в результате образования тонкой прозрачной поверхностной окисной пленки и интерференции света в ней. Чаще всего пленка появляется от теплового воздействия.
+
+![heat-bloom](../_images/rod-davis/heat-bloom.webp "Источник: rods.mods" =650x)
 
 ## Сколы брони от etho_minis
 

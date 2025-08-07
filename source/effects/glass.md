@@ -11,3 +11,5 @@
 ## Самоцветы
 
 ![blue-gem](../_images/rod-davis/blue-gem.webp "Источник: rods.mods" =650x)
+
+![green-gem](../_images/rod-davis/green-gem.webp "Источник: rods.mods" =650x)

@@ -2,6 +2,8 @@
 
 ## Металлическая
 
+![dark-bronze-armor](../_images/rod-davis/dark-bronze-armor.webp "Источник: rods.mods" =650x)
+
 ### Бледная
 
 ![metallic-bronze](../_images/pro-acryl/metallic-bronze.webp "Источник: Pro Acryl Methodology" =650x)

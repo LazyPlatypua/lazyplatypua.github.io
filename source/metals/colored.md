@@ -16,4 +16,4 @@
 
 ![daughters-of-khaine-molten-metal](../_images/mengel-miniatures/daughters-of-khaine-molten-metal.png "Источник: Mengel Miniatures" =650x)
 
-![flaming-axe](../_images/elminiaturista/flaming-axe.webp "Источник: elminiaturista" =650x)
+

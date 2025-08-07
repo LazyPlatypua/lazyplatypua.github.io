@@ -48,6 +48,8 @@ items:
     include: { mode: link, path: metals/toc.yaml }
   - name: Ландшафт
     include: { mode: link, path: scenery/toc.yaml }
+  - name: Лепка и скульптура
+    include: { mode: link, path: sculpting/toc.yaml }
   - name: Методы
     include: { mode: link, path: methods/toc.yaml }
   - name: Рисунки

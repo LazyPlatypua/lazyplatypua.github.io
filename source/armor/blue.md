@@ -18,6 +18,8 @@
 
 ![crimson-fists-armour](../_images/zarenadt/crimson-fists-armour.webp "Источник: zarenadt" =650x)
 
+![crimson-fist](../_images/rod-davis/crimson-fist.webp "Источник: rods.mods" =650x)
+
 ## Curseling
 
 ![curseling-armor](../_images/mengel-miniatures/curseling-armor.png "Источник: Mengel Miniatures" =650x)

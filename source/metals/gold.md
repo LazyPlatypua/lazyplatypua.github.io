@@ -6,6 +6,10 @@
 
 ![Gold_Armor](../_images/pro-acryl/Gold_Armor.webp "Источник: Pro Acryl Methodology" =650x)
 
+![gold-armor](../_images/rod-davis/gold-armor.heic "Источник: rods.mods" =650x)
+
+![gold-armor](../_images/rod-davis/gold-armor.webp "Источник: rods.mods" =650x)
+
 ### Дочери кейна
 
 ![daughters-of-khaine-quick-gold](../_images/mengel-miniatures/daughters-of-khaine-quick-gold.png "Источник: Mengel Miniatures" =650x)

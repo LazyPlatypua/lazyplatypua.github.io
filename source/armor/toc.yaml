@@ -11,6 +11,8 @@ items:
     href: green.md
   - name: Коричневая
     href: brown.md
+  - name: Оранжевая
+    href: orange.md
   - name: Серая
     href: grey.md  
   - name: Синяя

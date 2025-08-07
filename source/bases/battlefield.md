@@ -1,5 +1,7 @@
 # База поля боя
 
+![hero-base](../_images/rod-davis/hero-base.webp "Источник: rods.mods" =650x)
+
 ## Видео руководство от Brushstroke Painting Guides
 
 @[youtube](https://youtu.be/oUGmQkpLcTo?si=A9S9z-MaFNPhFUL9)

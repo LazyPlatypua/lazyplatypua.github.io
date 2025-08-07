@@ -4,6 +4,8 @@
 
 ![fist-yellow](../_images/pro-acryl/fist-yellow.webp "Источник: Pro Acryl Methodology" =650x)
 
+![imperial-fist](../_images/rod-davis/imperial-fist.webp "Источник: rods.mods" =650x)
+
 ### Видео руководство от Darcy Bono Creations
 
 @[youtube](https://youtu.be/xEcNnCYHVFM?si=q0Tew6pJljUBwgpa)

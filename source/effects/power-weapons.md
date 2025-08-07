@@ -4,11 +4,21 @@
 
 ![green-glowing-sword](../_images/elminiaturista/green-glowing-sword.jpg "Источник: elminiaturista" =650x)
 
+![green-power-blade](../_images/rod-davis/green-power-blade.webp "Источник: rods.mods" =650x)
+
 ## Красный раскаленный меч
 
 ![red-glowing-sword](../_images/elminiaturista/red-glowing-sword.jpg "Источник: elminiaturista" =650x)
 
 ![red-glowing-sword](../_images/mavericks-paint/red-glowing-sword.jpg "Источник: Mavericks Paint" =650x)
+
+![flaming-axe](../_images/elminiaturista/flaming-axe.webp "Источник: elminiaturista" =650x)
+
+![lava-blade](../_images/rod-davis/lava-blade.webp "Источник: rods.mods" =650x)
+
+![lava-blade-2](../_images/rod-davis/lava-blade-2.webp "Источник: rods.mods" =650x)
+
+![lava-blade-3](../_images/rod-davis/lava-blade-3.webp "Источник: rods.mods" =650x)
 
 ## Красный силовой меч с молниями
 
