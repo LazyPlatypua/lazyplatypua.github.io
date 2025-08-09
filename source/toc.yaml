@@ -32,6 +32,8 @@ items:
     href: prepare.md
   - name: Инвентарь
     href: inventory.md
+  - name: Методы
+    include: { mode: link, path: methods/toc.yaml }
   - name: Вредные советы 
     href: negative.md
   - name: Базы
@@ -44,14 +46,12 @@ items:
     include: { mode: link, path: leather/toc.yaml }
   - name: Кожа (телесные цвета)
     include: { mode: link, path: skin/toc.yaml }
-  - name: Металлы
-    include: { mode: link, path: metals/toc.yaml }
   - name: Ландшафт
     include: { mode: link, path: scenery/toc.yaml }
   - name: Лепка и скульптура
     include: { mode: link, path: sculpting/toc.yaml }
-  - name: Методы
-    include: { mode: link, path: methods/toc.yaml }
+  - name: Металлы
+    include: { mode: link, path: metals/toc.yaml }
   - name: Рисунки
     include: { mode: link, path: drawings/toc.yaml }
   - name: Ткань

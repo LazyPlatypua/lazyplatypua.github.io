@@ -7,6 +7,8 @@ links:
     href: prepare.md
   - title: Инвентарь
     href: inventory.md
+  - title: Методы
+    include: { mode: link, path: methods/toc.yaml }
   - title: Вредные советы
     href: negative.md
   - title: Базы
