@@ -15,25 +15,34 @@
     npm i @diplodoc/cli -g
     ```
 
-3. Соберите документ при помощи команды:
-    ```
-    yfm -i .\paint-guide-docs\source -o .\paint-guide-docs\miniature-painting
-    ```
+3. Соберите документ при помощи приложения или команды:
 
-    Где:
-    * `\paint-guide-docs\source, -i` — путь до директории проекта;
-    * `\paint-guide-docs\miniature-painting, -o` — путь до директории, предназначенной для выходных данных (статических HTML).
+   - При помощи приложения:
+  
+     Запустите приложение `build.exe`. Результат выполнения сохранится в файл `build_log.txt`.
 
-    Пример:
+   - При помощи команды:
+  
+     Выполните команду
+  
+     ```
+     yfm -i .\paint-guide-docs\source -o .\paint-guide-docs\miniature-painting
+     ```
 
-    ```
-    yfm -i D:\Документы\Painting\paint-guide-docs\source -o D:\Документы\Painting\paint-guide-docs\miniature-painting
-    ```
+     Где:
+     - `\paint-guide-docs\source, -i` — путь до директории проекта;
+     - `\paint-guide-docs\miniature-painting, -o` — путь до директории, предназначенной для выходных данных (статических HTML).
+
+     Пример:
+
+     ```
+     yfm -i D:\Документы\Painting\paint-guide-docs\source -o D:\Документы\Painting\paint-guide-docs\miniature-painting
+     ```
 
 4. Сделайте коммит документа:
-   
-   * [при помощи GitHub Desktop](https://docs.github.com/en/desktop/making-changes-in-a-branch/committing-and-reviewing-changes-to-your-project-in-github-desktop#write-a-commit-message-and-push-your-changes);
-   * [при помощи Git](https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository).
+
+   - [при помощи GitHub Desktop](https://docs.github.com/en/desktop/making-changes-in-a-branch/committing-and-reviewing-changes-to-your-project-in-github-desktop#write-a-commit-message-and-push-your-changes);
+   - [при помощи Git](https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository).
 
    После добавления изменений в репозиторий, в разделе [Actions](https://github.com/LazyPlatypua/LazyPlatypua.github.io/actions) запустится сборка.
 
