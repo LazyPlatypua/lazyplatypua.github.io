@@ -1,18 +1,18 @@
 # Черная броня
 
-![black-armor](../_images/tomaspersifalpekar/black-armor.jpg "Источник: tomaspersifalpekar " =650x)
+![black-armor](../_images/tomaspersifalpekar/black-armor.png "Источник: tomaspersifalpekar " =650x)
 
-![black-armor](../_images/pro-acryl/black-armor.webp "Источник: Pro Acryl Methodology" =650x)
+![black-armor](../_images/pro-acryl/black-armor.png "Источник: Pro Acryl Methodology" =650x)
 
-![black-armor](../_images/mavericks-paint/black-armor.jpg "Источник: Mavericks Paint" =650x)
+![black-armor](../_images/mavericks-paint/black-armor.png "Источник: Mavericks Paint" =650x)
 
-![black-armor](../_images/rod-davis/black-armor.webp "Источник: rods.mods" =650x)
+![black-armor](../_images/rod-davis/black-armor.png "Источник: rods.mods" =650x)
 
-![blue-silver](../_images/rod-davis/blue-silver.jpg "Источник: rods.mods" =650x)
+![blue-silver](../_images/rod-davis/blue-silver.png "Источник: rods.mods" =650x)
 
 ## Deathwatch
 
-![deathwatch-armor](../_images/zarenadt/deathwatch-armor.webp "Источник: zarenadt" =650x)
+![deathwatch-armor](../_images/zarenadt/deathwatch-armor.png "Источник: zarenadt" =650x)
 
 ## Sons of Dorn
 

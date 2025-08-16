@@ -12,7 +12,7 @@
 
 ![city-fight-bases](../_images/mengel-miniatures/city-fight-bases.png "Источник: Mengel Miniatures" =650x)
 
-![urban-base](../_images/hellfire-hobbies/urban-base.jpg "Источник: Hellfire Hobbies" =650x)
+![urban-base](../_images/hellfire-hobbies/urban-base.png "Источник: Hellfire Hobbies" =650x)
 
 ### Видео руководство от Brushstroke Painting Guides
 

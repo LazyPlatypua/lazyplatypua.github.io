@@ -1,8 +1,8 @@
 # Светлая кожа
 
-![light-flesh](../_images/elminiaturista/light-flesh.jpg "Источник: elminiaturista" =650x)
+![light-flesh](../_images/elminiaturista/light-flesh.png "Источник: elminiaturista" =650x)
 
-![skin](../_images/zarenadt/skin.webp "Источник: zarenadt" =650x)
+![skin](../_images/zarenadt/skin.png "Источник: zarenadt" =650x)
 
 ## Видео руководство от Cult of Paint
 

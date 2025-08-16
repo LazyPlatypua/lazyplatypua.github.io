@@ -6,21 +6,21 @@
 
 ## Ультрамариновая
 
-![ultra-blue](../_images/pro-acryl/ultra-blue.webp "Источник: Pro Acryl Methodology" =650x)
+![ultra-blue](../_images/pro-acryl/ultra-blue.png "Источник: Pro Acryl Methodology" =650x)
 
 ![ultramarine-armor](../_images/mengel-miniatures/ultramarine-armor.png "Источник: Mengel Miniatures" =650x)
 
-![ultramarine-armor](../_images/rod-davis/ultramarine-armor.jpg "Источник: rods.mods" =650x)
+![ultramarine-armor](../_images/rod-davis/ultramarine-armor.png "Источник: rods.mods" =650x)
 
 ## Brazen Claw
 
-![brazen-claw-blue-armor](../_images/zarenadt/brazen-claw-blue-armor.webp "Источник: zarenadt" =650x)
+![brazen-claw-blue-armor](../_images/zarenadt/brazen-claw-blue-armor.png "Источник: zarenadt" =650x)
 
 ## Crimson Fists
 
-![crimson-fists-armour](../_images/zarenadt/crimson-fists-armour.webp "Источник: zarenadt" =650x)
+![crimson-fists-armour](../_images/zarenadt/crimson-fists-armour.png "Источник: zarenadt" =650x)
 
-![crimson-fist](../_images/rod-davis/crimson-fist.webp "Источник: rods.mods" =650x)
+![crimson-fist](../_images/rod-davis/crimson-fist.png "Источник: rods.mods" =650x)
 
 ## Curseling
 

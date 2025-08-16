@@ -64,7 +64,7 @@
 
 {% endnote %}
 
-![thinning](_images/first-work.jpg)
+![thinning](_images/first-work.png)
 
 ||
 ||

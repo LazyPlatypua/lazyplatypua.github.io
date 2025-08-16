@@ -1,14 +1,14 @@
 # Серая броня
 
-![grey-armor](../_images/mavericks-paint/grey-armor.jpg "Источник: Mavericks Paint" =650x)
+![grey-armor](../_images/mavericks-paint/grey-armor.png "Источник: Mavericks Paint" =650x)
 
-![white-armor](../_images/mavericks-paint/white-armor.jpg "Источник: Mavericks Paint" =650x)
+![white-armor](../_images/mavericks-paint/white-armor.png "Источник: Mavericks Paint" =650x)
 
-![grey-armor](../_images/rod-davis/grey-armor.webp "Источник: rods.mods" =650x)
+![grey-armor](../_images/rod-davis/grey-armor.png "Источник: rods.mods" =650x)
 
 ## Космических волков
 
-![space-wolves-armor](../_images/rod-davis/space-wolves-armor.webp "Источник: rods.mods" =650x)
+![space-wolves-armor](../_images/rod-davis/space-wolves-armor.png "Источник: rods.mods" =650x)
 
 ## Кадианский 323 полк
 

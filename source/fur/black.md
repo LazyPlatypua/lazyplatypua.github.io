@@ -2,4 +2,4 @@
 
 ## Сине-черная
 
-![blue-black-fur](../_images/pro-acryl/blue-black-fur.webp "Источник: Pro Acryl Methodology" =650x)
+![blue-black-fur](../_images/pro-acryl/blue-black-fur.png "Источник: Pro Acryl Methodology" =650x)

@@ -1,3 +1,3 @@
 # Пламя
 
-![Flames](../_images/pro-acryl/Flames.webp "Источник: Pro Acryl Methodology" =650x)
+![Flames](../_images/pro-acryl/Flames.png "Источник: Pro Acryl Methodology" =650x)

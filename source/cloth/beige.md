@@ -1,12 +1,12 @@
 # Бежевая ткань
 
-![beige-cloth](../_images/rod-davis/beige-cloth.webp "Источник: rods.mods" =650x)
+![beige-cloth](../_images/rod-davis/beige-cloth.png "Источник: rods.mods" =650x)
 
 ## Кремовая
 
-![cream-cloth](../_images/zarenadt/cream-cloth.webp "Источник: zarenadt" =650x)
+![cream-cloth](../_images/zarenadt/cream-cloth.png "Источник: zarenadt" =650x)
 
-![cream-cloth](../_images/rod-davis/cream-cloth.webp "Источник: rods.mods" =650x)
+![cream-cloth](../_images/rod-davis/cream-cloth.png "Источник: rods.mods" =650x)
 
 ## Звездные войны
 
@@ -16,6 +16,6 @@
 
 ## Пергамент
 
-![parchment](../_images/zarenadt/parchment.webp "Источник: zarenadt" =650x)
+![parchment](../_images/zarenadt/parchment.png "Источник: zarenadt" =650x)
 
-![parchment-2](../_images/zarenadt/parchment-2.jpg "Источник: zarenadt" =650x)
+![parchment-2](../_images/zarenadt/parchment-2.png "Источник: zarenadt" =650x)

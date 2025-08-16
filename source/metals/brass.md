@@ -1,3 +1,3 @@
 # Латунь
 
-![brass-nmm-spacemarine](../_images/elminiaturista/brass-nmm-spacemarine.webp "Источник: elminiaturista" =650x)
+![brass-nmm-spacemarine](../_images/elminiaturista/brass-nmm-spacemarine.png "Источник: elminiaturista" =650x)

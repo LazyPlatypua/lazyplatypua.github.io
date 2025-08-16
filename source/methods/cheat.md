@@ -9,7 +9,7 @@
 ◻ Хорошо подобранная и визуально привлекательная композиция с базой.
 ◻ Сделано эталонное фото с использованием черной грунтовки для выявления отражений.
 
-  ![black-primer-front](../_images/elf-bust/black-primer-front.jpg "Источник: lazy patypua" =650x)
+  ![black-primer-front](../_images/elf-bust/black-primer-front.png "Источник: lazy patypua" =650x)
 
 ◻ Тщательно загрунтованная: зенитная, точечная или цветная грунтовка.
 
@@ -58,4 +58,4 @@
 
 ## Свет
 
-![cheat-sheet](../_images/etho-minis/cheat-sheet.jpg "Источник: etho_minis" =650x)
+![cheat-sheet](../_images/etho-minis/cheat-sheet.png "Источник: etho_minis" =650x)

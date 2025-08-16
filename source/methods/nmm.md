@@ -39,18 +39,18 @@
 - Используйте пример: реальный объект, 2D-арт, фотографии готовых миниатюр.
 - Сделайте черно-белую фотографию своей миниатюры при нужном освещении.
 
-  ![black-primer-front](../_images/elf-bust/black-primer-front.jpg "Источник: lazy patypua" =650x)
+  ![black-primer-front](../_images/elf-bust/black-primer-front.png "Источник: lazy patypua" =650x)
 
 ### Наслаивание
 
 1. Набросайте общие отражения.
 
-   ![sketch](../_images/nmm/sketch.jpg "Источник: lazy patypua" =650x)
+   ![sketch](../_images/nmm/sketch.png "Источник: lazy patypua" =650x)
 
 2. Оставьте тень между основным и второстепенным отражениями.
 3. Нанесите более светлый слой внутри предыдущего.
 
-   ![layering](../_images/nmm/layering.jpg "Источник: lazy patypua" =650x)
+   ![layering](../_images/nmm/layering.png "Источник: lazy patypua" =650x)
 
 4. Повторите шаг 3, накладывая более светлый слой в нужном направлении.
 
@@ -69,7 +69,7 @@
 - При нанесении слоев не делайте больших скачков яркости.
 - Разгладьте, перетаскивая каплю краски.
 
-  ![layering](../_images/nmm/glazing.jpg "Источник: lazy patypua" =650x)
+  ![layering](../_images/nmm/glazing.png "Источник: lazy patypua" =650x)
 
 - Разгладьте, нанося больше промежуточных цветов между слоями.
 
@@ -81,4 +81,4 @@
 - Затемненные края обращены в сторону от света.
 - Металлы, как правило, имеют более яркие края, чем другие материалы.
   
-  ![edge-highlight](../_images/nmm/edge-highlight.jpg "Источник: lazy patypua" =650x)
+  ![edge-highlight](../_images/nmm/edge-highlight.png "Источник: lazy patypua" =650x)

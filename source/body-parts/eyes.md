@@ -4,11 +4,11 @@
 
 ### Зеленые
 
-![green-lenses](../_images/zarenadt/green-lenses.webp "Источник: zarenadt" =650x)
+![green-lenses](../_images/zarenadt/green-lenses.png "Источник: zarenadt" =650x)
 
 ### Красные
 
-![red-lenses](../_images/zarenadt/red-lenses.webp "Источник: zarenadt" =650x)
+![red-lenses](../_images/zarenadt/red-lenses.png "Источник: zarenadt" =650x)
 
 ## Слепые
 

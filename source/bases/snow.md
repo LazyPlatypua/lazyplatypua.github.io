@@ -1,6 +1,6 @@
 # Снежная база
 
-![Snowy_Winter_Bases](../_images/pro-acryl/Snowy_Winter_Bases.webp "Источник: Pro Acryl Methodology" =650x)
+![Snowy_Winter_Bases](../_images/pro-acryl/Snowy_Winter_Bases.png "Источник: Pro Acryl Methodology" =650x)
 
 ## Видео руководства от Brushstroke Painting Guides
 

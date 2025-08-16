@@ -1,6 +1,6 @@
 # Мраморная база
 
-![marble-base](../_images/toad-painting/marble-base.jpg "Источник: Toad Painting" =650x)
+![marble-base](../_images/toad-painting/marble-base.png "Источник: Toad Painting" =650x)
 
 ## Видео руководство от Darcy Bono Creations
 

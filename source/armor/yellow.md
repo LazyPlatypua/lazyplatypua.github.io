@@ -2,9 +2,9 @@
 
 ## Имперских кулаков
 
-![fist-yellow](../_images/pro-acryl/fist-yellow.webp "Источник: Pro Acryl Methodology" =650x)
+![fist-yellow](../_images/pro-acryl/fist-yellow.png "Источник: Pro Acryl Methodology" =650x)
 
-![imperial-fist](../_images/rod-davis/imperial-fist.webp "Источник: rods.mods" =650x)
+![imperial-fist](../_images/rod-davis/imperial-fist.png "Источник: rods.mods" =650x)
 
 ### Видео руководство от Darcy Bono Creations
 
@@ -12,4 +12,4 @@
 
 ## Блеклая
 
-![faded-yellow-armor](../_images/pro-acryl/faded-yellow-armor.webp "Источник: Pro Acryl Methodology" =650x)
+![faded-yellow-armor](../_images/pro-acryl/faded-yellow-armor.png "Источник: Pro Acryl Methodology" =650x)

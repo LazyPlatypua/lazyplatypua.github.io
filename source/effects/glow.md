@@ -20,25 +20,25 @@
 
 ## Голубые глаза
 
-![blue-eye-glow](../_images/elevatedminis/blue-eye-glow.jpg "Источник: elevatedminis" =650x)
+![blue-eye-glow](../_images/elevatedminis/blue-eye-glow.png "Источник: elevatedminis" =650x)
 
 ## Зеленая жидкость
 
-![green-glowing-water](../_images/elminiaturista/green-glowing-water.jpg "Источник: elminiaturista" =650x)
+![green-glowing-water](../_images/elminiaturista/green-glowing-water.png "Источник: elminiaturista" =650x)
 
 ## Зеленая плазма
 
-![green-plasma](../_images/elminiaturista/green-plasma.webp "Источник: elminiaturista" =650x)
+![green-plasma](../_images/elminiaturista/green-plasma.png "Источник: elminiaturista" =650x)
 
 ## Зелено-желтый
 
 ![yellow-green-glow](../_images/kitbash_kasper/yellow-green-glow.png "Источник: kitbash_kasper" =650x)
 
-![osl](../_images/rod-davis/osl.webp "Источник: rods.mods" =650x)
+![osl](../_images/rod-davis/osl.png "Источник: rods.mods" =650x)
 
 ## Красная плазма
 
-![red-plasma](../_images/elminiaturista/red-plasma.webp "Источник: elminiaturista" =650x)
+![red-plasma](../_images/elminiaturista/red-plasma.png "Источник: elminiaturista" =650x)
 
 ## Призрачный зеленый
 

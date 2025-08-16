@@ -1,6 +1,6 @@
 # База поля боя
 
-![hero-base](../_images/rod-davis/hero-base.webp "Источник: rods.mods" =650x)
+![hero-base](../_images/rod-davis/hero-base.png "Источник: rods.mods" =650x)
 
 ## Видео руководство от Brushstroke Painting Guides
 

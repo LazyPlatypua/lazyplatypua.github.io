@@ -2,7 +2,7 @@
 
 Заключается в нанесении большого количества слоев светлых тонов на темные.
 
-![ZumikitoMiniatures](../_images/ZumikitoMiniatures.jpg =650x)
+![ZumikitoMiniatures](../_images/ZumikitoMiniatures.png =650x)
 
 Плюсы:
 

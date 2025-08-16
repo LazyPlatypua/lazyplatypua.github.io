@@ -32,4 +32,4 @@
 8. Дождитесь, пока поверхность высохнет.
 9. Покройте декаль лаком, чтобы закрепить ее и скрыть ее границы.
 
-![transfers](../_images/rod-davis/transfers.webp "Источник: rods.mods" =650x)
+![transfers](../_images/rod-davis/transfers.png "Источник: rods.mods" =650x)

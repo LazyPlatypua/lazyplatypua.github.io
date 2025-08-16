@@ -2,7 +2,7 @@
 
 ## Металлическое
 
-![MethodologyDirtyMetallicSteel](../_images/pro-acryl/MethodologyDirtyMetallicSteel.jpg "Источник: Pro Acryl Methodology" =650x)
+![MethodologyDirtyMetallicSteel](../_images/pro-acryl/MethodologyDirtyMetallicSteel.png "Источник: Pro Acryl Methodology" =650x)
 
 ### Зеленоватое
 
@@ -12,9 +12,9 @@
 
 ### Ржавое
 
-![rusty-metallic-blade](../_images/pro-acryl/rusty-metallic-blade.webp "Источник: Pro Acryl Methodology" =650x)
+![rusty-metallic-blade](../_images/pro-acryl/rusty-metallic-blade.png "Источник: Pro Acryl Methodology" =650x)
 
-![rusty-metal](../_images/rod-davis/rusty-metal.webp "Источник: rods.mods" =650x)
+![rusty-metal](../_images/rod-davis/rusty-metal.png "Источник: rods.mods" =650x)
 
 #### Видео руководство от Cult of Paint
 
@@ -26,7 +26,7 @@
 
 ### B2 battle droid
 
-![b2-battle-droid](../_images/pro-acryl/b2-battle-droid.jpg "Источник: Pro Acryl Methodology" =650x)
+![b2-battle-droid](../_images/pro-acryl/b2-battle-droid.png "Источник: Pro Acryl Methodology" =650x)
 
 ### Ironbreaker armor
 
@@ -40,8 +40,8 @@
 
 ### Сталь
 
-![nmm-sword](../_images/elminiaturista/nmm-sword.webp "Источник: elminiaturista" =650x)
+![nmm-sword](../_images/elminiaturista/nmm-sword.png "Источник: elminiaturista" =650x)
 
-![nmm-steel-blue-hue](../_images/pro-acryl/nmm-steel-blue-hue.webp "Источник: Pro Acryl Methodology" =650x)
+![nmm-steel-blue-hue](../_images/pro-acryl/nmm-steel-blue-hue.png "Источник: Pro Acryl Methodology" =650x)
 
-![nmm-sword-flames](../_images/elminiaturista/nmm-sword-flames.webp "Источник: elminiaturista" =650x)
+![nmm-sword-flames](../_images/elminiaturista/nmm-sword-flames.png "Источник: elminiaturista" =650x)

@@ -1,6 +1,6 @@
 # Пустынная база
 
-![desert-base](../_images/elevatedminis/desert-base.jpg "Источник: elevatedminis" =650x)
+![desert-base](../_images/elevatedminis/desert-base.png "Источник: elevatedminis" =650x)
 
 ## Видео руководства от EonsOfBattle
 
@@ -20,4 +20,4 @@
 
 ## Песчаник
 
-![sandstone-base](../_images/toad-painting/sandstone-base.jpg "Источник: Toad Painting" =650x)
+![sandstone-base](../_images/toad-painting/sandstone-base.png "Источник: Toad Painting" =650x)

@@ -1,6 +1,6 @@
 # Бирюзовая броня
 
-![turqoise-armor](../_images/rod-davis/turqoise-armor.jpg "Источник: rods.mods" =650x)
+![turqoise-armor](../_images/rod-davis/turqoise-armor.png "Источник: rods.mods" =650x)
 
 ## Некродермис
 
@@ -8,8 +8,8 @@
 
 ## Нефритовая
 
-![jade-armor](../_images/pro-acryl/jade-armor.webp "Источник: Pro Acryl Methodology" =650x)
+![jade-armor](../_images/pro-acryl/jade-armor.png "Источник: Pro Acryl Methodology" =650x)
 
 ## Темно-бирюзовая
 
-![dark-turquoise-armor](../_images/pro-acryl/dark-turquoise-armor.webp "Источник: Pro Acryl Methodology" =650x)
+![dark-turquoise-armor](../_images/pro-acryl/dark-turquoise-armor.png "Источник: Pro Acryl Methodology" =650x)

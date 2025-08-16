@@ -6,11 +6,11 @@
 
 ## Желтый
 
-![nmm-yellow-sword](../_images/elminiaturista/nmm-yellow-sword.webp "Источник: elminiaturista" =650x)
+![nmm-yellow-sword](../_images/elminiaturista/nmm-yellow-sword.png "Источник: elminiaturista" =650x)
 
 ## Зеленый
 
-![green-tmm](../_images/elevatedminis/green-tmm.jpg "Источник: elevatedminis" =650x)
+![green-tmm](../_images/elevatedminis/green-tmm.png "Источник: elevatedminis" =650x)
 
 ## Красный расплавленный
 

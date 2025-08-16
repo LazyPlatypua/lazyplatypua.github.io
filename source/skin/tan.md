@@ -1,6 +1,6 @@
 # Загар
 
-![Suntanned_Skintone](../_images/pro-acryl/Suntanned_Skintone.webp "Источник: Pro Acryl Methodology" =650x)
+![Suntanned_Skintone](../_images/pro-acryl/Suntanned_Skintone.png "Источник: Pro Acryl Methodology" =650x)
 
 ## Видео руководство от Cult of Paint
 

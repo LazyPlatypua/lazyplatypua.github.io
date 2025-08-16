@@ -2,8 +2,8 @@
 
 ## Зеленая
 
-![Green_Scales](../_images/pro-acryl/Green_Scales.webp "Источник: Pro Acryl Methodology" =650x)
+![Green_Scales](../_images/pro-acryl/Green_Scales.png "Источник: Pro Acryl Methodology" =650x)
 
 ## Оранжевая
 
-![orange-salamander-scales](../_images/pro-acryl/orange-salamander-scales.jpg "Источник: Pro Acryl Methodology" =650x)
+![orange-salamander-scales](../_images/pro-acryl/orange-salamander-scales.png "Источник: Pro Acryl Methodology" =650x)
