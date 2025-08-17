@@ -8,7 +8,7 @@ links:
   - title: Инвентарь
     href: inventory.md
   - title: Методы
-    include: { mode: link, path: methods/toc.yaml }
+    href: methods/index.yaml
   - title: Вредные советы
     href: negative.md
   - title: Базы
@@ -32,7 +32,7 @@ links:
   - title: Ткань
     href: cloth/index.yaml
   - title: Фракции 
-    href: fractions/index.yaml
+    href: factions/index.yaml
   - title: Части тел
     href: body-parts/index.yaml
   - title: Шерсть

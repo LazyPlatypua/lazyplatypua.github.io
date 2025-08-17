@@ -57,7 +57,7 @@ items:
   - name: Ткань
     include: { mode: link, path: cloth/toc.yaml }
   - name: Фракции
-    include: { mode: link, path: fractions/toc.yaml }
+    include: { mode: link, path: factions/toc.yaml }
   - name: Части тел
     include: { mode: link, path: body-parts/toc.yaml }
   - name: Шерсть
