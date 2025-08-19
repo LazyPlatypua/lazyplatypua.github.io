@@ -1,1 +1,1 @@
-window.__DATA__.data.toc = {"name":"Лепка и скульптура","href":"sculpting\\index.html","items":[{"name":"Шерсть","href":"sculpting\\fur.html","id":"Шерсть-0-0.21758755915161632"}]};
+window.__DATA__.data.toc = {"name":"Лепка и скульптура","href":"sculpting\\index.html","items":[{"name":"Шерсть","href":"sculpting\\fur.html","id":"Шерсть-0-0.6276317844918113"}]};
