@@ -1,3 +1,5 @@
 node_modules/
-
+miniature-painting/.tmp_output/
+miniature-painting/.vscode
+source/.vscode
 .DS_Store

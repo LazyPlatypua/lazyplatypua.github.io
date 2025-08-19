@@ -1,5 +1,5 @@
-[2025-08-18 16:03:21] Начало выполнения команды: yfm -i source -o miniature-painting
-[2025-08-18 16:03:32] Команда выполнена успешно!
+[2025-08-19 07:51:11] Начало выполнения команды: yfm -i source -o miniature-painting
+[2025-08-19 07:51:42] Команда выполнена успешно!
 Вывод:
 Using v4.50.0 version
 PROC Processing file armor/toc.yaml
@@ -840,7 +840,6 @@ INFO Processing finished: effects\poison.md
 INFO Processing finished: contacts.md
 INFO Processing finished: references.md
 INFO Processing finished: index.yaml
-COPY Copying file .vscode/settings.json
 COPY Copying file .yfm
 COPY Copying file _images/ZumikitoMiniatures.png
 COPY Copying file _images/airbrush/airbrush-1.png
@@ -1303,6 +1302,6 @@ COPY Copying file vendor.css
 COPY Copying file vendor.js
 COPY Copying file vendor.rtl.css
 
-Build time: 9.764s
+Build time: 28.349s
 
-[2025-08-18 16:03:32] Завершение работы
+[2025-08-19 07:51:42] Завершение работы
