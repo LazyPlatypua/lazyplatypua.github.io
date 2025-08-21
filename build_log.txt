@@ -1,5 +1,5 @@
-[2025-08-19 07:51:11] Начало выполнения команды: yfm -i source -o miniature-painting
-[2025-08-19 07:51:42] Команда выполнена успешно!
+[2025-08-21 10:28:23] Начало выполнения команды: yfm -i source -o miniature-painting
+[2025-08-21 10:28:49] Команда выполнена успешно!
 Вывод:
 Using v4.50.0 version
 PROC Processing file armor/toc.yaml
@@ -1302,6 +1302,6 @@ COPY Copying file vendor.css
 COPY Copying file vendor.js
 COPY Copying file vendor.rtl.css
 
-Build time: 28.349s
+Build time: 23.069s
 
-[2025-08-19 07:51:42] Завершение работы
+[2025-08-21 10:28:49] Завершение работы
