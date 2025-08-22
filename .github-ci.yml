@@ -1,0 +1,18 @@
+stages:
+  -release
+
+pages: 
+  image: node:22-alphine
+  stage: release
+  before_script:
+    - echo "Publishing docs"
+  script:
+    - npm i @diplodoc/cli -g
+    - yfm -i source -o miniature-painting
+  atrifacts:
+    paths:
+      - public
+  rules:
+    - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
+    - if: $CI_COMMIT_BRANCH != $CI_DEFAULT_BRANCH
+      when: manual
