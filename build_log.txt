@@ -1,5 +1,5 @@
-[2025-08-21 10:28:23] Начало выполнения команды: yfm -i source -o miniature-painting
-[2025-08-21 10:28:49] Команда выполнена успешно!
+[2025-08-23 09:33:08] Начало выполнения команды: yfm -i source -o miniature-painting
+[2025-08-23 09:33:35] Команда выполнена успешно!
 Вывод:
 Using v4.50.0 version
 PROC Processing file armor/toc.yaml
@@ -898,6 +898,8 @@ COPY Copying file _images/etho-minis/stippling-1.png
 COPY Copying file _images/etho-minis/stippling-2.png
 COPY Copying file _images/etho-minis/stippling-3.png
 COPY Copying file _images/etho-minis/stippling-4.png
+COPY Copying file _images/favicon.ico
+COPY Copying file _images/favicon.svg
 COPY Copying file _images/feathering.png
 COPY Copying file _images/first-work.png
 COPY Copying file _images/games-workshop/shade.png
@@ -1302,6 +1304,6 @@ COPY Copying file vendor.css
 COPY Copying file vendor.js
 COPY Copying file vendor.rtl.css
 
-Build time: 23.069s
+Build time: 24.324s
 
-[2025-08-21 10:28:49] Завершение работы
+[2025-08-23 09:33:35] Завершение работы
