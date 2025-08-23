@@ -1,0 +1,10 @@
+allowHTML: true
+breaks: true
+lang: "ru"
+
+docs-viewer:
+  favicon-src: ./favicon.ico
+  project-name: miniature-painting
+  langs: 'ru'
+
+search: true
