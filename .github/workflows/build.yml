@@ -13,7 +13,8 @@ jobs:
         uses: diplodoc-platform/docs-build-action@v2
         with:
           revision: "pr-${{ github.event.pull_request.number }}"
-          src-root: "./docs"
+          src-root: "./source"
+          build-root: "./miniature-painting"
           storage-endpoint: ${{ vars.DIPLODOC_STORAGE_ENDPOINT }}
           storage-region: ${{ vars.DIPLODOC_STORAGE_REGION }}
           storage-bucket: ${{ vars.DIPLODOC_STORAGE_BUCKET }}
