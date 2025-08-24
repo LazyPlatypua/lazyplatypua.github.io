@@ -27,7 +27,7 @@ jobs:
         with:
           revision: "${{ github.sha }}"
           src-root: "./source"
-          src-root: "./miniature-painting"
+          build-root: "./miniature-painting"
           storage-endpoint: ${{ vars.DIPLODOC_STORAGE_ENDPOINT }}
           storage-region: ${{ vars.DIPLODOC_STORAGE_REGION }}
           storage-bucket: ${{ vars.DIPLODOC_STORAGE_BUCKET }}
