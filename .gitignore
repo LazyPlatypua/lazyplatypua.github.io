@@ -1,5 +1,5 @@
 node_modules/
-miniature-painting/.tmp_output/
-miniature-painting/.vscode
+miniature-painting/
+miniature-painting/
 source/.vscode
 .DS_Store
