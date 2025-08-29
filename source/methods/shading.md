@@ -31,11 +31,11 @@
 
 ### Руководство от etho_minis
 
-![oil-recess-shading-5](../_images/etho-minis/oil-recess-shading-5.png "Источник: etho_minis" =650x)
 ![oil-recess-shading-1](../_images/etho-minis/oil-recess-shading-1.png "Источник: etho_minis" =650x)
 ![oil-recess-shading-2](../_images/etho-minis/oil-recess-shading-2.png "Источник: etho_minis" =650x)
 ![oil-recess-shading-3](../_images/etho-minis/oil-recess-shading-3.png "Источник: etho_minis" =650x)
 ![oil-recess-shading-4](../_images/etho-minis/oil-recess-shading-4.png "Источник: etho_minis" =650x)
+![oil-recess-shading-5](../_images/etho-minis/oil-recess-shading-5.png "Источник: etho_minis" =650x)
 
 ### Руководство от Zumikito Miniatures
 
