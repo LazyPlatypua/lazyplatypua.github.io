@@ -17,13 +17,13 @@
 
 3. Соберите документ при помощи приложения или команды:
 
-   - При помощи приложения:
+   - При помощи приложения
   
      Запустите приложение `build.exe`. Результат выполнения сохранится в файл `build_log.txt`.
 
-   - При помощи команды:
+   - При помощи команды
   
-     Выполните команду
+     Выполните команду:
   
      ```
      yfm -i .\paint-guide-docs\source -o .\paint-guide-docs\miniature-painting
@@ -39,14 +39,7 @@
      yfm -i D:\Документы\Painting\paint-guide-docs\source -o D:\Документы\Painting\paint-guide-docs\miniature-painting
      ```
 
-4. Сделайте коммит документа:
-
-   - [при помощи GitHub Desktop](https://docs.github.com/en/desktop/making-changes-in-a-branch/committing-and-reviewing-changes-to-your-project-in-github-desktop#write-a-commit-message-and-push-your-changes);
-   - [при помощи Git](https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository).
-
-   После добавления изменений в репозиторий, в разделе [Actions](https://github.com/LazyPlatypua/LazyPlatypua.github.io/actions) запустится сборка.
-
-5. На вкладке [Actions](https://github.com/LazyPlatypua/LazyPlatypua.github.io/actions) нажмите на название коммита. После завершения сборки, документ будет размещен на GitHub Pages. Посмотреть его можно по ссылке под надписью **deploy**.
+Документация автоматически соберется в GitHub на основе изменений в папке `source`. Изменения в папке `miniature-painting` не будут добавлены в коммит.
 
 ## Добавить серую рамку изображениям
 
