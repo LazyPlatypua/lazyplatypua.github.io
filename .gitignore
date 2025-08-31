@@ -1,5 +1,5 @@
 /node_modules/
-/miniature-painting/
+#/miniature-painting/
 /source/.vscode
 /build-log.txt
 /.DS_Store
