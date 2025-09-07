@@ -1,5 +1,7 @@
 # Черная броня
 
+![black-armor](../_images/spud/highlight-black-armor.png "Источник: Spud " =650x)
+
 ![black-armor](../_images/tomaspersifalpekar/black-armor.png "Источник: tomaspersifalpekar " =650x)
 
 ![black-armor](../_images/pro-acryl/black-armor.png "Источник: Pro Acryl Methodology" =650x)
