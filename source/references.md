@@ -18,6 +18,7 @@
 - [Cult of Paint](https://www.youtube.com/@cultofpaint) — инструкции для отдельных деталей и полный покрас миниатюр (англ.) (Дата обращения: 02.08.2025)
 - [Ph3lan's Miniatures](https://www.youtube.com/@ph3lansminiatures) — инструкции для отдельных деталей и полный покрас миниатюр (англ.) (Дата обращения: 03.08.2025)
 - [Darcy Bono Creations](https://www.youtube.com/@DarcyBonoCreations) — инструкции для отдельных деталей и полный покрас миниатюр (англ.) (Дата обращения: 04.08.2025)
+- [Tabletop WitchCRAFT](https://www.youtube.com/@TabletopWitchCRAFT) — инструкции для террейна НРИ (англ.) (Дата обращения: 16.09.2025)
 
 ## Reddit
 
