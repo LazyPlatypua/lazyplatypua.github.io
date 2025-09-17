@@ -1,5 +1,5 @@
-[2025-08-31 12:05:57] Начало выполнения команды: yfm -i source -o miniature-painting
-[2025-08-31 12:06:05] Команда выполнена успешно!
+[2025-09-18 02:50:17] Начало выполнения команды: yfm -i source -o miniature-painting
+[2025-09-18 02:50:54] Команда выполнена успешно!
 Вывод:
 Using v4.50.0 version
 PROC Processing file armor/toc.yaml
@@ -140,6 +140,7 @@ INFO Linting finished: scenery\rock.md
 INFO Linting finished: scenery\ash.md
 INFO Linting finished: scenery\grass.md
 INFO Linting finished: scenery\index.yaml
+INFO Linting finished: sculpting\torch.md
 INFO Linting finished: sculpting\fur.md
 INFO Linting finished: sculpting\index.yaml
 INFO Linting finished: skin\pale.md
@@ -270,6 +271,7 @@ INFO Linting finished: bases\desert.md
 INFO Linting finished: bases\rocks.md
 INFO Linting finished: bases\ooze.md
 INFO Linting finished: bases\snow.md
+INFO Linting finished: sculpting\torch.md
 INFO Linting finished: sculpting\fur.md
 INFO Linting finished: drawings\banners.md
 INFO Linting finished: drawings\camo.md
@@ -414,6 +416,7 @@ PROC Processing file scenery\rock.md
 PROC Processing file scenery\ash.md
 PROC Processing file scenery\grass.md
 PROC Processing file scenery\index.yaml
+PROC Processing file sculpting\torch.md
 PROC Processing file sculpting\fur.md
 PROC Processing file sculpting\index.yaml
 PROC Processing file skin\pale.md
@@ -544,6 +547,7 @@ PROC Processing file bases\desert.md
 PROC Processing file bases\rocks.md
 PROC Processing file bases\ooze.md
 PROC Processing file bases\snow.md
+PROC Processing file sculpting\torch.md
 PROC Processing file sculpting\fur.md
 PROC Processing file drawings\banners.md
 PROC Processing file drawings\camo.md
@@ -688,6 +692,7 @@ INFO Processing finished: scenery\rock.md
 INFO Processing finished: scenery\ash.md
 INFO Processing finished: scenery\grass.md
 INFO Processing finished: scenery\index.yaml
+INFO Processing finished: sculpting\torch.md
 INFO Processing finished: sculpting\fur.md
 INFO Processing finished: sculpting\index.yaml
 INFO Processing finished: skin\pale.md
@@ -818,6 +823,7 @@ INFO Processing finished: bases\desert.md
 INFO Processing finished: bases\rocks.md
 INFO Processing finished: bases\ooze.md
 INFO Processing finished: bases\snow.md
+INFO Processing finished: sculpting\torch.md
 INFO Processing finished: sculpting\fur.md
 INFO Processing finished: drawings\banners.md
 INFO Processing finished: drawings\camo.md
@@ -906,6 +912,7 @@ COPY Copying file _images/games-workshop/shade.png
 COPY Copying file _images/grey-seer.png
 COPY Copying file _images/hellfire-hobbies/urban-base.png
 COPY Copying file _images/kitbash_kasper/ash-wastes.png
+COPY Copying file _images/kitbash_kasper/ash-wastes.xcf
 COPY Copying file _images/kitbash_kasper/blind-eye.png
 COPY Copying file _images/kitbash_kasper/bright-green.png
 COPY Copying file _images/kitbash_kasper/bronze.png
@@ -1232,6 +1239,7 @@ COPY Copying file _images/sister-of-battle/head/light-flesh.png
 COPY Copying file _images/sister-of-battle/head/neutral-grey.png
 COPY Copying file _images/sister-of-battle/head/priming.png
 COPY Copying file _images/sister-of-battle/head/rose-salmon.png
+COPY Copying file _images/spud/highlight-black-armor.png
 COPY Copying file _images/stippling.png
 COPY Copying file _images/thin_your_paints.png
 COPY Copying file _images/thinning.png
@@ -1304,6 +1312,6 @@ COPY Copying file vendor.css
 COPY Copying file vendor.js
 COPY Copying file vendor.rtl.css
 
-Build time: 6.685s
+Build time: 33.852s
 
-[2025-08-31 12:06:05] Завершение работы
+[2025-09-18 02:50:54] Завершение работы
