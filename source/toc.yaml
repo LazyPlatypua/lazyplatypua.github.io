@@ -26,7 +26,7 @@ navigation:
     rightItems:
       - type: controls
 items: 
-  - name: Начать красить
+  - name: Быстрый старт
     href: how-to-start.md
   - name: Подготовить миниатюру
     href: prepare.md
