@@ -1,0 +1,14 @@
+name: Части тел
+href: index.yaml
+items:
+  - name: Глаза
+    href: eyes.md
+  - name: Кость
+    href: bone.md
+  - name: Крылья
+    href: wings.md
+  - name: Лицо
+    href: face.md
+  - name: Рот
+    href: mouth.md
+  

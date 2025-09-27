@@ -1,0 +1,78 @@
+href: index.yaml
+navigation: 
+  logo:
+    url: 'index.html'
+    dark:
+      icon: '_images/logo.svg'
+      urlTitle: 'Вернуться на главную'
+      text: 'Роспись миниатюр'
+    light:
+      icon: '_images/logo.svg'
+      text: 'Роспись миниатюр'
+  header:
+    leftItems:
+      - text: 'GitHub'
+        type: 'link'
+        url: 'https://github.com/LazyPlatypua/LazyPlatypua.github.io'
+      - text: 'Контакты'
+        type: 'link'
+        url: 'contacts.html'
+      - text: 'Источники'
+        type: 'link'
+        url: 'references.html'
+      - text: 'Заказать покраску'
+        type: 'link'
+        url: 'https://forms.yandex.ru/u/67b24604eb6146291709f2be/'
+    rightItems:
+      - type: controls
+items: 
+  - name: Быстрый старт
+    href: how-to-start.md
+  - name: Подготовить миниатюру
+    href: prepare.md
+  - name: Инвентарь
+    href: inventory.md
+  - name: Методы
+    include: { mode: link, path: methods/toc.yaml }
+  - name: Вредные советы 
+    href: negative.md
+  - name: Существа
+    items: 
+      - name: Волосы
+        include: { mode: link, path: hair/toc.yaml }
+      - name: Кожа (телесные цвета)
+        include: { mode: link, path: skin/toc.yaml }
+      - name: Части тел
+        include: { mode: link, path: body-parts/toc.yaml }
+      - name: Шерсть
+        include: { mode: link, path: fur/toc.yaml }
+  - name: Материалы
+    items:
+      - name: Броня
+        include: { mode: link, path: armor/toc.yaml }
+      - name: Кожа (материал)
+        include: { mode: link, path: leather/toc.yaml }
+      - name: Ландшафт
+        include: { mode: link, path: scenery/toc.yaml }
+      - name: Металлы
+        include: { mode: link, path: metals/toc.yaml }
+      - name: Ткань
+        include: { mode: link, path: cloth/toc.yaml }
+  - name: Другое
+    items:
+      - name: Базы
+        include: { mode: link, path: bases/toc.yaml }
+      - name: Лепка и скульптура
+        include: { mode: link, path: sculpting/toc.yaml }
+      - name: Рисунки
+        include: { mode: link, path: drawings/toc.yaml }
+      - name: Фракции
+        include: { mode: link, path: factions/toc.yaml }  
+      - name: Эффекты
+        include: { mode: link, path: effects/toc.yaml }
+  - name: Контакты
+    hidden: true
+    href: contacts.md
+  - name: Источники
+    hidden: true
+    href: references.md

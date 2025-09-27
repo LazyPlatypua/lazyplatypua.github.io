@@ -1,0 +1,35 @@
+name: Базы
+href: index.yaml
+items:
+  - name: Болото
+    href: swamp.md
+  - name: Вода
+    href: water.md
+  - name: Город
+    href: city.md
+  - name: Дерево
+    href: wood.md
+  - name: Джунгли
+    href: jungle.md
+  - name: Лава
+    href: lava.md
+  - name: Лес
+    href: forest.md
+  - name: Марс
+    href: mars.md
+  - name: Мрамор
+    href: marble.md
+  - name: Поле битвы
+    href: battlefield.md
+  - name: Пришельцы
+    href: alien.md
+  - name: Пустоши
+    href: wastes.md
+  - name: Пустыня
+    href: desert.md
+  - name: Скалы
+    href: rocks.md
+  - name: Слизь
+    href: ooze.md
+  - name: Снежная
+    href: snow.md

@@ -1,0 +1,6 @@
+[2025-08-16 06:46:30] Начало выполнения команды: yfm -i source -o miniature-painting
+[2025-08-16 06:46:32] Ошибка выполнения: Command '['yfm', '-i', 'source', '-o', 'miniature-painting']' returned non-zero exit status 1.
+Ошибка:
+ENOENT: no such file or directory, stat 'D:\Р”РѕРєСѓРјРµРЅС‚С‹\Painting\paint-guide-docs\source\source'
+
+[2025-08-16 06:46:32] Завершение работы

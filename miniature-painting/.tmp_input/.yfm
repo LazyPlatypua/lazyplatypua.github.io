@@ -1,0 +1,18 @@
+breaks: true
+allowHTML: true
+
+# Секция параметров вьюера (docs-viewer)
+docs-viewer:
+  project-name: miniature-painting
+  no-index: false
+
+# Секция параметров интерфейса
+interface:
+  favicon-src: _images/favicon.ico
+  search: true
+
+# Секция параметров поиска
+search:
+  provider: local
+  tolerance: 2
+  confidense: phrased
