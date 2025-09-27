@@ -16,3 +16,7 @@
 ![white-cloth](../_images/rod-davis/white-cloth.png "Источник: rods.mods" =650x)
 
 ![white-cloth](../_images/rod-davis/white-cloth.png "Источник: rods.mods" =650x)
+
+### Видео руководство от Vince Vinturella
+
+@[youtube](https://youtu.be/DhReI8yFH14?si=YPSMznQFqqOSWt-7)
