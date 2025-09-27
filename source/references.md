@@ -4,21 +4,23 @@
 
 ## Youtube
 
-- [VinceVenturella](https://www.youtube.com/@VinceVenturella) — большое количество инструкций разных методов от победителя конкурсов покраски (англ.) (Дата обращения: 06.04.2024)
-- [Miniac](https://www.youtube.com/@Miniac) — глубокие инструкции с хорошим сопровождающим видео (англ.) (Дата обращения: 18.05.2024)
-- [Zumikito](https://www.youtube.com/@Zumikito) — быстрые инструкции (англ.) (Дата обращения: 18.05.2024)
-- [ArtisOpus](https://www.youtube.com/@ArtisOpus) — инструкции по сухой кисти (англ.) (Дата обращения: 18.05.2024)
-- [MattsHobbyHour](https://www.youtube.com/@MattsHobbyHour) — инструкции по росписи моделей Games Workshop (англ.) (Дата обращения: 04.11.2024)
-- [MarcoFrisoniNJM](https://www.youtube.com/@MarcoFrisoniNJM) — инструкции по работе с масляными красками и красками для гризайля (англ.) (Дата обращения: 04.11.2024)
-- [GoobertownHobbies](https://www.youtube.com/@GoobertownHobbies) — много полезной информации по химии пластиков, смол и жидкостей (англ.) (Дата обращения: 27.11.2024)
-- [BrushstrokePaintingGuides](https://www.youtube.com/@BrushstrokePaintingGuides) — глубокие инструкции по базовым темам (англ.) (Дата обращения: 23.07.2025)
-- [Squidly Bits](https://www.youtube.com/@squidlybits1985) — короткие инструкции и критика работ (англ.) (Дата обращения: 27.07.2025)
-- [Trovarion Miniatures](https://www.youtube.com/@trovarion) — инструкции от победителя конкурсов покраски (англ.) (Дата обращения: 27.07.2025)
-- [EonsOfBattle](https://www.youtube.com/@EonsOfBattle) — инструкции для баз и разные видео по продукции Games Workshop (англ.) (Дата обращения: 01.08.2025)
-- [Cult of Paint](https://www.youtube.com/@cultofpaint) — инструкции для отдельных деталей и полный покрас миниатюр (англ.) (Дата обращения: 02.08.2025)
-- [Ph3lan's Miniatures](https://www.youtube.com/@ph3lansminiatures) — инструкции для отдельных деталей и полный покрас миниатюр (англ.) (Дата обращения: 03.08.2025)
-- [Darcy Bono Creations](https://www.youtube.com/@DarcyBonoCreations) — инструкции для отдельных деталей и полный покрас миниатюр (англ.) (Дата обращения: 04.08.2025)
-- [Tabletop WitchCRAFT](https://www.youtube.com/@TabletopWitchCRAFT) — инструкции для террейна НРИ (англ.) (Дата обращения: 16.09.2025)
+- [VinceVenturella](https://www.youtube.com/@VinceVenturella) (англ.) (Дата обращения: 06.04.2024)
+- [Miniac](https://www.youtube.com/@Miniac) (англ.) (Дата обращения: 18.05.2024)
+- [Zumikito](https://www.youtube.com/@Zumikito) (англ.) (Дата обращения: 18.05.2024)
+- [ArtisOpus](https://www.youtube.com/@ArtisOpus) (англ.) (Дата обращения: 18.05.2024)
+- [MattsHobbyHour](https://www.youtube.com/@MattsHobbyHour) (англ.) (Дата обращения: 04.11.2024)
+- [MarcoFrisoniNJM](https://www.youtube.com/@MarcoFrisoniNJM) (англ.) (Дата обращения: 04.11.2024)
+- [GoobertownHobbies](https://www.youtube.com/@GoobertownHobbies) (англ.) (Дата обращения: 27.11.2024)
+- [BrushstrokePaintingGuides](https://www.youtube.com/@BrushstrokePaintingGuides) (англ.) (Дата обращения: 23.07.2025)
+- [Squidly Bits](https://www.youtube.com/@squidlybits1985) (англ.) (Дата обращения: 27.07.2025)
+- [Trovarion Miniatures](https://www.youtube.com/@trovarion) (англ.) (Дата обращения: 27.07.2025)
+- [EonsOfBattle](https://www.youtube.com/@EonsOfBattle) (англ.) (Дата обращения: 01.08.2025)
+- [Cult of Paint](https://www.youtube.com/@cultofpaint) (англ.) (Дата обращения: 02.08.2025)
+- [Ph3lan's Miniatures](https://www.youtube.com/@ph3lansminiatures) (англ.) (Дата обращения: 03.08.2025)
+- [Darcy Bono Creations](https://www.youtube.com/@DarcyBonoCreations) (англ.) (Дата обращения: 04.08.2025)
+- [Tabletop WitchCRAFT](https://www.youtube.com/@TabletopWitchCRAFT) (англ.) (Дата обращения: 16.09.2025)
+- [No Fixed Course](https://www.youtube.com/@nofixedcourse) (англ.) (Дата обращения: 27.09.2025)
+- [Cat or Rabbit Scale Model Studio](https://www.youtube.com/@cat_or_rabbit) (англ.) (Дата обращения: 27.09.2025)
 
 ## Reddit
 
