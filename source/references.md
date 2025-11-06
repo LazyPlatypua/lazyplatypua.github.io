@@ -21,6 +21,7 @@
 - [Tabletop WitchCRAFT](https://www.youtube.com/@TabletopWitchCRAFT) (англ.) (Дата обращения: 16.09.2025)
 - [No Fixed Course](https://www.youtube.com/@nofixedcourse) (англ.) (Дата обращения: 27.09.2025)
 - [Cat or Rabbit Scale Model Studio](https://www.youtube.com/@cat_or_rabbit) (англ.) (Дата обращения: 27.09.2025)
+- [The State of Play](https://www.youtube.com/@thestateofplay2023) (англ.) (Дата обращения: 06.11.2025)
 
 ## Reddit
 
