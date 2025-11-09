@@ -1,7 +1,0 @@
-name: Лепка и скульптура
-href: index.yaml
-items:
-  - name: Работающий факел
-    href: torch.md
-  - name: Шерсть
-    href: fur.md

@@ -1,1 +1,293 @@
-[2025-09-27 13:39:21] Начало выполнения команды: yfm -i source -o miniature-painting
+[2025-11-09 10:30:47] Начало выполнения команды: yfm -i source -o miniature-painting
+[2025-11-09 10:31:06] Команда выполнена успешно!
+Вывод:
+Using v5.3.2 version
+PROC toc.yaml
+PROC methods/toc.yaml
+PROC hair/toc.yaml
+PROC skin/toc.yaml
+PROC body-parts/toc.yaml
+PROC fur/toc.yaml
+PROC armor/toc.yaml
+PROC leather/toc.yaml
+PROC scenery/toc.yaml
+PROC metals/toc.yaml
+PROC cloth/toc.yaml
+PROC bases/toc.yaml
+PROC sculpting/toc.yaml
+PROC drawings/toc.yaml
+PROC factions/toc.yaml
+PROC effects/toc.yaml
+PROC index.yaml
+PROC how-to-start.md
+PROC prepare.md
+PROC inventory.md
+PROC methods/airbrush.md
+PROC methods/wet-blending.md
+PROC methods/highlighting.md
+PROC methods/edge-highlighting.md
+PROC methods/grisaille.md
+PROC methods/decals.md
+PROC methods/shading.md
+PROC methods/zenithal-highlighting.md
+PROC methods/contrast.md
+PROC methods/glazing.md
+PROC methods/layering.md
+PROC methods/tmm.md
+PROC methods/nmm.md
+PROC methods/value-sketch.md
+PROC methods/colors.md
+PROC methods/cheat.md
+PROC methods/army-painting.md
+PROC methods/thinning.md
+PROC methods/feathering.md
+PROC methods/drybrush.md
+PROC methods/stippling.md
+PROC methods/weathering.md
+PROC methods/photos.md
+PROC methods/citadel-style.md
+PROC negative.md
+PROC hair/white.md
+PROC hair/turquoise.md
+PROC hair/brown.md
+PROC hair/red.md
+PROC hair/pink.md
+PROC hair/blonde.md
+PROC hair/black.md
+PROC skin/pale.md
+PROC skin/burgundy.md
+PROC skin/yellow.md
+PROC skin/tan.md
+PROC skin/green.md
+PROC skin/red.md
+PROC skin/orange.md
+PROC skin/underpainting.md
+PROC skin/irritated.md
+PROC skin/pink.md
+PROC skin/light.md
+PROC skin/grey.md
+PROC skin/blue.md
+PROC skin/dark.md
+PROC skin/violet.md
+PROC skin/scales.md
+PROC body-parts/eyes.md
+PROC body-parts/bone.md
+PROC body-parts/wings.md
+PROC body-parts/face.md
+PROC body-parts/mouth.md
+PROC fur/white.md
+PROC fur/brown.md
+PROC fur/black.md
+PROC armor/white.md
+PROC armor/turquoise.md
+PROC armor/yellow.md
+PROC armor/green.md
+PROC armor/brown.md
+PROC armor/orange.md
+PROC armor/pink.md
+PROC armor/grey.md
+PROC armor/blue.md
+PROC armor/purple.md
+PROC armor/black.md
+PROC leather/brown.md
+PROC leather/red.md
+PROC scenery/concrete.md
+PROC scenery/rock.md
+PROC scenery/ash.md
+PROC scenery/grass.md
+PROC metals/bronze.md
+PROC metals/iron.md
+PROC metals/gold.md
+PROC metals/brass.md
+PROC metals/copper.md
+PROC metals/silver.md
+PROC metals/colored.md
+PROC cloth/beige.md
+PROC cloth/white.md
+PROC cloth/turquoise.md
+PROC cloth/green.md
+PROC cloth/yellow.md
+PROC cloth/brown.md
+PROC cloth/red.md
+PROC cloth/orange.md
+PROC cloth/sailcloth.md
+PROC cloth/grey.md
+PROC cloth/blue.md
+PROC cloth/purple.md
+PROC cloth/black.md
+PROC bases/swamp.md
+PROC bases/water.md
+PROC bases/city.md
+PROC bases/wood.md
+PROC bases/jungle.md
+PROC bases/lava.md
+PROC bases/forest.md
+PROC bases/mars.md
+PROC bases/marble.md
+PROC bases/battlefield.md
+PROC bases/alien.md
+PROC bases/wastes.md
+PROC bases/desert.md
+PROC bases/rocks.md
+PROC bases/ooze.md
+PROC bases/snow.md
+PROC sculpting/torch.md
+PROC sculpting/fur.md
+PROC drawings/banners.md
+PROC drawings/camo.md
+PROC drawings/hazard-stripes.md
+PROC drawings/tattoo.md
+PROC drawings/skull.md
+PROC drawings/checkers.md
+PROC factions/spacemarines.md
+PROC factions/leagues-of-votann.md
+PROC factions/nurgle.md
+PROC factions/sister.md
+PROC factions/skaven.md
+PROC effects/smoke.md
+PROC effects/blood.md
+PROC effects/flames.md
+PROC effects/glow.md
+PROC effects/power-weapons.md
+PROC effects/glass.md
+PROC effects/poison.md
+PROC contacts.md
+PROC references.md
+INFO Processing finished: methods/wet-blending.md
+INFO Processing finished: how-to-start.md
+INFO Processing finished: index.yaml
+INFO Processing finished: methods/airbrush.md
+INFO Processing finished: methods/highlighting.md
+INFO Processing finished: inventory.md
+INFO Processing finished: methods/grisaille.md
+INFO Processing finished: methods/decals.md
+INFO Processing finished: methods/edge-highlighting.md
+INFO Processing finished: methods/shading.md
+INFO Processing finished: methods/zenithal-highlighting.md
+INFO Processing finished: methods/contrast.md
+INFO Processing finished: methods/glazing.md
+INFO Processing finished: methods/tmm.md
+INFO Processing finished: methods/layering.md
+INFO Processing finished: methods/value-sketch.md
+INFO Processing finished: methods/colors.md
+INFO Processing finished: methods/cheat.md
+INFO Processing finished: methods/army-painting.md
+INFO Processing finished: methods/thinning.md
+INFO Processing finished: methods/feathering.md
+INFO Processing finished: methods/nmm.md
+INFO Processing finished: methods/weathering.md
+INFO Processing finished: hair/white.md
+INFO Processing finished: methods/drybrush.md
+INFO Processing finished: methods/photos.md
+INFO Processing finished: hair/turquoise.md
+INFO Processing finished: methods/citadel-style.md
+INFO Processing finished: methods/stippling.md
+INFO Processing finished: negative.md
+INFO Processing finished: hair/brown.md
+INFO Processing finished: hair/pink.md
+INFO Processing finished: hair/black.md
+INFO Processing finished: skin/pale.md
+INFO Processing finished: hair/blonde.md
+INFO Processing finished: hair/red.md
+INFO Processing finished: skin/burgundy.md
+INFO Processing finished: skin/yellow.md
+INFO Processing finished: skin/tan.md
+INFO Processing finished: skin/green.md
+INFO Processing finished: skin/orange.md
+INFO Processing finished: skin/red.md
+INFO Processing finished: skin/irritated.md
+INFO Processing finished: skin/underpainting.md
+INFO Processing finished: skin/light.md
+INFO Processing finished: skin/pink.md
+INFO Processing finished: skin/grey.md
+INFO Processing finished: skin/blue.md
+INFO Processing finished: skin/violet.md
+INFO Processing finished: skin/dark.md
+INFO Processing finished: skin/scales.md
+INFO Processing finished: body-parts/eyes.md
+INFO Processing finished: body-parts/bone.md
+INFO Processing finished: fur/white.md
+INFO Processing finished: body-parts/face.md
+INFO Processing finished: body-parts/wings.md
+INFO Processing finished: body-parts/mouth.md
+INFO Processing finished: fur/brown.md
+INFO Processing finished: armor/white.md
+INFO Processing finished: fur/black.md
+INFO Processing finished: armor/turquoise.md
+INFO Processing finished: armor/yellow.md
+INFO Processing finished: armor/green.md
+INFO Processing finished: armor/pink.md
+INFO Processing finished: armor/brown.md
+INFO Processing finished: armor/orange.md
+INFO Processing finished: armor/grey.md
+INFO Processing finished: armor/blue.md
+INFO Processing finished: leather/brown.md
+INFO Processing finished: leather/red.md
+INFO Processing finished: armor/purple.md
+INFO Processing finished: armor/black.md
+INFO Processing finished: scenery/ash.md
+INFO Processing finished: scenery/rock.md
+INFO Processing finished: scenery/concrete.md
+INFO Processing finished: metals/bronze.md
+INFO Processing finished: scenery/grass.md
+INFO Processing finished: metals/iron.md
+INFO Processing finished: metals/brass.md
+INFO Processing finished: metals/gold.md
+INFO Processing finished: cloth/white.md
+INFO Processing finished: metals/copper.md
+INFO Processing finished: metals/colored.md
+INFO Processing finished: cloth/beige.md
+INFO Processing finished: metals/silver.md
+INFO Processing finished: cloth/turquoise.md
+INFO Processing finished: cloth/yellow.md
+INFO Processing finished: cloth/green.md
+INFO Processing finished: cloth/red.md
+INFO Processing finished: cloth/sailcloth.md
+INFO Processing finished: cloth/brown.md
+INFO Processing finished: cloth/orange.md
+INFO Processing finished: cloth/grey.md
+INFO Processing finished: cloth/blue.md
+INFO Processing finished: cloth/purple.md
+INFO Processing finished: bases/swamp.md
+INFO Processing finished: bases/water.md
+INFO Processing finished: cloth/black.md
+INFO Processing finished: bases/jungle.md
+INFO Processing finished: bases/forest.md
+INFO Processing finished: bases/wood.md
+INFO Processing finished: bases/city.md
+INFO Processing finished: bases/lava.md
+INFO Processing finished: bases/mars.md
+INFO Processing finished: bases/battlefield.md
+INFO Processing finished: bases/marble.md
+INFO Processing finished: bases/wastes.md
+INFO Processing finished: bases/desert.md
+INFO Processing finished: sculpting/fur.md
+INFO Processing finished: bases/alien.md
+INFO Processing finished: sculpting/torch.md
+INFO Processing finished: bases/rocks.md
+INFO Processing finished: bases/snow.md
+INFO Processing finished: bases/ooze.md
+INFO Processing finished: drawings/banners.md
+INFO Processing finished: drawings/camo.md
+INFO Processing finished: drawings/tattoo.md
+INFO Processing finished: drawings/hazard-stripes.md
+INFO Processing finished: drawings/checkers.md
+INFO Processing finished: factions/leagues-of-votann.md
+INFO Processing finished: drawings/skull.md
+INFO Processing finished: factions/spacemarines.md
+INFO Processing finished: factions/nurgle.md
+INFO Processing finished: factions/skaven.md
+INFO Processing finished: factions/sister.md
+INFO Processing finished: effects/smoke.md
+INFO Processing finished: effects/blood.md
+INFO Processing finished: effects/flames.md
+INFO Processing finished: effects/glow.md
+INFO Processing finished: effects/glass.md
+INFO Processing finished: effects/power-weapons.md
+INFO Processing finished: references.md
+INFO Processing finished: effects/poison.md
+INFO Processing finished: contacts.md
+INFO Processing finished: prepare.md
+Build time: 17.323s
+
+[2025-11-09 10:31:06] Завершение работы

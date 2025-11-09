@@ -1,6 +1,0 @@
-# Лиги Вотаннов
-
-## Urani surtr regulates
-
-![leagues-of-votann-urani-surtr-regulates-part-1](../_images/mengel-miniatures/leagues-of-votann-urani-surtr-regulates-part-1.png "Источник: Mengel Miniatures" =650x)
-![leagues-of-votann-urani-surtr-regulates-part-2](../_images/mengel-miniatures/leagues-of-votann-urani-surtr-regulates-part-2.png "Источник: Mengel Miniatures" =650x)
